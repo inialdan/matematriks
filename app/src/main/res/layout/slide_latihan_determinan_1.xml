@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_grey_dark">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textAlignment="center"
+            android:background="?android:attr/selectableItemBackground"
+            android:orientation="horizontal"
+            android:padding="10sp">
+
+            <TextView
+                android:id="@+id/OpenKurung"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/lblMatriks"
+                android:text="["
+                android:textColor="#000000"
+                android:textSize="75sp" />
+
+            <TextView
+                android:id="@+id/CloseKurung"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/lblMatriks"
+                android:layout_toEndOf="@+id/valueM12"
+                android:layout_marginLeft="10dp"
+                android:text="]"
+                android:textColor="#000000"
+                android:textSize="75sp" />
+
+            <TextView
+                android:id="@+id/valueM11"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_alignStart="@+id/valueM21"
+                android:layout_below="@+id/lblMatriks"
+                android:layout_marginTop="34dp"
+                android:text="a"
+                android:textColor="#FFFFFF"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/valueM12"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_alignBaseline="@+id/valueM11"
+                android:layout_alignBottom="@+id/valueM11"
+                android:layout_marginLeft="10dp"
+                android:layout_toEndOf="@+id/valueM11"
+                android:text="b"
+                android:textColor="#FFFFFF"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/valueM21"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_below="@+id/valueM11"
+                android:layout_toEndOf="@+id/OpenKurung"
+                android:layout_marginLeft="10dp"
+                android:text="c"
+                android:textColor="#FFFFFF"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/valueM22"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_alignBaseline="@+id/valueM21"
+                android:layout_alignBottom="@+id/valueM21"
+                android:layout_marginLeft="10dp"
+                android:layout_toEndOf="@+id/valueM21"
+                android:text="d"
+                android:textColor="#FFFFFF"
+                android:textSize="15sp" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Berapa Determinannya ?"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/slide_title"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/Answer"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="@dimen/desc_padding"
+            android:paddingRight="@dimen/desc_padding"
+            android:hint="Answer"
+            android:textAlignment="center"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/slide_desc"
+            android:background="@drawable/bg_form_request"
+            android:textColorHint="@color/color_grey_dark" />
+
+        <Button
+            android:id="@+id/btnAnswer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bg_form_button_submit"
+            android:text="Answer"
+            android:textColor="@color/white"/>
+
+    </LinearLayout>
+</RelativeLayout>

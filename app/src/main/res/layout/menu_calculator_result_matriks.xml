@@ -1,0 +1,218 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:visibility="visible">
+
+    <android.support.v7.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        card_view:cardElevation="2dp"
+        card_view:cardUseCompatPadding="true">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackground"
+            android:orientation="horizontal"
+            android:padding="10sp">
+
+            <TextView
+                android:id="@+id/lblMatriks"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:text="Matriks"
+                android:textColor="#040404"
+                android:textSize="21sp"
+                android:textStyle="bold"
+                android:typeface="sans" />
+
+            <TextView
+                android:id="@+id/lblTranspos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignStart="@+id/OpenKurungT"
+                android:layout_alignTop="@+id/Result_Matriks"
+                android:text="Transpos"
+                android:layout_marginLeft="5dp"
+                android:textColor="#040404"
+                android:textSize="21sp"
+                android:textStyle="bold"
+                android:typeface="sans" />
+
+            <TextView
+                android:id="@+id/OpenKurung"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/lblMatriks"
+                android:text="["
+                android:textColor="#343434"
+                android:textSize="75sp" />
+
+            <TextView
+                android:id="@+id/CloseKurung"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/lblMatriks"
+                android:layout_marginLeft="10dp"
+                android:layout_toEndOf="@+id/tRealM12"
+                android:text="]"
+                android:textColor="#343434"
+                android:textSize="75sp" />
+
+            <TextView
+                android:id="@+id/tRealM11"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_alignStart="@+id/tRealM21"
+                android:layout_alignTop="@+id/OpenKurung"
+                android:layout_marginTop="33dp"
+                android:text="M11"
+                android:textColor="#343434"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tRealM12"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_alignBaseline="@+id/tRealM11"
+                android:layout_alignBottom="@+id/tRealM11"
+                android:layout_marginLeft="20dp"
+                android:layout_toEndOf="@+id/tRealM11"
+                android:text="M12"
+                android:textColor="#343434"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tRealM21"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_below="@+id/tRealM11"
+                android:layout_marginLeft="10dp"
+                android:layout_toEndOf="@+id/OpenKurung"
+                android:text="M21"
+                android:textColor="#343434"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tRealM22"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_alignStart="@+id/tRealM12"
+                android:layout_below="@+id/tRealM12"
+                android:text="M22"
+                android:textColor="#343434"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/OpenKurungT"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/Description"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="5dp"
+                android:text="["
+                android:textColor="#343434"
+                android:textSize="75sp" />
+
+            <TextView
+                android:id="@+id/CloseKurungT"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/lblMatriks"
+                android:layout_marginLeft="10dp"
+                android:layout_toEndOf="@+id/tRealM12T"
+                android:text="]"
+                android:textColor="#343434"
+                android:textSize="75sp" />
+
+            <TextView
+                android:id="@+id/tRealM11T"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_alignStart="@+id/tRealM21T"
+                android:layout_alignTop="@+id/OpenKurungT"
+                android:layout_marginTop="33dp"
+                android:text="M11"
+                android:textColor="#343434"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tRealM12T"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_alignBaseline="@+id/tRealM11T"
+                android:layout_alignBottom="@+id/tRealM11T"
+                android:layout_marginLeft="20dp"
+                android:layout_toEndOf="@+id/tRealM11T"
+                android:text="M12"
+                android:textColor="#343434"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tRealM21T"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_below="@+id/tRealM11T"
+                android:layout_marginLeft="10dp"
+                android:layout_toEndOf="@+id/OpenKurungT"
+                android:text="M21"
+                android:textColor="#343434"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tRealM22T"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_alignStart="@+id/tRealM12T"
+                android:layout_below="@+id/tRealM12T"
+                android:text="M22"
+                android:textColor="#343434"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/Description"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/OpenKurung"
+                android:layout_marginTop="20dp"
+                android:text="@string/description_matriks_1"
+                android:textColor="#343434"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/Result_Matriks"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignTop="@id/lblMatriks"
+                android:gravity="right"
+                android:text="Hasil Matriksnya"
+                android:textSize="10sp"
+                android:textStyle="bold"
+                android:visibility="invisible" />
+
+            <TextView
+                android:id="@+id/Baskom"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignTop="@id/tRealM22"
+                android:layout_marginTop="-5dp"
+                android:gravity="right"
+                android:text="Baris Kolom"
+                android:textColor="@color/color_grey"
+                android:textSize="12sp"
+                android:visibility="invisible" />
+
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</FrameLayout>

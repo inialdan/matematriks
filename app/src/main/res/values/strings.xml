@@ -1,0 +1,164 @@
+<!--
+
+/*
+ * Copyright 2017.  Aldan Rizki Santosa
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+-->
+
+<resources>
+    <string name="app_name">MATEMATRIKS</string>
+    <string name="title_shop">Shop</string>
+    <string name="title_gifts">Gifts</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="app_name_subtitle">Belajar jadi lebih mudah</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">Selanjutnya</string>
+    <string name="skip">Lewati</string>
+    <string name="start">Mengerti!</string>
+
+    <string name="kalkulator">Kalkulator</string>
+    <string name="belajar">Belajar</string>
+    <string name="latihan">Latihan</string>
+
+    <string name="description_menu_belajar_header">
+        Matriks dalam matematika merupakan kumpulan bilangan, simbol atau ekspresi berbentuk persegi panjang yang disusun menurut baris dan kolom. Bilangan-bilangan yang terdapat pada suatu matriks disebut dengan elemen atau disebut juga anggota dari suatu matriks.\n
+    </string>
+
+    <string name="slide_1_title">MATEMATRIKS</string>
+    <string name="slide_1_desc">Aplikasi pembelajaran Matematika materi Matriks yang dikemas dalam versi Android Mobile!</string>
+
+    <string name="slide_2_title">Tanpa Buku</string>
+    <string name="slide_2_desc">Aplikasi ini dapat menggantikan isi yang ada di tas yang seharusnya Buku menjadi Smartphone!</string>
+
+    <string name="slide_3_title">Materi yang terpisah</string>
+    <string name="slide_3_desc">Matriks dan memisahkan materi - materi yang Anda anggap susah untuk kemampuan Anda!</string>
+
+    <string name="slide_4_title">Kemampuan Anda</string>
+    <string name="slide_4_desc">Aplikasi ini mampu memantau perkembangan kemampuan Anda ketika anda melakukan test</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+
+    <string name="play_again">Play Again</string>
+    <string name="matematriks">MATEMATRIKS</string>
+    <string name="ordo_2x2">ORDO 2x2</string>
+    <string name="b11">B11</string>
+    <string name="b12">B12</string>
+    <string name="canceled">CANCELED</string>
+    <string name="ordo_2_x_2">ORDO 2 x 2</string>
+
+    <string name="description_matriks_1">
+        Fyi :\n\nMatriks adalah sekumpulan bilangan yang disusun secara baris dan kolom dan ditempatkan pada kurung biasa atau kurung siku. Ordo suatu matriks adalah bilangan yang menunjukkan banyaknya baris (m) dan banyaknya kolom (n).
+    </string>
+    <string name="description_determinan_1">
+        Fyi :\n\n
+        - Determinan adalah suatu bilangan real yang diperoleh dari suatu proses dengan aturan tertentu terhadap matriks persegi. \n\n
+        - Determinan dinyatakan sebagai jumlah semua hasil kali dasar bertanda dari matriks bujur sangkar A. \n\n
+        - Determinan dari sebuah matriks bujur sangkar A, dinotasikan dengan det(A), atau |A|
+    </string>
+    <string name="description_minor_1">
+        Fyi :\n\n- Minor biasanya dilambangkan dengan Mab , dengan "M" adalah minor "a", adalah baris, dan "b" adalah kolom.\n\nMaka minor adalah suatu elemen yang yang didefinisikan sebagai determinan submatrik yang tinggal setelah baris ke-a dan setelah kolom ke-b
+    </string>
+    <string name="proses">PROSES</string>
+
+    <!-- TEXT BELAJAR MATRIKS -->
+    <string name="slide_belajar_matriks_1_title">MATRIKS ?</string>
+    <string name="slide_belajar_matriks_1_desc">
+        Matriks adalah susunan sekelompok bilangan dalam suatu jajaran berbentuk persegi panjang yang diatur berdasarkan baris dan kolom dan diletakkan antara dua tanda kurung.
+    </string>
+    <string name="slide_belajar_matriks_2_title">Tanda MATRIKS</string>
+    <string name="slide_belajar_matriks_2_desc">
+        Tanda kurung yang digunakan untuk mengapit susunan anggota matriks tersebut dapat berupa tanda kurung biasa atau tanda kurung siku. Setiap bilangan pada matriks disebut elemen (unsur) matriks.
+    </string>
+    <string name="slide_belajar_matriks_3_title">Elemen MATRIKS</string>
+    <string name="slide_belajar_matriks_3_desc">
+        Kumpulan elemen yang tersusun secara horizontal disebut baris, sedangkan kumpulan elemen yang tersusun secara vertikal disebut kolom. Suatu matriks yang memiliki m baris dan n kolom disebut matriks m x n dan disebut sebagai matriks yang memiliki orde m x n. Penulisan matriks menggunakan huruf kapital dan tebal.
+    </string>
+    <string name="slide_belajar_matriks_4_title">Jenis MATRIKS ?</string>
+    <string name="slide_belajar_matriks_4_desc">
+        Matriks terbagi menjadi beberapa jenis, yaitu matriks persegi, matriks kolom, matriks baris, matriks transpos, matriks diagonal, matriks segitiga atas dan bawah, matriks nol, matriks simetri, dan matriks identitas.
+    </string>
+    <string name="slide_belajar_matriks_5_title">Matriks Persegi</string>
+    <string name="slide_belajar_matriks_5_desc">
+        Matriks persegi adalah matriks yang mempunyai banyak baris dan banyak kolom yang sama. Secara umum, matriks persegi berordo n x n.
+    </string>
+    <string name="slide_belajar_matriks_6_title">Matriks Kolom</string>
+    <string name="slide_belajar_matriks_6_desc">
+        Matriks kolom adalah matriks yang hanya mempunyai satu kolom. Secara umum, matriks kolom berordo m x 1.
+    </string>
+    <string name="slide_belajar_matriks_7_title">Matriks Baris</string>
+    <string name="slide_belajar_matriks_7_desc">
+        Matriks baris adalah matriks yang hanya mempunyai satu baris. Secara umum, matriks baris berordo 1 x n.
+    </string>
+    <string name="slide_belajar_matriks_8_title">Matriks Transpos</string>
+    <string name="slide_belajar_matriks_8_desc">
+        Matriks transpos Am x n yang selanjutnya dinotasikan dengan A’ adalah matriks berordo n x m dengan baris-barisnya adalah kolom-kolom matriks Am x n.
+    </string>
+
+    <!-- TEXT BELAJAR DETERMINAN -->
+    <string name="slide_belajar_determinan_1_title">DETERMINAN MATRIKS ?</string>
+    <string name="slide_belajar_determinan_1_desc">
+        Determinan adalah suatu fungsi tertentu yang menghubungkan suatu bilangan real dengan suatu matriks bujursangkar.
+    </string>
+    <string name="slide_belajar_determinan_2_title">Contoh, matriks A 2x2</string>
+    <string name="slide_belajar_determinan_2_desc">
+        tentukan determinan A untuk mencari determinan matrik A maka,\n
+        detA = ad - bc
+    </string>
+
+    <!-- TEXT BELAJAR MINOR -->
+    <string name="slide_belajar_minor_1_title">MINOR MATRIKS ?</string>
+    <string name="slide_belajar_minor_1_desc">
+        Minor biasanya dilambangkan dengan mab , dengan "m" adalah monor "a", adalah baris, dan "b" adalah kolom.\n
+        Maka minor adalah suatu elemen yang yang didefinisikan sebagai determinan submatrik yang tinggal stelah baris ke-a dan setelah kolom ke-b
+    </string>
+    <string name="slide_belajar_minor_2_title">Tentukan Minor</string>
+    <string name="slide_belajar_minor_2_desc">
+        Jawab :\n
+        m11 = 4 | m12 = 2\n
+        m21 = 3 | m22 = 1
+    </string>
+
+    <string name="text_menu_belajar_minor">
+        - Belajar Minor adalah aplikasi untuk belajar Minor.
+    </string>
+
+    <string name="icon_text_belajar_none">
+        Belajar bab belum dikerjakan, silahkan mempelajari bab ini.
+    </string>
+
+    <string name="icon_text_belajar_alert">
+        Belajar bab sudah dikerjakan dengan nilai kurang dari 6 (enam), silahkan mempelajari kembali bab bertanda ini.
+    </string>
+
+    <string name="icon_text_belajar_checked">
+        Belajar bab sudah dikerjakan dengan selesai, Anda bisa mengulang belajar bab ini.
+    </string>
+
+    <string name="icon_text_latihan_none">
+        Latihan bab belum dikerjakan, silahkan mempelajari bab ini.
+    </string>
+
+    <string name="icon_text_latihan_alert">
+        Latihan bab sudah dikerjakan dengan nilai kurang dari 6 (enam), silahkan mempelajari kembali bab bertanda ini.
+    </string>
+
+    <string name="icon_text_latihan_checked">
+        Latihan bab sudah dikerjakan dengan selesai, Anda bisa mengulang belajar bab ini.
+    </string>
+
+</resources>
