@@ -20,6 +20,7 @@
 
 <resources>
     <string name="app_name">MATEMATRIKS</string>
+    <string name="hi_developer">Hi Dan!</string>
     <string name="title_shop">Shop</string>
     <string name="title_gifts">Gifts</string>
     <string name="title_cart">Cart</string>
@@ -88,25 +89,104 @@
     <string name="slide_belajar_matriks_3_desc">
         Kumpulan elemen yang tersusun secara horizontal disebut baris, sedangkan kumpulan elemen yang tersusun secara vertikal disebut kolom. Suatu matriks yang memiliki m baris dan n kolom disebut matriks m x n dan disebut sebagai matriks yang memiliki orde m x n. Penulisan matriks menggunakan huruf kapital dan tebal.
     </string>
-    <string name="slide_belajar_matriks_4_title">Jenis MATRIKS ?</string>
-    <string name="slide_belajar_matriks_4_desc">
+
+    <!-- TEXT BELAJAR JENIS MATRIKS -->
+    <string name="slide_belajar_jenis_matriks_1_title">Jenis MATRIKS ?</string>
+    <string name="slide_belajar_jenis_matriks_1_desc">
         Matriks terbagi menjadi beberapa jenis, yaitu matriks persegi, matriks kolom, matriks baris, matriks transpos, matriks diagonal, matriks segitiga atas dan bawah, matriks nol, matriks simetri, dan matriks identitas.
     </string>
-    <string name="slide_belajar_matriks_5_title">Matriks Persegi</string>
-    <string name="slide_belajar_matriks_5_desc">
+    <string name="slide_belajar_jenis_matriks_2_title">Matriks Persegi</string>
+    <string name="slide_belajar_jenis_matriks_2_desc">
         Matriks persegi adalah matriks yang mempunyai banyak baris dan banyak kolom yang sama. Secara umum, matriks persegi berordo n x n.
     </string>
-    <string name="slide_belajar_matriks_6_title">Matriks Kolom</string>
-    <string name="slide_belajar_matriks_6_desc">
+    <string name="slide_belajar_jenis_matriks_3_title">Matriks Kolom</string>
+    <string name="slide_belajar_jenis_matriks_3_desc">
         Matriks kolom adalah matriks yang hanya mempunyai satu kolom. Secara umum, matriks kolom berordo m x 1.
     </string>
-    <string name="slide_belajar_matriks_7_title">Matriks Baris</string>
-    <string name="slide_belajar_matriks_7_desc">
+    <string name="slide_belajar_jenis_matriks_4_title">Matriks Baris</string>
+    <string name="slide_belajar_jenis_matriks_4_desc">
         Matriks baris adalah matriks yang hanya mempunyai satu baris. Secara umum, matriks baris berordo 1 x n.
     </string>
-    <string name="slide_belajar_matriks_8_title">Matriks Transpos</string>
-    <string name="slide_belajar_matriks_8_desc">
+    <string name="slide_belajar_jenis_matriks_5_title">Matriks Transpose</string>
+    <string name="slide_belajar_jenis_matriks_5_desc">
         Matriks transpos Am x n yang selanjutnya dinotasikan dengan A’ adalah matriks berordo n x m dengan baris-barisnya adalah kolom-kolom matriks Am x n.
+    </string>
+
+    <!-- TEXT BELAJAR TRANSPOS -->
+    <string name="slide_belajar_transpos_1_title">Transpose MATRIKS ?</string>
+    <string name="slide_belajar_transpos_1_desc">
+        Transpose Matriks yaitu suatu matriks yang dilakukan pertukaran antara dimensi kolom dan barisnya. Definisi lain dari transpose matriks adalah sebuah matriks yang didapatkan dengan cara memindahkan elemen - elemen pada kolom menjadi elemen baris dan sebaliknya.
+    </string>
+    <string name="slide_belajar_transpos_2_title">Contoh, matriks A</string>
+    <string name="slide_belajar_transpos_2_desc">
+        A dan B adalah Baris\n
+        C dan D adalah Kolom
+    </string>
+    <string name="slide_belajar_transpos_3_title">Maka Transpose A</string>
+    <string name="slide_belajar_transpos_3_desc">
+        A dan B berpindah ruas menjadi Kolom\n
+        dan C dan D berpindah ruas menjadi Baris
+    </string>
+
+    <!-- TEXT BELAJAR KESAMAAN MATRIKS -->
+    <string name="slide_belajar_kesamaan_matriks_1_title">Kesamaan MATRIKS ?</string>
+    <string name="slide_belajar_kesamaan_matriks_1_desc">
+        Dua matriks dikatakan sama jika dua matriks tersebut memiliki ordo yang sama dan elemen-elemen matriks yang bersesuaian sama. Apabila disimbolkan, A = B jika aij = bij untuk setiap i dan j.
+    </string>
+    <string name="slide_belajar_kesamaan_matriks_2_title">Menentukan Apakah Dua Matriks Sama</string>
+    <string name="slide_belajar_kesamaan_matriks_2_desc">
+        Tentukan apakah pernyataan-pernyataan berikut benar, salah, atau kondisional. Jika salah, jelaskan. Jika kondisional, temukan nilai yang membuat pernyataan tersebut benar.
+    </string>
+    <string name="slide_belajar_kesamaan_matriks_3_title">Point A</string>
+    <string name="slide_belajar_kesamaan_matriks_3_desc">
+        Pernyataan pada poin 1 adalah salah. Matriks tersebut memiliki ordo yang sama, yaitu 2 × 2, dan elemen-elemen yang sama, tetapi elemen-elemen yang bersesuaian tidaklah sama. Pilih elemen pada baris pertama dan kolom pertama, yaitu 1 pada matriks di ruas kiri, sedangkan pada matriks ruas kanan elemen tersebut adalah –3.
+    </string>
+    <string name="slide_belajar_kesamaan_matriks_4_title">Point B</string>
+    <string name="slide_belajar_kesamaan_matriks_4_desc">
+        Pernyataan pada poin 2 juga salah, karena ordo dari matriks-matriks tersebut tidaklah sama. Ordo dari matriks di ruas kiri adalah 3 × 2, sedangkan matriks di ruas kanan berordo 2 × 3.
+    </string>
+    <string name="slide_belajar_kesamaan_matriks_5_title">Point C</string>
+    <string name="slide_belajar_kesamaan_matriks_5_desc">
+        Pernyataan pada poin 3 adalah kondisional. Agar pernyataan tersebut bernilai benar, maka a – 2 = 1 (a = 3), 2b = 4 (b = 2), c = –2, dan akan salah jika tidak memenuhi salah satu (atau lebih) dari syarat tersebut.
+    </string>
+
+    <!-- TEXT BELAJAR TRANSPOS -->
+    <string name="slide_belajar_pertambahan_pengurangan_matriks_1_title">Pertambahan &amp; Pengurangan MATRIKS ?</string>
+    <string name="slide_belajar_pertambahan_pengurangan_matriks_1_desc">
+        Penjumlahan atau pengurangan matriks dapat ditentukan dengan mengoperasikan elemen-elemen yang bersesuian dari matriks yang dijumlahkan atau dikurangkan. Hal ini mengakibatkan, matriks-matriks yang dapat dijumlahkan atau dikurangkan adalah matriks-matriks yang memiliki ordo sama, sehingga setiap elemen dari matriks yang satu memiliki elemen yang bersesuaian dengan matriks yang lainnya.
+    </string>
+    <string name="slide_belajar_pertambahan_pengurangan_matriks_2_title">Empty</string>
+    <string name="slide_belajar_pertambahan_pengurangan_matriks_2_desc">
+        Penjumlahan dan Pengurangan Matriks\n
+        Diberikan matriks-matriks A, B, C, dan D yang memiliki ordo sama.\n
+        A + B = C dimana [aij + bij] = [cij],
+        A – B = D dimana [aij – bij] = [dij].
+    </string>
+    <string name="slide_belajar_pertambahan_pengurangan_matriks_3_title">Contoh</string>
+    <string name="slide_belajar_pertambahan_pengurangan_matriks_3_desc">
+        Hitunglah penjumlahan dan pengurangan dari matriks-matriks berikut.\n
+        1. A + C\n
+        2. A + B\n
+        3. C – A\n
+    </string>
+    <string name="slide_belajar_pertambahan_pengurangan_matriks_4_title">Pembahasan Point 1</string>
+    <string name="slide_belajar_pertambahan_pengurangan_matriks_4_desc">
+        1. A + C\n
+        Matriks A dan matriks C memiliki ordo yang sama, yaitu 3 × 2. Sehingga kedua matriks tersebut dapat dilakukan operasi penjumlahan sebagai berikut.
+    </string>
+    <string name="slide_belajar_pertambahan_pengurangan_matriks_5_title">Pembahasan Point 2</string>
+    <string name="slide_belajar_pertambahan_pengurangan_matriks_5_desc">
+        2. A + B\n
+        Karena matriks A dan B tidak memiliki ordo yang sama, maka operasi penjumlahan tidak dapat dilakukan pada kedua matriks tersebut.
+    </string>
+    <string name="slide_belajar_pertambahan_pengurangan_matriks_6_title">Pembahasan Point 3</string>
+    <string name="slide_belajar_pertambahan_pengurangan_matriks_6_desc">
+        3. C – A\n
+        Pengurangan matriks C oleh A dapat dilakukan karena ordo dari kedua matriks tersebut sama. Berikut pengurangan dari kedua matriks tersebut.
+    </string>
+    <string name="slide_belajar_pertambahan_pengurangan_matriks_7_title">Kesimpulan</string>
+    <string name="slide_belajar_pertambahan_pengurangan_matriks_7_desc">
+        Karena penjumlahan dari matriks didefinisikan sebagai penjumlahan dari elemen-elemen yang bersesuaian, maka sifat-sifat dari penjumlahan bilangan real berlaku pada penjumlahan matriks.
     </string>
 
     <!-- TEXT BELAJAR DETERMINAN -->
@@ -116,7 +196,7 @@
     </string>
     <string name="slide_belajar_determinan_2_title">Contoh, matriks A 2x2</string>
     <string name="slide_belajar_determinan_2_desc">
-        tentukan determinan A untuk mencari determinan matrik A maka,\n
+        tentukan determinan A untuk mencari determinan matriks A maka,\n
         detA = ad - bc
     </string>
 
@@ -133,32 +213,76 @@
         m21 = 3 | m22 = 1
     </string>
 
-    <string name="text_menu_belajar_minor">
-        - Belajar Minor adalah aplikasi untuk belajar Minor.
+    <string name="TandaMatriks">[   ]</string>
+
+    <!-- TEXT MENU MODUL BELAJAR -->
+    <string name="belajar_matrik_text_menu">
+        Apa itu Matriks ?
+    </string>
+    <string name="belajar_matrik_text_description">
+        Pengenalan dasar mengenai Matriks, lalu tanda kurung yang mengapit matriks dan Elemen Matriks
+    </string>
+    <string name="belajar_jenis_matrik_text_menu">
+        Jenis - jenis Matriks
+    </string>
+    <string name="belajar_jenis_matrik_text_description">
+        Mengenal jenis - jenis matriks seperti matriks persegi, matriks kolom, matriks baris dan matriks transpos
+    </string>
+    <string name="belajar_transpos_text_menu">
+        Transpose pada Matriks
+    </string>
+    <string name="belajar_transpos_text_description">
+        Mengetahui bagaimana cara kerja transpos pada matriks
+    </string>
+    <string name="belajar_kesamaan_matriks_text_menu">
+        Kesamaan Matriks
+    </string>
+    <string name="belajar_kesamaan_matriks_text_description">
+        Untuk memahami penerapaan matriks yang lebih luas, kita perlu untuk mengetahui operasi-operasi dalam matriks, dalam pembahasan ini kita hanya akan membahas kesamaan dari dua matriks.
+    </string>
+    <string name="belajar_pertambahan_pengurangan_matriks_text_menu">
+        Pertambahan &amp; Pengurangan Matriks
+    </string>
+    <string name="belajar_pertambahan_pengurangan_matriks_text_description">
+        Untuk memahami penerapaan matriks yang lebih luas, kita perlu untuk mengetahui operasi-operasi dalam matriks, dalam pembahasan ini kita hanya akan membahas kesamaan dari dua matriks.
+    </string>
+    <string name="belajar_determinan_text_menu">
+        Determinan Matriks
+    </string>
+    <string name="belajar_determinan_text_description">
+        Mengetahui dan mengenal apa itu determinan matriks dan cara untuk menghitungnya
+    </string>
+    <string name="belajar_minor_text_menu">
+        Minor Matriks
+    </string>
+    <string name="belajar_minor_text_description">
+        Mempelajari materi minor matriks untuk menentukan nilai dari baris dan kolom matriks
     </string>
 
+    <!-- TEXT ICON KETERANGAN BELAJAR -->
     <string name="icon_text_belajar_none">
         Belajar bab belum dikerjakan, silahkan mempelajari bab ini.
     </string>
-
     <string name="icon_text_belajar_alert">
         Belajar bab sudah dikerjakan dengan nilai kurang dari 6 (enam), silahkan mempelajari kembali bab bertanda ini.
     </string>
-
     <string name="icon_text_belajar_checked">
         Belajar bab sudah dikerjakan dengan selesai, Anda bisa mengulang belajar bab ini.
     </string>
 
+    <!-- TEXT MENU MODUL LATIHAN -->
     <string name="icon_text_latihan_none">
-        Latihan bab belum dikerjakan, silahkan mempelajari bab ini.
+        Latihan bab belum dikerjakan, silahkan latihan di bab ini.
     </string>
-
     <string name="icon_text_latihan_alert">
-        Latihan bab sudah dikerjakan dengan nilai kurang dari 6 (enam), silahkan mempelajari kembali bab bertanda ini.
+        Latihan bab sudah dikerjakan dengan nilai kurang dari 6 (enam), silahkan latihan kembali pada bab bertanda ini.
     </string>
-
     <string name="icon_text_latihan_checked">
         Latihan bab sudah dikerjakan dengan selesai, Anda bisa mengulang belajar bab ini.
+    </string>
+
+    <string name="lorem">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
     </string>
 
 </resources>

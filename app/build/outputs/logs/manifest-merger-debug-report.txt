@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-89:12
-INJECTED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-89:12
-INJECTED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-89:12
-INJECTED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-89:12
+ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-109:12
+INJECTED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-109:12
+INJECTED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-109:12
+INJECTED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-109:12
 MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\library-1.1.5.aar\7fa141433fca6a0a796c711096f36808\AndroidManifest.xml:2:1-14:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5f4d99558f2f16edbd17369b37be09fa\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\a2d366182e69f16294ddd81855a2a619\AndroidManifest.xml:17:1-28:12
@@ -21,20 +21,20 @@ MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\inialdan\
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d5087a05b74698b6d6a007eb2ae61d49\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\86d04b80abd53c580364a795b1cc6285\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5ee4f2eea203256d0fdc6c6e24960186\AndroidManifest.xml:17:1-30:12
-INJECTED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-89:12
-INJECTED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-89:12
-INJECTED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-89:12
+INJECTED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-109:12
+INJECTED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-109:12
+INJECTED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-109:12
 	package
 		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:23:5-37
 		INJECTED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
-		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-89:12
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-109:12
 		INJECTED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
-		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-89:12
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-109:12
 		INJECTED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:22:5-63
@@ -45,7 +45,7 @@ MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\inialdan\.gradle\caches
 	android:name
 		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:25:22-64
 application
-ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:27:5-87:19
+ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:27:5-107:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5f4d99558f2f16edbd17369b37be09fa\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5f4d99558f2f16edbd17369b37be09fa\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\a2d366182e69f16294ddd81855a2a619\AndroidManifest.xml:22:5-26:19
@@ -120,14 +120,14 @@ ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xm
 		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:49:13-56
 	android:name
 		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:46:13-42
-activity#aldan.apps.matematriks.MainActivity
+activity#aldan.apps.matematriks.Main
 ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:50:9-53:52
 	android:screenOrientation
 		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:53:13-49
 	android:label
 		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:52:13-45
 	android:name
-		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:51:13-41
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:51:13-33
 activity#aldan.apps.matematriks.activity.menu.belajar.belajar_matriks
 ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:54:9-58:59
 	android:screenOrientation
@@ -138,7 +138,7 @@ ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xm
 		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:58:13-56
 	android:name
 		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:55:13-66
-activity#aldan.apps.matematriks.activity.menu.belajar.belajar_determinan
+activity#aldan.apps.matematriks.activity.menu.belajar.belajar_jenis_matriks
 ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:59:9-63:59
 	android:screenOrientation
 		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:62:13-49
@@ -147,8 +147,8 @@ ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xm
 	android:theme
 		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:63:13-56
 	android:name
-		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:60:13-69
-activity#aldan.apps.matematriks.activity.menu.belajar.belajar_minor
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:60:13-72
+activity#aldan.apps.matematriks.activity.menu.belajar.belajar_transpos_matriks
 ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:64:9-68:59
 	android:screenOrientation
 		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:67:13-49
@@ -157,8 +157,8 @@ ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xm
 	android:theme
 		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:68:13-56
 	android:name
-		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:65:13-64
-activity#aldan.apps.matematriks.activity.menu.latihan.latihan_determinan
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:65:13-75
+activity#aldan.apps.matematriks.activity.menu.belajar.belajar_kesamaan_matriks
 ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:69:9-73:59
 	android:screenOrientation
 		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:72:13-49
@@ -167,27 +167,67 @@ ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xm
 	android:theme
 		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:73:13-56
 	android:name
-		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:70:13-69
-activity#aldan.apps.matematriks.QuizTest
-ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:75:9-79:59
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:70:13-75
+activity#aldan.apps.matematriks.activity.menu.belajar.belajar_pertambahan_pengurangan_matriks
+ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:74:9-78:59
 	android:screenOrientation
-		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:78:13-49
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:77:13-49
 	android:noHistory
-		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:77:13-37
-	android:theme
-		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:79:13-56
-	android:name
 		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:76:13-37
-activity#aldan.apps.matematriks.HasilSkor
-ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:81:9-85:59
-	android:screenOrientation
-		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:84:13-49
-	android:noHistory
-		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:83:13-37
 	android:theme
-		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:85:13-56
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:78:13-56
 	android:name
-		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:82:13-38
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:75:13-90
+activity#aldan.apps.matematriks.activity.menu.belajar.belajar_determinan_matriks
+ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:79:9-83:59
+	android:screenOrientation
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:82:13-49
+	android:noHistory
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:81:13-37
+	android:theme
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:83:13-56
+	android:name
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:80:13-77
+activity#aldan.apps.matematriks.activity.menu.belajar.belajar_minor_matriks
+ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:84:9-88:59
+	android:screenOrientation
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:87:13-49
+	android:noHistory
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:86:13-37
+	android:theme
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:88:13-56
+	android:name
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:85:13-72
+activity#aldan.apps.matematriks.activity.menu.latihan.latihan_determinan
+ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:89:9-93:59
+	android:screenOrientation
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:92:13-49
+	android:noHistory
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:91:13-37
+	android:theme
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:93:13-56
+	android:name
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:90:13-69
+activity#aldan.apps.matematriks.QuizMatriks
+ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:95:9-99:59
+	android:screenOrientation
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:98:13-49
+	android:noHistory
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:97:13-37
+	android:theme
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:99:13-56
+	android:name
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:96:13-40
+activity#aldan.apps.matematriks.ScoreResults
+ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:101:9-105:59
+	android:screenOrientation
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:104:13-49
+	android:noHistory
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:103:13-37
+	android:theme
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:105:13-56
+	android:name
+		ADDED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:102:13-41
 uses-sdk
 INJECTED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
@@ -243,7 +283,7 @@ ADDED from [com.daimajia.slider:library:1.1.5] C:\Users\inialdan\.gradle\caches\
 	android:name
 		ADDED from [com.daimajia.slider:library:1.1.5] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\library-1.1.5.aar\7fa141433fca6a0a796c711096f36808\AndroidManifest.xml:12:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-89:12 reason: com.daimajia.slider.library requested WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-109:12 reason: com.daimajia.slider.library requested WRITE_EXTERNAL_STORAGE
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5f4d99558f2f16edbd17369b37be09fa\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\a2d366182e69f16294ddd81855a2a619\AndroidManifest.xml:23:9-25:38

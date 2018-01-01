@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -9,12 +8,73 @@
     android:orientation="vertical">
 
     <LinearLayout
+        android:id="@+id/lineSizeFont"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ukuran huruf :  "
+            android:textColor="@color/white"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:id="@+id/small"
+            android:layout_width="21dp"
+            android:layout_height="wrap_content"
+            android:text="A"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:id="@+id/medium"
+            android:layout_width="21dp"
+            android:layout_height="wrap_content"
+            android:text="A"
+            android:textColor="@color/white"
+            android:textSize="22sp"/>
+
+        <TextView
+            android:id="@+id/large"
+            android:layout_width="21dp"
+            android:layout_height="wrap_content"
+            android:text="A"
+            android:textColor="@color/white"
+            android:textSize="25sp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lineNumberSoal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="10dp"
+        android:layout_alignParentEnd="true">
+
+        <TextView
+            android:id="@+id/tvNumberSoal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1 dari 5"
+            android:textColor="@color/white"
+            android:textSize="16sp"/>
+    </LinearLayout>
+
+    <LinearLayout
         android:id="@+id/lineSkor"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
         android:layout_alignParentTop="true"
-        android:layout_margin="10dp" android:layout_alignParentEnd="true">
+        android:layout_margin="10dp"
+        android:layout_alignParentEnd="true"
+        android:visibility="invisible">
 
         <TextView
             android:layout_width="wrap_content"
@@ -33,23 +93,32 @@
     </LinearLayout>
 
     <LinearLayout
+        android:id="@+id/seperetator"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/white"
+        android:layout_below="@id/lineSizeFont"
+        tools:ignore="Orientation">
+    </LinearLayout>
+
+    <LinearLayout
         android:id="@+id/lineSoal"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:layout_below="@id/lineSkor"
-        android:layout_margin="10dp">
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_below="@id/seperetator">
 
         <TextView
             android:id="@+id/tvSoal"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:background="#fff"
             android:gravity="left"
-            android:text="1. Soal"
-            android:paddingLeft="10dp"
-            android:paddingTop="5dp"
-            android:textSize="18sp" android:paddingStart="10dp" />
+            android:text="@string/lorem"
+            android:textSize="18sp"
+            android:textColor="@color/white" />
     </LinearLayout>
 
     <LinearLayout
@@ -57,7 +126,9 @@
         android:layout_width="match_parent"
         android:layout_height="120dp"
         android:layout_below="@id/lineSoal"
-        android:layout_margin="10dp">
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
 
         <RadioGroup
             android:id="@+id/rgPilihanJawaban"
@@ -69,7 +140,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="10dp"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:text="Choice 1"
                 android:textSize="18sp"/>
 
@@ -78,7 +149,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="10dp"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:text="Choice 2"
                 android:textSize="18sp"/>
 
@@ -86,7 +157,7 @@
                 android:id="@+id/rbPilihanJawaban3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:text="Choice 3"
                 android:textSize="18sp"/>
 
@@ -103,4 +174,5 @@
         android:layout_gravity="right"
         android:background="@drawable/bg_form_button_answer"
         android:text="Cek Jawaban" />
+
 </RelativeLayout>

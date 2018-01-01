@@ -18,7 +18,7 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import aldan.apps.matematriks.MainActivity;
+import aldan.apps.matematriks.Main;
 import aldan.apps.matematriks.R;
 import aldan.apps.matematriks.session.PrefManager;
 
@@ -70,10 +70,10 @@ public class Introduce extends AppCompatActivity {
         btnNext = findViewById(R.id.btn_next);
 
         layouts = new int[]{
-                R.layout.intro_slide_1,
-                R.layout.intro_slide_2,
-                R.layout.intro_slide_3,
-                R.layout.intro_slide_4};
+                R.layout.slide_intro_1,
+                R.layout.slide_intro_2,
+                R.layout.slide_intro_3,
+                R.layout.slide_intro_4};
 
         addBottomDots(0);
 
@@ -111,12 +111,13 @@ public class Introduce extends AppCompatActivity {
         for (int i = 0; i < dots.length; i++) {
             dots[i] = new TextView(this);
             dots[i].setText(Html.fromHtml("&#8226;"));
-            dots[i].setTextSize(35);
+            dots[i].setTextSize(25);
             dots[i].setTextColor(colorsInactive[currentPage]);
             dotsLayout.addView(dots[i]);
         }
 
         if (dots.length > 0)
+            dots[currentPage].setTextSize(28);
             dots[currentPage].setTextColor(colorsActive[currentPage]);
     }
 
@@ -126,7 +127,7 @@ public class Introduce extends AppCompatActivity {
 
     private void launchHomeScreen() {
         prefManager.setFirstTimeLaunch(false);
-        startActivity(new Intent(Introduce.this, MainActivity.class));
+        startActivity(new Intent(Introduce.this, Main.class));
         finish();
     }
 

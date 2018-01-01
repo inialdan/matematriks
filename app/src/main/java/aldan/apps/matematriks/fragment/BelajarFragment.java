@@ -10,7 +10,6 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.daimajia.slider.library.Animations.DescriptionAnimation;
 import com.daimajia.slider.library.SliderLayout;
@@ -19,15 +18,15 @@ import com.daimajia.slider.library.SliderTypes.TextSliderView;
 
 import java.util.HashMap;
 
-import aldan.apps.matematriks.QuizTest;
 import aldan.apps.matematriks.R;
-import aldan.apps.matematriks.SoalPGController;
-import aldan.apps.matematriks.activity.menu.belajar.belajar_determinan;
+import aldan.apps.matematriks.activity.menu.belajar.belajar_determinan_matriks;
+import aldan.apps.matematriks.activity.menu.belajar.belajar_jenis_matriks;
+import aldan.apps.matematriks.activity.menu.belajar.belajar_kesamaan_matriks;
 import aldan.apps.matematriks.activity.menu.belajar.belajar_matriks;
-import aldan.apps.matematriks.activity.menu.belajar.belajar_minor;
+import aldan.apps.matematriks.activity.menu.belajar.belajar_minor_matriks;
+import aldan.apps.matematriks.activity.menu.belajar.belajar_pertambahan_pengurangan_matriks;
+import aldan.apps.matematriks.activity.menu.belajar.belajar_transpos_matriks;
 import aldan.apps.matematriks.session.PrefManager;
-
-import static aldan.apps.matematriks.R.drawable.icon_checked_finish;
 
 /*
  * Copyright 2017.  Aldan Rizki Santosa
@@ -49,13 +48,19 @@ import static aldan.apps.matematriks.R.drawable.icon_checked_finish;
 public class BelajarFragment extends Fragment {
 
     private static final String TAG = BelajarFragment.class.getSimpleName();
-    View RootView;
+    private static ProgressBar progressBarScore;
+    private static TextView textScore;
+    private static ImageView statusBelajarMatriks,
+            statusBelajarJenisMatriks,
+            statusBelajarTranspos,
+            statusBelajarDeterminan,
+            statusBelajarMinor,
+            statusBelajarKesamaanMatriks,
+            statusBelajarPertambahanPengurangan;
     private SliderLayout sliderLayout;
     private PrefManager prefManager;
-    ProgressBar progressBarScore;
-    TextView textScore;
-    ImageView statusBelajarMatriks, statusBelajarDeterminan, statusBelajarMinor;
     Handler progressHandler = new Handler();
+    View RootView;
     int i = 0;
 
     public BelajarFragment() {
@@ -84,35 +89,51 @@ public class BelajarFragment extends Fragment {
 
         initView();
         sliderLayout();
+        progressScore();
 
+        return RootView;
+    }
+
+    public void progressScore(){
         prefManager = new PrefManager(getActivity());
+
         String ScoreMatriks = prefManager.getScoreBelajarMatriks();
+        String ScoreJenisMatriks = prefManager.getScoreBelajarJenisMatriks();
+        String ScoreTranspos = prefManager.getScoreBelajarTranspos();
+        String ScoreKesamaanMatriks = prefManager.getScoreBelajarKesamaanMatriks();
         String ScoreDeterminan = prefManager.getScoreBelajarDeterminan();
         String ScoreMinor = prefManager.getScoreBelajarMinor();
+        String ScorePertambahanPengurangan = prefManager.getScoreBelajarPertambahanPenguranganMatriks();
 
-//        Toast.makeText(getActivity(), ScoreDeterminan, Toast.LENGTH_SHORT).show();
+        if (ScoreMatriks == "") ScoreMatriks = "0";
+        else statusBelajarMatriks.setImageDrawable(getResources().getDrawable(R.drawable.icon_checked_finish));
 
-        if (ScoreMatriks == ""){
-            ScoreMatriks = "0";
-        }else{
-            statusBelajarMatriks.setImageDrawable(getResources().getDrawable(R.drawable.icon_checked_finish));
-        }
+        if (ScoreJenisMatriks == "") ScoreJenisMatriks = "0";
+        else statusBelajarJenisMatriks.setImageDrawable(getResources().getDrawable(R.drawable.icon_checked_finish));
 
-        if (ScoreDeterminan == ""){
-            ScoreDeterminan = "0";
-        }else{
-            statusBelajarDeterminan.setImageDrawable(getResources().getDrawable(R.drawable.icon_checked_finish));
-        }
+        if (ScoreTranspos == "") ScoreTranspos = "0";
+        else statusBelajarTranspos.setImageDrawable(getResources().getDrawable(R.drawable.icon_checked_finish));
 
-        if (ScoreMinor == ""){
-            ScoreMinor = "0";
-        }else{
-            statusBelajarMinor.setImageDrawable(getResources().getDrawable(R.drawable.icon_checked_finish));
-        }
+        if (ScoreKesamaanMatriks == "") ScoreKesamaanMatriks = "0";
+        else statusBelajarKesamaanMatriks.setImageDrawable(getResources().getDrawable(R.drawable.icon_checked_finish));
+
+        if (ScorePertambahanPengurangan == "") ScorePertambahanPengurangan = "0";
+        else statusBelajarPertambahanPengurangan.setImageDrawable(getResources().getDrawable(R.drawable.icon_checked_finish));
+
+        if (ScoreDeterminan == "") ScoreDeterminan = "0";
+        else statusBelajarDeterminan.setImageDrawable(getResources().getDrawable(R.drawable.icon_checked_finish));
+
+        if (ScoreMinor == "") ScoreMinor = "0";
+        else statusBelajarMinor.setImageDrawable(getResources().getDrawable(R.drawable.icon_checked_finish));
+
         final Integer Matriks = Integer.parseInt(ScoreMatriks);
+        final Integer JenisMatriks = Integer.parseInt(ScoreJenisMatriks);
+        final Integer Transpose = Integer.parseInt(ScoreTranspos);
+        final Integer KesamaanMatriks = Integer.parseInt(ScoreKesamaanMatriks);
+        final Integer PertambahanPengurangan = Integer.parseInt(ScorePertambahanPengurangan);
         final Integer Determinan = Integer.parseInt(ScoreDeterminan);
         final Integer Minor = Integer.parseInt(ScoreMinor);
-        final Integer theScore = Matriks + Determinan + Minor;
+        final Integer theScore = Matriks + JenisMatriks + Transpose + KesamaanMatriks + PertambahanPengurangan + Determinan + Minor;
 
         new Thread(new Runnable() {
             public void run() {
@@ -132,16 +153,18 @@ public class BelajarFragment extends Fragment {
                 }
             }
         }).start();
-
-        return RootView;
     }
 
     public void initView(){
         progressBarScore = RootView.findViewById(R.id.progressBarScore);
         textScore = RootView.findViewById(R.id.textScore);
         statusBelajarMatriks = RootView.findViewById(R.id.statusBelajarMatriks);
+        statusBelajarTranspos = RootView.findViewById(R.id.statusBelajarTranspos);
+        statusBelajarJenisMatriks = RootView.findViewById(R.id.statusBelajarJenisMatriks);
+        statusBelajarPertambahanPengurangan = RootView.findViewById(R.id.statusBelajarPertambahanPengurangan);
         statusBelajarDeterminan = RootView.findViewById(R.id.statusBelajarDeterminan);
         statusBelajarMinor = RootView.findViewById(R.id.statusBelajarMinor);
+        statusBelajarKesamaanMatriks = RootView.findViewById(R.id.statusBelajarKesamaanMatriks);
 
         RootView.findViewById(R.id.menu_belajar_matriks).setOnClickListener(new View.OnClickListener() {
             @Override
@@ -150,17 +173,45 @@ public class BelajarFragment extends Fragment {
             }
         });
 
-        RootView.findViewById(R.id.menu_belajar_determinan).setOnClickListener(new View.OnClickListener() {
+        RootView.findViewById(R.id.menu_belajar_jenis_matriks).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(getActivity(), belajar_determinan.class));
+                startActivity(new Intent(getActivity(), belajar_jenis_matriks.class));
             }
         });
 
-        RootView.findViewById(R.id.menu_belajar_minor).setOnClickListener(new View.OnClickListener() {
+        RootView.findViewById(R.id.menu_belajar_transpos_matriks).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(getActivity(), belajar_minor.class));
+                startActivity(new Intent(getActivity(), belajar_transpos_matriks.class));
+            }
+        });
+
+        RootView.findViewById(R.id.menu_belajar_kesamaan_matriks).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getActivity(), belajar_kesamaan_matriks.class));
+            }
+        });
+
+        RootView.findViewById(R.id.menu_belajar_pertambahan_pengurangan_matriks).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getActivity(), belajar_pertambahan_pengurangan_matriks.class));
+            }
+        });
+
+        RootView.findViewById(R.id.menu_belajar_determinan_matriks).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getActivity(), belajar_determinan_matriks.class));
+            }
+        });
+
+        RootView.findViewById(R.id.menu_belajar_minor_matriks).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getActivity(), belajar_minor_matriks.class));
             }
         });
 

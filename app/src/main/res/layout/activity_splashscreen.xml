@@ -52,7 +52,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAlignment="center"
-        android:text="Hi Dan!"
+        android:text="@string/hi_developer"
         android:textSize="20sp"
         android:typeface="serif"
         android:textColor="@color/white"

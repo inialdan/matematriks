@@ -6,10 +6,12 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 
-import aldan.apps.matematriks.QuizTest;
+import aldan.apps.matematriks.QuizMatriks;
 import aldan.apps.matematriks.R;
 import aldan.apps.matematriks.activity.menu.latihan.latihan_determinan;
+import aldan.apps.matematriks.session.PrefManager;
 
 /*
  * Copyright 2017.  Aldan Rizki Santosa
@@ -31,6 +33,8 @@ import aldan.apps.matematriks.activity.menu.latihan.latihan_determinan;
 public class LatihanFragment extends Fragment {
 
     private static final String TAG = LatihanFragment.class.getSimpleName();
+    private static ImageView statusQuizMultipleChoise;
+    private PrefManager prefManager;
     View RootView;
 
     public LatihanFragment() {
@@ -56,16 +60,33 @@ public class LatihanFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         RootView = inflater.inflate(R.layout.menu_latihan, container, false);
         setHasOptionsMenu(true);
-
         initView();
+
+        prefManager = new PrefManager(getActivity());
+
+        String ScoreMultipleChoiseQuiz = prefManager.getScoreMultipleChoise();
+
+        if (ScoreMultipleChoiseQuiz == ""){
+            ScoreMultipleChoiseQuiz = "0";
+        }
+
+        Integer MultipleChoiseQuiz = Integer.parseInt(ScoreMultipleChoiseQuiz);
+
+        if (MultipleChoiseQuiz >= 60){
+            statusQuizMultipleChoise.setImageDrawable(getResources().getDrawable(R.drawable.icon_checked_finish));
+        }
+
         return RootView;
     }
 
     public void initView(){
+
+        statusQuizMultipleChoise = RootView.findViewById(R.id.statusQuizMultipleChoise);
+
         RootView.findViewById(R.id.menu_latihan_quiz).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(getActivity(), QuizTest.class));
+                startActivity(new Intent(getActivity(), QuizMatriks.class));
             }
         });
         RootView.findViewById(R.id.menu_latihan_determinan).setOnClickListener(new View.OnClickListener() {

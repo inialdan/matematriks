@@ -3,7 +3,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/congratulation">
+    android:background="@color/colorWhite">
 
     <ImageView
         android:id="@+id/imageCongrats"
@@ -13,18 +13,54 @@
         android:layout_marginTop="20dp"
         android:src="@drawable/congrats"/>
 
+    <ImageView
+        android:id="@+id/Piala"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_above="@+id/tvSkorAkhir"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/icon_pialaoff" />
+
+    <ImageView
+        android:id="@+id/StarLeft"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_alignTop="@+id/Piala"
+        android:layout_toLeftOf="@+id/Piala"
+        android:layout_toStartOf="@+id/Piala"
+        android:src="@drawable/icon_leftstaroff" />
+
+    <ImageView
+        android:id="@+id/StarRight"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_alignTop="@+id/Piala"
+        android:layout_toEndOf="@+id/Piala"
+        android:layout_toRightOf="@+id/Piala"
+        android:src="@drawable/icon_rightstaroff" />
+
     <TextView
         android:id="@+id/tvSkorAkhir"
-        android:layout_width="220dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:layout_marginBottom="20dp"
-        android:background="#b5fffe"
         android:gravity="center"
         android:padding="10dp"
-        android:text="SKOR : 100"
-        android:textColor="#000"
+        android:text="100"
+        android:textColor="@color/green_primary"
         android:textSize="36sp"/>
+
+    <TextView
+        android:id="@+id/tvKeterangan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/tvSkorAkhir"
+        android:gravity="center"
+        android:text="Kamu telah menyelasikan aktivitas Latihan Bab 'Aldan Ganteng'"
+        android:textColor="@color/grey_primary_dark"
+        android:textSize="20sp" />
 
     <Button
         android:id="@+id/btnMenu"
@@ -34,7 +70,8 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="20dp"
         android:text="HOME"
-        android:background="#f58686"
+        android:textColor="@color/black"
+        android:background="@drawable/bg_form_button_answer"
         android:textSize="20sp"/>
 
 </RelativeLayout>

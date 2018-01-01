@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto">
@@ -45,14 +46,38 @@
                 android:layout_height="match_parent" />
 
             <include
-                android:id="@+id/menu_belajar_determinan"
-                layout="@layout/menu_belajar_determinan"
+                android:id="@+id/menu_belajar_jenis_matriks"
+                layout="@layout/menu_belajar_jenis_matriks"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent" />
 
             <include
-                android:id="@+id/menu_belajar_minor"
-                layout="@layout/menu_belajar_minor"
+                android:id="@+id/menu_belajar_transpos_matriks"
+                layout="@layout/menu_belajar_transpos_matriks"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <include
+                android:id="@+id/menu_belajar_kesamaan_matriks"
+                layout="@layout/menu_belajar_kesamaan_matriks"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <include
+                android:id="@+id/menu_belajar_pertambahan_pengurangan_matriks"
+                layout="@layout/menu_belajar_pertambahan_pengurangan_matriks"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <include
+                android:id="@+id/menu_belajar_determinan_matriks"
+                layout="@layout/menu_belajar_determinan_matriks"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <include
+                android:id="@+id/menu_belajar_minor_matriks"
+                layout="@layout/menu_belajar_minor_matriks"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent" />
 

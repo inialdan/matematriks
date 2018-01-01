@@ -18,9 +18,25 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import aldan.apps.matematriks.MainActivity;
+import aldan.apps.matematriks.Main;
 import aldan.apps.matematriks.R;
 import aldan.apps.matematriks.session.PrefManager;
+
+/*
+ * Copyright 2017.  Aldan Rizki Santosa
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
 
 public class belajar_matriks extends AppCompatActivity {
 
@@ -52,12 +68,7 @@ public class belajar_matriks extends AppCompatActivity {
         layouts = new int[]{
                 R.layout.slide_belajar_matriks_1,
                 R.layout.slide_belajar_matriks_2,
-                R.layout.slide_belajar_matriks_3,
-                R.layout.slide_belajar_matriks_4,
-                R.layout.slide_belajar_matriks_5,
-                R.layout.slide_belajar_matriks_6,
-                R.layout.slide_belajar_matriks_7,
-                R.layout.slide_belajar_matriks_8
+                R.layout.slide_belajar_matriks_3
         };
 
         addBottomDots(0);
@@ -112,7 +123,7 @@ public class belajar_matriks extends AppCompatActivity {
     }
 
     private void launchHomeScreen() {
-        startActivity(new Intent(belajar_matriks.this, MainActivity.class));
+        startActivity(new Intent(belajar_matriks.this, Main.class));
         finish();
     }
 
@@ -124,7 +135,7 @@ public class belajar_matriks extends AppCompatActivity {
             if (position == layouts.length - 1) {
                 btnNext.setText(getString(R.string.start));
                 btnSkip.setVisibility(View.GONE);
-                String Score = "40";
+                String Score = "10";
                 prefManager.saveSPString(prefManager.SCORE_BELAJAR_MATRIKS, Score);
             } else {
                 btnNext.setText(getString(R.string.next));

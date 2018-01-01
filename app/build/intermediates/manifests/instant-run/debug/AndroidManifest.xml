@@ -55,7 +55,7 @@
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="aldan.apps.matematriks.MainActivity"
+            android:name="aldan.apps.matematriks.Main"
             android:label="@string/app_name"
             android:screenOrientation="portrait" />
         <activity
@@ -64,12 +64,32 @@
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="aldan.apps.matematriks.activity.menu.belajar.belajar_determinan"
+            android:name="aldan.apps.matematriks.activity.menu.belajar.belajar_jenis_matriks"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="aldan.apps.matematriks.activity.menu.belajar.belajar_minor"
+            android:name="aldan.apps.matematriks.activity.menu.belajar.belajar_transpos_matriks"
+            android:noHistory="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="aldan.apps.matematriks.activity.menu.belajar.belajar_kesamaan_matriks"
+            android:noHistory="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="aldan.apps.matematriks.activity.menu.belajar.belajar_pertambahan_pengurangan_matriks"
+            android:noHistory="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="aldan.apps.matematriks.activity.menu.belajar.belajar_determinan_matriks"
+            android:noHistory="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="aldan.apps.matematriks.activity.menu.belajar.belajar_minor_matriks"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
@@ -79,12 +99,12 @@
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="aldan.apps.matematriks.QuizTest"
+            android:name="aldan.apps.matematriks.QuizMatriks"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="aldan.apps.matematriks.HasilSkor"
+            android:name="aldan.apps.matematriks.ScoreResults"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
