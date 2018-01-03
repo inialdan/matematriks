@@ -24,6 +24,7 @@ import aldan.apps.matematriks.activity.menu.belajar.belajar_jenis_matriks;
 import aldan.apps.matematriks.activity.menu.belajar.belajar_kesamaan_matriks;
 import aldan.apps.matematriks.activity.menu.belajar.belajar_matriks;
 import aldan.apps.matematriks.activity.menu.belajar.belajar_minor_matriks;
+import aldan.apps.matematriks.activity.menu.belajar.belajar_perkalian_matriks;
 import aldan.apps.matematriks.activity.menu.belajar.belajar_pertambahan_pengurangan_matriks;
 import aldan.apps.matematriks.activity.menu.belajar.belajar_transpos_matriks;
 import aldan.apps.matematriks.session.PrefManager;
@@ -56,7 +57,8 @@ public class BelajarFragment extends Fragment {
             statusBelajarDeterminan,
             statusBelajarMinor,
             statusBelajarKesamaanMatriks,
-            statusBelajarPertambahanPengurangan;
+            statusBelajarPertambahanPengurangan,
+            statusBelajarPerkalian;
     private SliderLayout sliderLayout;
     private PrefManager prefManager;
     Handler progressHandler = new Handler();
@@ -101,9 +103,10 @@ public class BelajarFragment extends Fragment {
         String ScoreJenisMatriks = prefManager.getScoreBelajarJenisMatriks();
         String ScoreTranspos = prefManager.getScoreBelajarTranspos();
         String ScoreKesamaanMatriks = prefManager.getScoreBelajarKesamaanMatriks();
+        String ScorePertambahanPengurangan = prefManager.getScoreBelajarPertambahanPenguranganMatriks();
+        String ScorePerkalian = prefManager.getScoreBelajarPerkalianMatriks();
         String ScoreDeterminan = prefManager.getScoreBelajarDeterminan();
         String ScoreMinor = prefManager.getScoreBelajarMinor();
-        String ScorePertambahanPengurangan = prefManager.getScoreBelajarPertambahanPenguranganMatriks();
 
         if (ScoreMatriks == "") ScoreMatriks = "0";
         else statusBelajarMatriks.setImageDrawable(getResources().getDrawable(R.drawable.icon_checked_finish));
@@ -120,6 +123,9 @@ public class BelajarFragment extends Fragment {
         if (ScorePertambahanPengurangan == "") ScorePertambahanPengurangan = "0";
         else statusBelajarPertambahanPengurangan.setImageDrawable(getResources().getDrawable(R.drawable.icon_checked_finish));
 
+        if (ScorePerkalian == "") ScorePerkalian = "0";
+        else statusBelajarPerkalian.setImageDrawable(getResources().getDrawable(R.drawable.icon_checked_finish));
+
         if (ScoreDeterminan == "") ScoreDeterminan = "0";
         else statusBelajarDeterminan.setImageDrawable(getResources().getDrawable(R.drawable.icon_checked_finish));
 
@@ -131,9 +137,10 @@ public class BelajarFragment extends Fragment {
         final Integer Transpose = Integer.parseInt(ScoreTranspos);
         final Integer KesamaanMatriks = Integer.parseInt(ScoreKesamaanMatriks);
         final Integer PertambahanPengurangan = Integer.parseInt(ScorePertambahanPengurangan);
+        final Integer Perkalian = Integer.parseInt(ScorePerkalian);
         final Integer Determinan = Integer.parseInt(ScoreDeterminan);
         final Integer Minor = Integer.parseInt(ScoreMinor);
-        final Integer theScore = Matriks + JenisMatriks + Transpose + KesamaanMatriks + PertambahanPengurangan + Determinan + Minor;
+        final Integer theScore = Matriks + JenisMatriks + Transpose + KesamaanMatriks + PertambahanPengurangan + Perkalian + Determinan + Minor;
 
         new Thread(new Runnable() {
             public void run() {
@@ -162,6 +169,7 @@ public class BelajarFragment extends Fragment {
         statusBelajarTranspos = RootView.findViewById(R.id.statusBelajarTranspos);
         statusBelajarJenisMatriks = RootView.findViewById(R.id.statusBelajarJenisMatriks);
         statusBelajarPertambahanPengurangan = RootView.findViewById(R.id.statusBelajarPertambahanPengurangan);
+        statusBelajarPerkalian = RootView.findViewById(R.id.statusBelajarPerkalianMatriks);
         statusBelajarDeterminan = RootView.findViewById(R.id.statusBelajarDeterminan);
         statusBelajarMinor = RootView.findViewById(R.id.statusBelajarMinor);
         statusBelajarKesamaanMatriks = RootView.findViewById(R.id.statusBelajarKesamaanMatriks);
@@ -198,6 +206,13 @@ public class BelajarFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(getActivity(), belajar_pertambahan_pengurangan_matriks.class));
+            }
+        });
+
+        RootView.findViewById(R.id.menu_belajar_perkalian_matriks).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getActivity(), belajar_perkalian_matriks.class));
             }
         });
 

@@ -84,6 +84,11 @@
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
+            android:name="aldan.apps.matematriks.activity.menu.belajar.belajar_perkalian_matriks"
+            android:noHistory="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
             android:name="aldan.apps.matematriks.activity.menu.belajar.belajar_determinan_matriks"
             android:noHistory="true"
             android:screenOrientation="portrait"

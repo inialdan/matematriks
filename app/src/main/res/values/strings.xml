@@ -150,7 +150,7 @@
         Pernyataan pada poin 3 adalah kondisional. Agar pernyataan tersebut bernilai benar, maka a – 2 = 1 (a = 3), 2b = 4 (b = 2), c = –2, dan akan salah jika tidak memenuhi salah satu (atau lebih) dari syarat tersebut.
     </string>
 
-    <!-- TEXT BELAJAR TRANSPOS -->
+    <!-- TEXT BELAJAR PERTAMBAHAN DAN PENGURANGAN MATRIKS -->
     <string name="slide_belajar_pertambahan_pengurangan_matriks_1_title">Pertambahan &amp; Pengurangan MATRIKS ?</string>
     <string name="slide_belajar_pertambahan_pengurangan_matriks_1_desc">
         Penjumlahan atau pengurangan matriks dapat ditentukan dengan mengoperasikan elemen-elemen yang bersesuian dari matriks yang dijumlahkan atau dikurangkan. Hal ini mengakibatkan, matriks-matriks yang dapat dijumlahkan atau dikurangkan adalah matriks-matriks yang memiliki ordo sama, sehingga setiap elemen dari matriks yang satu memiliki elemen yang bersesuaian dengan matriks yang lainnya.
@@ -188,6 +188,17 @@
     <string name="slide_belajar_pertambahan_pengurangan_matriks_7_desc">
         Karena penjumlahan dari matriks didefinisikan sebagai penjumlahan dari elemen-elemen yang bersesuaian, maka sifat-sifat dari penjumlahan bilangan real berlaku pada penjumlahan matriks.
     </string>
+
+    <!-- TEXT BELAJAR PERKALIAN MATRIKS -->
+    <string name="slide_belajar_perkalian_matriks_1_title">Perkalian MATRIKS ?</string>
+    <string name="slide_belajar_perkalian_matriks_1_desc">
+        Operasi Cara Mencari Rumus Perkalian Matriks Matematika mempunyai Metode Rumus Menghitung Matriks yg sangat berbeda dg Operasi menghitung nilai penjumlahan atau pengurangan Matriks, Metode yg diterapkan didalam Rumus Menghitung Perkalian Matriks ialah dg memasangkan baris pd matriks pertama dg kolom pd matriks kedua tetapi kedua nilai Matriks ini bisa dikalian jika banyak kolom pd matriks pertama mempunyai nilai yg sama dg banyak baris pd matriks kedua dan hasil perkalian matriks akan mempunyai baris yg sama banyak dg baris matriks pertama.
+    </string>
+    <string name="slide_belajar_perkalian_matriks_2_title">Rumus Perkalian Matriks</string>
+    <string name="slide_belajar_perkalian_matriks_2_desc">
+        Sedangkan untuk penjelasan dari Rumus Perkalian Skalar Matriks dilakukan dg cara konstanta yg artinya nilai matriks bisa dikalikan dg cara mengalikan setiap eleman atau komponen nilai matriks dg skalar. Misalnya nilai Matriks A dikalikan dg skalar K maka setiap eleman atau komponen Matriks A dikali dg k.
+    </string>
+
 
     <!-- TEXT BELAJAR DETERMINAN -->
     <string name="slide_belajar_determinan_1_title">DETERMINAN MATRIKS ?</string>
@@ -244,7 +255,13 @@
         Pertambahan &amp; Pengurangan Matriks
     </string>
     <string name="belajar_pertambahan_pengurangan_matriks_text_description">
-        Untuk memahami penerapaan matriks yang lebih luas, kita perlu untuk mengetahui operasi-operasi dalam matriks, dalam pembahasan ini kita hanya akan membahas kesamaan dari dua matriks.
+        Untuk memahami penerapaan matriks yang lebih luas, kita perlu untuk mengetahui operasi-operasi dalam matriks, dalam pembahasan ini kita hanya akan membahas pertambahan dan pengurangan dari dua matriks.
+    </string>
+    <string name="belajar_perkalian_matriks_text_menu">
+        Perkalian Matriks
+    </string>
+    <string name="belajar_perkalian_matriks_text_description">
+        Untuk memahami penerapaan matriks yang lebih luas, kita perlu untuk mengetahui operasi-operasi dalam matriks, dalam pembahasan ini kita hanya akan membahas perkalian matriks.
     </string>
     <string name="belajar_determinan_text_menu">
         Determinan Matriks

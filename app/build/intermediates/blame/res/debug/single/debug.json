@@ -136,6 +136,10 @@
         "source": "C:\\Users\\inialdan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca5db238f3385b23617758c8eec95bd0\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
+        "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\layout_slide_belajar_perkalian_matriks_2.xml.flat",
+        "source": "D:\\Android Studio Projects\\Matematrik\\app\\src\\main\\res\\layout\\slide_belajar_perkalian_matriks_2.xml"
+    },
+    {
         "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\inialdan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca5db238f3385b23617758c8eec95bd0\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
@@ -264,6 +268,10 @@
         "source": "C:\\Users\\inialdan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\f295401244a05fae987d264e26f1a395\\res\\layout\\notification_media_action.xml"
     },
     {
+        "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_belajar_perkalian_matriks.xml.flat",
+        "source": "D:\\Android Studio Projects\\Matematrik\\app\\src\\main\\res\\layout\\menu_belajar_perkalian_matriks.xml"
+    },
+    {
         "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\inialdan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca5db238f3385b23617758c8eec95bd0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
@@ -348,12 +356,12 @@
         "source": "D:\\Android Studio Projects\\Matematrik\\app\\src\\main\\res\\layout\\menu_latihan_footer.xml"
     },
     {
-        "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "C:\\Users\\inialdan\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\5f4d99558f2f16edbd17369b37be09fa\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
-    },
-    {
         "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_btn_checkable.xml.flat",
         "source": "C:\\Users\\inialdan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca5db238f3385b23617758c8eec95bd0\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\inialdan\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\5f4d99558f2f16edbd17369b37be09fa\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_matrix_scene.xml.flat",
@@ -836,6 +844,10 @@
         "source": "C:\\Users\\inialdan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca5db238f3385b23617758c8eec95bd0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
+        "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_x_green.xml.flat",
+        "source": "D:\\Android Studio Projects\\Matematrik\\app\\src\\main\\res\\drawable\\icon_x_green.xml"
+    },
+    {
         "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_edit_text_material.xml.flat",
         "source": "C:\\Users\\inialdan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca5db238f3385b23617758c8eec95bd0\\res\\drawable\\abc_edit_text_material.xml"
     },
@@ -1232,6 +1244,10 @@
         "source": "D:\\Android Studio Projects\\Matematrik\\app\\src\\main\\res\\layout\\menu_belajar_transpos_matriks.xml"
     },
     {
+        "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\layout_slide_belajar_perkalian_matriks_1.xml.flat",
+        "source": "D:\\Android Studio Projects\\Matematrik\\app\\src\\main\\res\\layout\\slide_belajar_perkalian_matriks_1.xml"
+    },
+    {
         "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\inialdan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca5db238f3385b23617758c8eec95bd0\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -1254,6 +1270,10 @@
     {
         "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "D:\\Android Studio Projects\\Matematrik\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\drawable_belajar_perkalian_matriks_pict.png.flat",
+        "source": "D:\\Android Studio Projects\\Matematrik\\app\\src\\main\\res\\drawable\\belajar_perkalian_matriks_pict.png"
     },
     {
         "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -1892,10 +1912,6 @@
         "source": "D:\\Android Studio Projects\\Matematrik\\app\\src\\main\\res\\drawable-xxhdpi\\ic_store_white_24dp.png"
     },
     {
-        "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\layout_store_item_row.xml.flat",
-        "source": "D:\\Android Studio Projects\\Matematrik\\app\\src\\main\\res\\layout\\store_item_row.xml"
-    },
-    {
         "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
         "source": "C:\\Users\\inialdan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca5db238f3385b23617758c8eec95bd0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
@@ -2276,6 +2292,10 @@
         "source": "D:\\Android Studio Projects\\Matematrik\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
+        "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_x.xml.flat",
+        "source": "D:\\Android Studio Projects\\Matematrik\\app\\src\\main\\res\\drawable\\icon_x.xml"
+    },
+    {
         "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_checked_alert.png.flat",
         "source": "D:\\Android Studio Projects\\Matematrik\\app\\src\\main\\res\\drawable\\icon_checked_alert.png"
     },
@@ -2430,6 +2450,10 @@
     {
         "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\inialdan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca5db238f3385b23617758c8eec95bd0\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\drawable_belajar_perkalian_matriks_pict_skalar.png.flat",
+        "source": "D:\\Android Studio Projects\\Matematrik\\app\\src\\main\\res\\drawable\\belajar_perkalian_matriks_pict_skalar.png"
     },
     {
         "merged": "D:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",

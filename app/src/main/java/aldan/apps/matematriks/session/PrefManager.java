@@ -35,6 +35,7 @@ public class PrefManager {
     public static final String SCORE_BELAJAR_TRANSPOS = "belajar_transpos_matriks";
     public static final String SCORE_BELAJAR_KESAMAAN_MATRIKS = "belajar_kesamaan_matriks";
     public static final String SCORE_PERTAMBAHAN_PENGURANGAN_MATRIKS = "belajar_pertambahan_pengurangan_matriks";
+    public static final String SCORE_PERKALIAN_MATRIKS = "belajar_perkalian_matriks";
     public static final String SCORE_BELAJAR_DETERMINAN = "belajar_determinan_matriks";
     public static final String SCORE_BELAJAR_MINOR = "belajar_minor_matriks";
 
@@ -88,6 +89,10 @@ public class PrefManager {
 
     public String getScoreBelajarPertambahanPenguranganMatriks(){
         return pref.getString(SCORE_PERTAMBAHAN_PENGURANGAN_MATRIKS, "");
+    }
+
+    public String getScoreBelajarPerkalianMatriks(){
+        return pref.getString(SCORE_PERKALIAN_MATRIKS, "");
     }
 
     public String getScoreBelajarDeterminan(){
