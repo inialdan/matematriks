@@ -33,31 +33,16 @@
         android:textStyle="bold"
         android:typeface="sans" />
 
-    <ProgressBar
-        android:id="@+id/progressBar"
-        style="@style/Widget.AppCompat.ProgressBar"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="58dp"
-        android:indeterminate="true"
-        android:indeterminateTint="@color/white"
-        android:indeterminateTintMode="src_atop"
-        android:visibility="invisible"
-        tools:visibility="invisible" tools:targetApi="lollipop"/>
 
-    <TextView
-        android:id="@+id/TextName"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAlignment="center"
-        android:text="@string/hi_developer"
-        android:textSize="20sp"
-        android:typeface="serif"
-        android:textColor="@color/white"
+    <com.victor.loading.rotate.RotateLoading
+        android:id="@+id/rotateloading"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="58dp" />
+        android:layout_marginBottom="44dp"
+        app:loading_color="#ffffff"
+        app:loading_width="5dp" />
+
 
 </RelativeLayout>

@@ -1,4 +1,4 @@
-#Tue Jan 02 19:31:55 ICT 2018
-base.0=D\:\\Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+#Wed Feb 07 21:41:33 ICT 2018
+base.0=D\:\\@Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
 path.0=classes.dex
 renamed.0=classes.dex

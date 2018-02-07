@@ -1,4 +1,5 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_marginLeft="10dp"
     android:layout_marginRight="10dp"
     android:layout_width="match_parent"
@@ -8,86 +9,35 @@
     android:paddingRight="12dp"
     android:paddingBottom="5dp">
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_weight="1"
-        android:background="#FF9800"
-        android:gravity="center_horizontal"
-        android:orientation="vertical">
-
         <RelativeLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
 
             <TextView
+                android:id="@+id/textView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:layout_marginTop="10dp"
-                android:text="Level"
-                android:textColor="@color/white"
-                android:textSize="18sp"
-                android:textStyle="bold" />
+                android:text="Pemahaman Konsep Materi" />
 
-            <ImageView
-                android:id="@+id/progressBar4"
-                android:layout_width="130dp"
-                android:layout_height="150dp"
-                android:layout_marginTop="30dp"
-                android:src="@drawable/icon_chart" />
-        </RelativeLayout>
-    </LinearLayout>
-
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="5dp"
-        android:layout_weight="1"
-        android:background="#2ecc71"
-        android:gravity="center_horizontal"
-        android:orientation="vertical">
-
-        <RelativeLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_centerHorizontal="true"
-                android:layout_marginTop="10dp"
-                android:text="Progress"
-                android:textSize="18sp"
-                android:textColor="@color/white"
-                android:textStyle="bold" />
-
-            <ProgressBar
+            <com.akexorcist.roundcornerprogressbar.IconRoundCornerProgressBar
                 android:id="@+id/progressBarScore"
-                style="?android:attr/progressBarStyleHorizontal"
-                android:layout_width="130dp"
-                android:layout_height="150dp"
-                android:layout_marginTop="30dp"
-                android:background="@drawable/circular_circle_shape"
-                android:indeterminate="false"
-                android:max="100"
-                android:progress="0"
-                android:progressDrawable="@drawable/circular_progress_status" />
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView"
+                android:layout_marginTop="5dp"
+                app:rcIconSize="26dp" />
 
             <TextView
-                android:id="@+id/textScore"
+                android:id="@+id/textViewScoreKonsep"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_centerInParent="true"
-                android:background="@android:color/transparent"
-                android:gravity="center"
-                android:text="0%"
-                android:textColor="@color/white"
-                android:textSize="27sp"
-                android:textStyle="bold" />
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentTop="true"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:text="100" />
+
 
         </RelativeLayout>
 
-    </LinearLayout>
 </LinearLayout>

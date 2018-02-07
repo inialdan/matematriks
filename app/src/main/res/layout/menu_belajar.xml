@@ -22,19 +22,19 @@
             android:orientation="vertical">
 
             <include
-                android:id="@+id/menu_belajar_header_pict"
+                android:id="@+id/menu_belajar_header"
                 layout="@layout/menu_belajar_header"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent" />
 
             <include
-                android:id="@+id/menu_belajar_header"
+                android:id="@+id/menu_belajar_header_title"
                 layout="@layout/menu_belajar_header_title"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent" />
 
             <include
-                android:id="@+id/menu_belajar_sub_header"
+                android:id="@+id/menu_belajar_header_progress"
                 layout="@layout/menu_belajar_header_progress"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent" />
@@ -42,6 +42,12 @@
             <include
                 android:id="@+id/menu_belajar_matriks"
                 layout="@layout/menu_belajar_matriks"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <include
+                android:id="@+id/menu_belajar_ordo_matriks"
+                layout="@layout/menu_belajar_ordo_matriks"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent" />
 

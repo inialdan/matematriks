@@ -26,11 +26,11 @@
                 android:layout_height="wrap_content"
                 android:layout_alignParentLeft="true"
                 android:layout_marginRight="5dip">
-                <TextView
+                <ImageView
                     android:id="@+id/pict_poster"
                     android:layout_width="69dp"
-                    android:layout_height="wrap_content"
-                    android:text="@string/TandaMatriks"
+                    android:layout_height="76dp"
+                    android:src="@drawable/icon_brackets_green"
                     android:textSize="60sp"/>
             </LinearLayout>
             <TextView

@@ -7,18 +7,22 @@ import android.support.design.widget.BottomNavigationView;
 import android.support.design.widget.CoordinatorLayout;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentTransaction;
-import android.support.v7.app.ActionBar;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.TextView;
+import android.widget.Toast;
 
-import aldan.apps.matematriks.fragment.ProfileFragment;
-import aldan.apps.matematriks.fragment.BelajarFragment;
-import aldan.apps.matematriks.fragment.KalkulatorFragment;
-import aldan.apps.matematriks.fragment.LatihanFragment;
+import com.shashank.sony.fancygifdialoglib.FancyGifDialog;
+import com.shashank.sony.fancygifdialoglib.FancyGifDialogListener;
+
+import aldan.apps.matematriks.menu.fragment.ProfileFragment;
+import aldan.apps.matematriks.menu.fragment.BelajarFragment;
+import aldan.apps.matematriks.menu.fragment.KalkulatorFragment;
+import aldan.apps.matematriks.menu.fragment.LatihanFragment;
 import aldan.apps.matematriks.helper.BottomNavigationBehavior;
-
 
 /*
  * Copyright 2017.  Aldan Rizki Santosa
@@ -38,69 +42,59 @@ import aldan.apps.matematriks.helper.BottomNavigationBehavior;
 
 public class Main extends AppCompatActivity {
 
-    private ActionBar toolbar;
+    private Toolbar toolbar;
+    private TextView toolbarTitle;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-        toolbar = getSupportActionBar();
-
         BottomNavigationView navigation = findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
-
-        // attaching bottom sheet behaviour - hide / show on scroll
         CoordinatorLayout.LayoutParams layoutParams = (CoordinatorLayout.LayoutParams) navigation.getLayoutParams();
         layoutParams.setBehavior(new BottomNavigationBehavior());
+        toolbar = findViewById(R.id.toolbar_main);
+        toolbarTitle = findViewById(R.id.toolbar_title);
 
-        // load the store fragment by default
-        toolbar.setTitle(R.string.app_name);
-        toolbar.setSubtitle("Belajar");
+        setSupportActionBar(toolbar);
+
+        if (toolbar != null) {
+            getSupportActionBar().setDisplayShowTitleEnabled(false);
+        }
         loadFragment(new BelajarFragment());
     }
 
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
-
         @Override
         public boolean onNavigationItemSelected(@NonNull MenuItem item) {
             Fragment fragment;
             switch (item.getItemId()) {
                 case R.id.navigation_belajar:
-                    toolbar.setTitle(R.string.app_name);
-                    toolbar.setSubtitle("Belajar");
                     fragment = new BelajarFragment();
                     loadFragment(fragment);
                     return true;
                 case R.id.navigation_latihan:
-                    toolbar.setTitle(R.string.app_name);
-                    toolbar.setSubtitle("Latihan");
                     fragment = new LatihanFragment();
                     loadFragment(fragment);
                     return true;
                 case R.id.navigation_kalkulator:
-                    toolbar.setTitle(R.string.app_name);
-                    toolbar.setSubtitle("Kalkulator");
                     fragment = new KalkulatorFragment();
                     loadFragment(fragment);
                     return true;
                 case R.id.navigation_profile:
-                    toolbar.setTitle(R.string.app_name);
-                    toolbar.setSubtitle("Profile");
                     fragment = new ProfileFragment();
                     loadFragment(fragment);
                     return true;
             }
-
             return false;
         }
     };
 
     /**
-     * loading fragment into FrameLayout
      *
      * @param fragment
+     *
      */
     private void loadFragment(Fragment fragment) {
         // load fragment
@@ -112,25 +106,37 @@ public class Main extends AppCompatActivity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
 
-        //noinspection SimplifiableIfStatement
         if (id == R.id.action_info) {
-            new AlertDialog.Builder(this)
-                    .setMessage("Copyright 2017 (c) Al Reserved")
-                    .setCancelable(false)
-                    .setPositiveButton("Ok", null)
-                    .show();
+            new FancyGifDialog.Builder(this)
+                    .setTitle("Matematriks Copyright 2017 (c) Al Reserved")
+                    .setMessage("Developer Aldan Rizki Santosa")
+                    .setNegativeBtnText("Cancel")
+                    .setPositiveBtnBackground("#FF4081")
+                    .setPositiveBtnText("Ok")
+                    .setNegativeBtnBackground("#FFA9A7A8")
+                    .setGifResource(R.drawable.gif_developer)   //Pass your Gif here
+                    .isCancellable(true)
+                    .OnPositiveClicked(new FancyGifDialogListener() {
+                        @Override
+                        public void OnClick() {
+                            Toast.makeText(Main.this,"Ok",Toast.LENGTH_SHORT).show();
+                        }
+                    })
+                    .OnNegativeClicked(new FancyGifDialogListener() {
+                        @Override
+                        public void OnClick() {
+                            Toast.makeText(Main.this,"Cancel",Toast.LENGTH_SHORT).show();
+                        }
+                    })
+                    .build();
         }
 
         return super.onOptionsItemSelected(item);
@@ -148,5 +154,4 @@ public class Main extends AppCompatActivity {
                 .setNegativeButton("Tidak", null)
                 .show();
     }
-
 }

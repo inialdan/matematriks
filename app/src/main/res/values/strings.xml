@@ -21,13 +21,9 @@
 <resources>
     <string name="app_name">MATEMATRIKS</string>
     <string name="hi_developer">Hi Dan!</string>
-    <string name="title_shop">Shop</string>
-    <string name="title_gifts">Gifts</string>
-    <string name="title_cart">Cart</string>
     <string name="title_profile">Profile</string>
 
     <string name="app_name_subtitle">Belajar jadi lebih mudah</string>
-    <string name="title_activity_welcome">Home Screen</string>
     <string name="next">Selanjutnya</string>
     <string name="skip">Lewati</string>
     <string name="start">Mengerti!</string>
@@ -41,18 +37,16 @@
     </string>
 
     <string name="slide_1_title">MATEMATRIKS</string>
-    <string name="slide_1_desc">Aplikasi pembelajaran Matematika materi Matriks yang dikemas dalam versi Android Mobile!</string>
+    <string name="slide_1_desc">Aplikasi pembelajaran Matematika materi Matriks yang dikemas dalam versi Android Mobile</string>
 
     <string name="slide_2_title">Tanpa Buku</string>
     <string name="slide_2_desc">Aplikasi ini dapat menggantikan isi yang ada di tas yang seharusnya Buku menjadi Smartphone!</string>
 
     <string name="slide_3_title">Materi yang terpisah</string>
-    <string name="slide_3_desc">Matriks dan memisahkan materi - materi yang Anda anggap susah untuk kemampuan Anda!</string>
+    <string name="slide_3_desc">Materi Matrik yang terpisah untuk mempermudah Anda belajar Matriks</string>
 
     <string name="slide_4_title">Kemampuan Anda</string>
-    <string name="slide_4_desc">Aplikasi ini mampu memantau perkembangan kemampuan Anda ketika anda melakukan test</string>
-
-    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="slide_4_desc">Aplikasi ini mampu membantu melihat perkembangan kemampuan Anda ketika anda melakukan test</string>
 
     <string name="play_again">Play Again</string>
     <string name="matematriks">MATEMATRIKS</string>
@@ -90,10 +84,21 @@
         Kumpulan elemen yang tersusun secara horizontal disebut baris, sedangkan kumpulan elemen yang tersusun secara vertikal disebut kolom. Suatu matriks yang memiliki m baris dan n kolom disebut matriks m x n dan disebut sebagai matriks yang memiliki orde m x n. Penulisan matriks menggunakan huruf kapital dan tebal.
     </string>
 
+    <!-- TEXT BELAJAR ORDO MATRIKS -->
+    <string name="slide_belajar_ordo_matriks_1_title">Ordo MATRIKS ?</string>
+    <string name="slide_belajar_ordo_matriks_1_desc">
+        Ordo suatu matriks adalah bilangan yang menunjukkan banyaknya baris (m) dan banyaknya kolom (n).
+    </string>
+
+    <string name="slide_belajar_ordo_matriks_2_title">Ordo</string>
+    <string name="slide_belajar_ordo_matriks_2_desc">
+        Ordo matriks merupakan bilangan asli yang menyatakan banyaknya baris dan kolom dari matriks tersebut. Seperti matriks A memiliki m baris dan n kolom, dapat dinyatakan sebagai matriks A berordo m x n. Untuk m = n, dapat dinyatakan sebagai matriks A berordo n.
+    </string>
+
     <!-- TEXT BELAJAR JENIS MATRIKS -->
     <string name="slide_belajar_jenis_matriks_1_title">Jenis MATRIKS ?</string>
     <string name="slide_belajar_jenis_matriks_1_desc">
-        Matriks terbagi menjadi beberapa jenis, yaitu matriks persegi, matriks kolom, matriks baris, matriks transpos, matriks diagonal, matriks segitiga atas dan bawah, matriks nol, matriks simetri, dan matriks identitas.
+        Matriks terbagi menjadi beberapa jenis, yaitu matriks persegi, matriks kolom, matriks baris, matriks transpose, matriks diagonal, matriks segitiga atas dan bawah, matriks nol, matriks simetri, dan matriks identitas.
     </string>
     <string name="slide_belajar_jenis_matriks_2_title">Matriks Persegi</string>
     <string name="slide_belajar_jenis_matriks_2_desc">
@@ -109,7 +114,7 @@
     </string>
     <string name="slide_belajar_jenis_matriks_5_title">Matriks Transpose</string>
     <string name="slide_belajar_jenis_matriks_5_desc">
-        Matriks transpos Am x n yang selanjutnya dinotasikan dengan A’ adalah matriks berordo n x m dengan baris-barisnya adalah kolom-kolom matriks Am x n.
+        Matriks transpose Am x n yang selanjutnya dinotasikan dengan A’ adalah matriks berordo n x m dengan baris-barisnya adalah kolom-kolom matriks Am x n.
     </string>
 
     <!-- TEXT BELAJAR TRANSPOS -->
@@ -139,15 +144,15 @@
     </string>
     <string name="slide_belajar_kesamaan_matriks_3_title">Point A</string>
     <string name="slide_belajar_kesamaan_matriks_3_desc">
-        Pernyataan pada poin 1 adalah salah. Matriks tersebut memiliki ordo yang sama, yaitu 2 × 2, dan elemen-elemen yang sama, tetapi elemen-elemen yang bersesuaian tidaklah sama. Pilih elemen pada baris pertama dan kolom pertama, yaitu 1 pada matriks di ruas kiri, sedangkan pada matriks ruas kanan elemen tersebut adalah –3.
+        Pernyataan pada poin A adalah salah. Matriks tersebut memiliki ordo yang sama, yaitu 2 × 2, dan elemen-elemen yang sama, tetapi elemen-elemen yang bersesuaian tidaklah sama. Pilih elemen pada baris pertama dan kolom pertama, yaitu 1 pada matriks di ruas kiri, sedangkan pada matriks ruas kanan elemen tersebut adalah –3.
     </string>
     <string name="slide_belajar_kesamaan_matriks_4_title">Point B</string>
     <string name="slide_belajar_kesamaan_matriks_4_desc">
-        Pernyataan pada poin 2 juga salah, karena ordo dari matriks-matriks tersebut tidaklah sama. Ordo dari matriks di ruas kiri adalah 3 × 2, sedangkan matriks di ruas kanan berordo 2 × 3.
+        Pernyataan pada poin B juga salah, karena ordo dari matriks-matriks tersebut tidaklah sama. Ordo dari matriks di ruas kiri adalah 3 × 2, sedangkan matriks di ruas kanan berordo 2 × 3.
     </string>
     <string name="slide_belajar_kesamaan_matriks_5_title">Point C</string>
     <string name="slide_belajar_kesamaan_matriks_5_desc">
-        Pernyataan pada poin 3 adalah kondisional. Agar pernyataan tersebut bernilai benar, maka a – 2 = 1 (a = 3), 2b = 4 (b = 2), c = –2, dan akan salah jika tidak memenuhi salah satu (atau lebih) dari syarat tersebut.
+        Pernyataan pada poin C adalah kondisional. Agar pernyataan tersebut bernilai benar, maka a – 2 = 1 (a = 3), 2b = 4 (b = 2), c = –2, dan akan salah jika tidak memenuhi salah satu (atau lebih) dari syarat tersebut.
     </string>
 
     <!-- TEXT BELAJAR PERTAMBAHAN DAN PENGURANGAN MATRIKS -->
@@ -237,13 +242,19 @@
         Jenis - jenis Matriks
     </string>
     <string name="belajar_jenis_matrik_text_description">
-        Mengenal jenis - jenis matriks seperti matriks persegi, matriks kolom, matriks baris dan matriks transpos
+        Mengenal jenis - jenis matriks seperti matriks persegi, matriks kolom, matriks baris dan matriks transpose
+    </string>
+    <string name="belajar_ordo_matrik_text_menu">
+        Ordo Matriks
+    </string>
+    <string name="belajar_ordo_matrik_text_description">
+        Mengenal ordo seperti matriks persegi, matriks kolom, matriks baris dan matriks transpose
     </string>
     <string name="belajar_transpos_text_menu">
         Transpose pada Matriks
     </string>
     <string name="belajar_transpos_text_description">
-        Mengetahui bagaimana cara kerja transpos pada matriks
+        Untuk memahami penerapaan matriks yang lebih luas, kita perlu untuk mengetahui operasi-operasi dalam matriks, dalam pembahasan ini kita hanya akan membahas transpose dari matriks.
     </string>
     <string name="belajar_kesamaan_matriks_text_menu">
         Kesamaan Matriks

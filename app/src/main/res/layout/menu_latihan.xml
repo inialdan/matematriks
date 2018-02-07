@@ -26,8 +26,14 @@
                 android:layout_height="match_parent" />
 
             <include
-                android:id="@+id/menu_latihan_quiz"
-                layout="@layout/menu_latihan_quiz"
+                android:id="@+id/menu_latihan_quiz_multiple"
+                layout="@layout/menu_latihan_quiz_multiple"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <include
+                android:id="@+id/menu_latihan_quiz_essay"
+                layout="@layout/menu_latihan_quiz_essay"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent" />
 

@@ -32,7 +32,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".pub.Splashscreen"
+            android:name=".helper.pub.Splashscreen"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.SplashScreen">
@@ -43,68 +43,80 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".pub.Introduce"
+            android:name=".helper.pub.Introduce"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".Main"
             android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".activity.menu.belajar.belajar_matriks"
+            android:name=".menu.activity.menu.belajar.belajar_matriks"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".activity.menu.belajar.belajar_jenis_matriks"
+            android:name=".menu.activity.menu.belajar.belajar_ordo_matriks"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".activity.menu.belajar.belajar_transpos_matriks"
+            android:name=".menu.activity.menu.belajar.belajar_jenis_matriks"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".activity.menu.belajar.belajar_kesamaan_matriks"
+            android:name=".menu.activity.menu.belajar.belajar_transpos_matriks"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".activity.menu.belajar.belajar_pertambahan_pengurangan_matriks"
+            android:name=".menu.activity.menu.belajar.belajar_kesamaan_matriks"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".activity.menu.belajar.belajar_perkalian_matriks"
+            android:name=".menu.activity.menu.belajar.belajar_pertambahan_pengurangan_matriks"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".activity.menu.belajar.belajar_determinan_matriks"
+            android:name=".menu.activity.menu.belajar.belajar_perkalian_matriks"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".activity.menu.belajar.belajar_minor_matriks"
+            android:name=".menu.activity.menu.belajar.belajar_determinan_matriks"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".activity.menu.latihan.latihan_determinan"
+            android:name=".menu.activity.menu.belajar.belajar_minor_matriks"
+            android:noHistory="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".menu.activity.menu.latihan.latihan_determinan"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <activity
-            android:name=".QuizMatriks"
+            android:name=".controller.MultipleChoiseMatriks"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <activity
-            android:name=".ScoreResults"
+            android:name=".controller.EssayMatriks"
+            android:noHistory="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+            android:name=".controller.ScoreController"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
