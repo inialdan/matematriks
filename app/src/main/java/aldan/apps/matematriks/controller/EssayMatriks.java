@@ -2,6 +2,7 @@ package aldan.apps.matematriks.controller;
 
 import android.content.Intent;
 import android.content.res.Resources;
+import android.graphics.Typeface;
 import android.graphics.drawable.Drawable;
 import android.os.Build;
 import android.os.Bundle;
@@ -37,10 +38,11 @@ import aldan.apps.matematriks.R;
  */
 
 public class EssayMatriks extends AppCompatActivity {
-    TextView mtvSkor2,mtvSoal2;
+    TextView mtvSkor, mtvSoal, mtvNumbering;
     ImageView mivGambar;
     EditText medtJawaban;
     Button mbtnSubmit2;
+    TextView fontSmall, fontMedium, fontLarge;
     int x=0;
     int arr;
     int skor;
@@ -52,20 +54,69 @@ public class EssayMatriks extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.a_quiz_essay);
+        setContentView(R.layout.layout_quiz_essay);
 
-        mtvSkor2 = findViewById(R.id.tvSkor2);
-        mtvSoal2 = findViewById(R.id.tvSoal2);
+        mtvSkor = findViewById(R.id.tvSkor);
+        mtvSoal = findViewById(R.id.tvSoal);
+        mtvNumbering = findViewById(R.id.tvNumberSoal);
         mivGambar = findViewById(R.id.ivGambar);
         medtJawaban = findViewById(R.id.edtJawaban);
-        mbtnSubmit2 = findViewById(R.id.btnSubmit2);
+        mbtnSubmit2 = findViewById(R.id.btnSubmit);
+
+        fontSmall = findViewById(R.id.small);
+        fontMedium = findViewById(R.id.medium);
+        fontLarge = findViewById(R.id.large);
+
+        mtvSkor.setText("" + skor);
 
         setKonten();
+        setFont();
 
         mbtnSubmit2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 cekJawaban();
+            }
+        });
+    }
+
+    public void setFont(){
+        findViewById(R.id.small).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mtvSoal.setTextSize(18);
+                fontSmall.setTypeface(Typeface.DEFAULT_BOLD);
+                fontMedium.setTypeface(Typeface.DEFAULT);
+                fontLarge.setTypeface(Typeface.DEFAULT);
+                fontSmall.setTextColor(getResources().getColor(R.color.black));
+                fontMedium.setTextColor(getResources().getColor(R.color.white));
+                fontLarge.setTextColor(getResources().getColor(R.color.white));
+            }
+        });
+
+        findViewById(R.id.medium).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mtvSoal.setTextSize(22);
+                fontSmall.setTypeface(Typeface.DEFAULT);
+                fontMedium.setTypeface(Typeface.DEFAULT_BOLD);
+                fontLarge.setTypeface(Typeface.DEFAULT);
+                fontSmall.setTextColor(getResources().getColor(R.color.white));
+                fontMedium.setTextColor(getResources().getColor(R.color.black));
+                fontLarge.setTextColor(getResources().getColor(R.color.white));
+            }
+        });
+
+        findViewById(R.id.large).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mtvSoal.setTextSize(25);
+                fontSmall.setTypeface(Typeface.DEFAULT);
+                fontMedium.setTypeface(Typeface.DEFAULT);
+                fontLarge.setTypeface(Typeface.DEFAULT_BOLD);
+                fontSmall.setTextColor(getResources().getColor(R.color.white));
+                fontMedium.setTextColor(getResources().getColor(R.color.white));
+                fontLarge.setTextColor(getResources().getColor(R.color.black));
             }
         });
     }
@@ -87,16 +138,17 @@ public class EssayMatriks extends AppCompatActivity {
             startActivity(i);
         }else{
             int No = x + 1;
-            mtvSoal2.setText(essay.getPertanyaan(x));
+            mtvNumbering.setText(No + " dari " + Question);
+            mtvSoal.setText(No + ".) " + essay.getPertanyaan(randomList.get(x)));
             changeContentPict();
-            jawaban = essay.getJawabanBenar(x);
+            jawaban = essay.getJawabanBenar(randomList.get(x));
         }
         x++;
     }
 
     public void changeContentPict(){
         Resources res = getResources();
-        String mPhoto = essay.getStringGambar(x);
+        String mPhoto = essay.getStringGambar(randomList.get(x));
         int resID = res.getIdentifier(mPhoto, "drawable", getPackageName());
         Drawable drawable = res.getDrawable(resID);
         mivGambar.setImageDrawable(drawable);
@@ -106,7 +158,7 @@ public class EssayMatriks extends AppCompatActivity {
         if(!medtJawaban.getText().toString().isEmpty()){
             if(medtJawaban.getText().toString().equalsIgnoreCase(jawaban)){
                 skor = skor + 10;
-                mtvSkor2.setText(""+skor);
+                mtvSkor.setText("" + skor);
                 if (Build.VERSION.SDK_INT >= 21) {
                     TastyToast.makeText(this, "Jawaban Benar", TastyToast.LENGTH_SHORT, TastyToast.SUCCESS);
                 }else{
@@ -114,7 +166,7 @@ public class EssayMatriks extends AppCompatActivity {
                 }
                 setKonten();
             }else{
-                mtvSkor2.setText(""+skor);
+                mtvSkor.setText("" + skor);
                 if (Build.VERSION.SDK_INT >= 21) {
                     TastyToast.makeText(this, "Jawaban Salah", TastyToast.LENGTH_SHORT, TastyToast.ERROR);
                 }else{

@@ -116,8 +116,8 @@ public class Main extends AppCompatActivity {
 
         if (id == R.id.action_info) {
             new FancyGifDialog.Builder(this)
-                    .setTitle("Matematriks Copyright 2017 (c) Al Reserved")
-                    .setMessage("Developer Aldan Rizki Santosa")
+                    .setTitle("Matematriks (c) Copyright 2017\nAl Reserved")
+                    .setMessage("Developer Aldan Rizki Santosa\n\nSource : wikipedia")
                     .setNegativeBtnText("Cancel")
                     .setPositiveBtnBackground("#FF4081")
                     .setPositiveBtnText("Ok")
@@ -127,13 +127,13 @@ public class Main extends AppCompatActivity {
                     .OnPositiveClicked(new FancyGifDialogListener() {
                         @Override
                         public void OnClick() {
-                            Toast.makeText(Main.this,"Ok",Toast.LENGTH_SHORT).show();
+                            //Toast.makeText(Main.this,"Ok",Toast.LENGTH_SHORT).show();
                         }
                     })
                     .OnNegativeClicked(new FancyGifDialogListener() {
                         @Override
                         public void OnClick() {
-                            Toast.makeText(Main.this,"Cancel",Toast.LENGTH_SHORT).show();
+                            //Toast.makeText(Main.this,"Cancel",Toast.LENGTH_SHORT).show();
                         }
                     })
                     .build();

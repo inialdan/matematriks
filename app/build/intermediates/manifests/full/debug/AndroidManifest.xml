@@ -36,7 +36,6 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
             android:name="aldan.apps.matematriks.helper.pub.Splashscreen"
@@ -118,7 +117,8 @@
             android:name="aldan.apps.matematriks.controller.EssayMatriks"
             android:noHistory="true"
             android:screenOrientation="portrait"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden" />
         <activity
             android:name="aldan.apps.matematriks.controller.ScoreController"
             android:noHistory="true"

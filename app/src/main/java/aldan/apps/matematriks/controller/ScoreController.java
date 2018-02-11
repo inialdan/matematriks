@@ -34,17 +34,18 @@ public class ScoreController extends AppCompatActivity {
     private static TextView mtvHasilAkhir;
     private static ImageView Piala,StarLeft,StarRight;
     private PrefManager prefManager;
-    Button mbtnMenu;
+    Button mbtnMenu, mbtnRetry;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.a_hasil_skor);
+        setContentView(R.layout.layout_hasil_skor);
 
         prefManager = new PrefManager(this);
 
         mtvHasilAkhir = findViewById(R.id.tvSkorAkhir);
         mbtnMenu = findViewById(R.id.btnMenu);
+        mbtnRetry = findViewById(R.id.btnRetry);
         Piala = findViewById(R.id.Piala);
         StarLeft = findViewById(R.id.StarLeft);
         StarRight = findViewById(R.id.StarRight);
@@ -88,6 +89,14 @@ public class ScoreController extends AppCompatActivity {
 
             prefManager.saveSPString(prefManager.SCORE_LAST, skorPilGan);
 
+            mbtnRetry.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    Intent i = new Intent(ScoreController.this, MultipleChoiseMatriks.class);
+                    startActivity(i);
+                }
+            });
+
         } else if (activity.equals("Essay")){
             int scoreEssay = 0;
             String skorEssay = getIntent().getStringExtra("skorAkhirEssay");
@@ -110,7 +119,16 @@ public class ScoreController extends AppCompatActivity {
             if (valueEssay >= 60) {
                 prefManager.saveSPString(prefManager.SCORE_ESSAY, skorEssay);
             }
+
             prefManager.saveSPString(prefManager.SCORE_LAST, skorEssay);
+
+            mbtnRetry.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    Intent i = new Intent(ScoreController.this, EssayMatriks.class);
+                    startActivity(i);
+                }
+            });
         }
 
     }

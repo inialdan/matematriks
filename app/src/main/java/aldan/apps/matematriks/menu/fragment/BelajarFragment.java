@@ -54,7 +54,7 @@ import aldan.apps.matematriks.helper.session.PrefManager;
 public class BelajarFragment extends Fragment {
 
     private static final String TAG = BelajarFragment.class.getSimpleName();
-    private static IconRoundCornerProgressBar progressBarScore;
+    private static RoundCornerProgressBar progressBarScore;
     private static TextView textScoreKonsep;
     private static ImageView statusBelajarMatriks,
             statusBelajarOrdo,
@@ -152,39 +152,31 @@ public class BelajarFragment extends Fragment {
         final Integer Perkalian = Integer.parseInt(ScorePerkalian);
         final Integer Determinan = Integer.parseInt(ScoreDeterminan);
         final Integer Minor = Integer.parseInt(ScoreMinor);
-        final Integer theScore = Matriks + Ordo + JenisMatriks + Transpose + KesamaanMatriks + PertambahanPengurangan + Perkalian + Determinan + Minor;
+        Integer theScore = Matriks + Ordo + JenisMatriks + Transpose + KesamaanMatriks + PertambahanPengurangan + Perkalian + Determinan + Minor;
 
         float progress = progressBarScore.getProgress();
-        if(progress <= 30) {
+        if(progress <= 3) {
             progressBarScore.setProgressColor(getResources().getColor(R.color.colorPrimary));
-        } else if(progress > 30 && progress <= 60) {
+        } else if(progress > 3 && progress <= 6) {
             progressBarScore.setProgressColor(getResources().getColor(R.color.color_yellow_button_denied));
-        } else if(progress > 60) {
+        } else if(progress > 6) {
             progressBarScore.setProgressColor(getResources().getColor(R.color.color_green_circle));
         }
 
         progressBarScore.setProgressColor(Color.parseColor("#56d2c2"));
         progressBarScore.setProgressBackgroundColor(Color.parseColor("#757575"));
-        progressBarScore.setIconBackgroundColor(Color.parseColor("#38c0ae"));
-        progressBarScore.setMax(100);
-        progressBarScore.setIconImageResource(R.drawable.icon_bag);
-
+//        progressBarScore.setIconBackgroundColor(Color.parseColor("#38c0ae"));
+//        progressBarScore.setIconImageResource(R.drawable.icon_bag);
+        progressBarScore.setMax(10);
+        final Integer finalTheScore = theScore / 10;
         new Thread(new Runnable() {
             public void run() {
-                while (i < theScore) {
-                    if(i <= 50){
-                        i += 25;
-                    }else if(i <= 70){
-                        i += 20;
-                    }else if(i <= 80){
-                        i += 10;
-                    }else{
-                        i += 5;
-                    }
+                while (i < finalTheScore) {
+                    i += 1;
                     progressHandler.post(new Runnable() {
                         public void run() {
                             progressBarScore.setProgress(i);
-                            textScoreKonsep.setText("" + i + "/100");
+                            textScoreKonsep.setText("" + i + "/10");
                         }
                     });
                     try {

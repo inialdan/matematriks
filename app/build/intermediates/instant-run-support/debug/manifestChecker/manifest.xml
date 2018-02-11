@@ -118,7 +118,8 @@
             android:name="aldan.apps.matematriks.controller.EssayMatriks"
             android:noHistory="true"
             android:screenOrientation="portrait"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden" />
         <activity
             android:name="aldan.apps.matematriks.controller.ScoreController"
             android:noHistory="true"

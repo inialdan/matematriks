@@ -54,7 +54,7 @@
                 android:textAlignment="center"
                 android:layout_below="@id/Piala"
                 android:textStyle="bold"
-                android:text="Skor Terakhir :" />
+                android:text="Kamu belum melakukan test apapun, ayo silahkan coba!" />
 
         </RelativeLayout>
     </android.support.v7.widget.CardView>

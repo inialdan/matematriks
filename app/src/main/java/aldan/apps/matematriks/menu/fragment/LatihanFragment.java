@@ -90,9 +90,7 @@ public class LatihanFragment extends Fragment {
             textLastScore.setTextColor(getResources().getColor(R.color.red_primary));
         }
 
-        if (ScoreLast == 0){
-            textLastScore.setText("Kamu belum melakukan test apapun, ayo silahkan coba!");
-        }else{
+        if (ScoreLast <= 0){
             textLastScore.setText("Skor Terakhir : " + ScoreLast);
         }
 

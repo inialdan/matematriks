@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite">
+
+    <ImageView
+        android:id="@+id/imageCongrats"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/congrats"/>
+
+    <ImageView
+        android:id="@+id/Piala"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_below="@+id/imageCongrats"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="13dp"
+        android:src="@drawable/icon_pialaoff" />
+
+    <ImageView
+        android:id="@+id/StarLeft"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_alignTop="@+id/Piala"
+        android:layout_toLeftOf="@+id/Piala"
+        android:layout_toStartOf="@+id/Piala"
+        android:src="@drawable/icon_leftstaroff" />
+
+    <ImageView
+        android:id="@+id/StarRight"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_alignTop="@+id/Piala"
+        android:layout_toEndOf="@+id/Piala"
+        android:layout_toRightOf="@+id/Piala"
+        android:src="@drawable/icon_rightstaroff" />
+
+    <TextView
+        android:id="@+id/tvSkorAkhir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/Piala"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="100"
+        android:textColor="@color/green_primary"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/tvKeterangan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/tvSkorAkhir"
+        android:gravity="center"
+        android:text="Kamu telah menyelasikan aktivitas Latihan Bab 'Matriks'"
+        android:textColor="@color/grey_primary_dark"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvMotivation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btnMenu"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="31dp"
+        android:gravity="center"
+        android:text="Motivation"
+        android:textColor="@color/grey_primary_dark"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btnMenu"
+        android:layout_width="120dp"
+        android:layout_height="50dp"
+        android:layout_above="@+id/btnRetry"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="9dp"
+        android:background="@drawable/bg_form_button_answer"
+        android:text="HOME"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btnRetry"
+        android:layout_width="120dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/btnMenu"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/bg_form_button_answer"
+        android:text="Ulangi"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+
+</RelativeLayout>

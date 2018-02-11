@@ -52,7 +52,7 @@ public class MultipleChoiseMatriks extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.a_quiz_test);
+        setContentView(R.layout.layout_quiz_multiple);
 
         mtvSkor = findViewById(R.id.tvSkor);
         mtvSoal = findViewById(R.id.tvSoal);

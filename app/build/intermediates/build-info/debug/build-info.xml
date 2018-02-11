@@ -2,68 +2,45 @@
 <instant-run
     abi="armeabi-v7a,armeabi"
     api-level="23"
-    build-mode="FULL"
+    build-mode="COLD"
     density="xhdpi"
     format="10"
+    ir-eligibility="R_CLASS_CHANGE"
     plugin-version="3.0.1"
-    timestamp="1518015137997"
+    timestamp="1518352838306"
     token="-6472336118821463167"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="4829" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="99" />
     <task
         name="verifier"
-        duration="0" />
+        duration="29" />
 
     <artifact
-        location="D:\@Android Studio Projects\Matematrik\app\build\outputs\apk\debug\app-debug.apk"
-        type="SPLIT_MAIN" />
-    <artifact
-        location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
         type="SPLIT" />
     <artifact
         location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
         type="SPLIT" />
     <artifact
-        location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-        type="SPLIT" />
+        location="D:\@Android Studio Projects\Matematrik\app\build\outputs\apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1518015137997"
+        timestamp="1518350375592"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
         <artifact
             location="D:\@Android Studio Projects\Matematrik\app\build\outputs\apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
@@ -86,9 +63,6 @@
             location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
             location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
@@ -100,6 +74,48 @@
         <artifact
             location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="R_CLASS_CHANGE"
+        timestamp="1518352326880"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="R_CLASS_CHANGE"
+        timestamp="1518352838306"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\@Android Studio Projects\Matematrik\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\@Android Studio Projects\Matematrik\app\build\outputs\apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>
