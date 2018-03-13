@@ -9,10 +9,10 @@ package com.victor.loading;
 public final class R {
     public static final class attr {
         public static final int cradle_ball_color = 0x7f04007d;
-        public static final int loading_color = 0x7f04010a;
-        public static final int loading_speed = 0x7f04010b;
-        public static final int loading_width = 0x7f04010c;
-        public static final int shadow_position = 0x7f040162;
+        public static final int loading_color = 0x7f04010d;
+        public static final int loading_speed = 0x7f04010e;
+        public static final int loading_width = 0x7f04010f;
+        public static final int shadow_position = 0x7f040168;
     }
     public static final class color {
         public static final int book_loading_background = 0x7f0600c6;
@@ -20,9 +20,9 @@ public final class R {
         public static final int book_loading_page = 0x7f0600c8;
     }
     public static final class dimen {
-        public static final int book_border = 0x7f07004c;
-        public static final int book_padding = 0x7f07004d;
-        public static final int page_border = 0x7f0700a4;
+        public static final int book_border = 0x7f07005a;
+        public static final int book_padding = 0x7f07005b;
+        public static final int page_border = 0x7f0700e2;
     }
     public static final class id {
         public static final int ball_five = 0x7f09004f;
@@ -33,7 +33,7 @@ public final class R {
     }
     public static final class layout {
         public static final int book_loading = 0x7f0b0020;
-        public static final int newton_cradle_loading = 0x7f0b0058;
+        public static final int newton_cradle_loading = 0x7f0b0059;
     }
     public static final class string {
         public static final int app_name = 0x7f0e0020;
@@ -41,7 +41,7 @@ public final class R {
     public static final class styleable {
         public static final int[] CradleBall = { 0x7f04007d };
         public static final int CradleBall_cradle_ball_color = 0;
-        public static final int[] RotateLoading = { 0x7f04010a, 0x7f04010b, 0x7f04010c, 0x7f040162 };
+        public static final int[] RotateLoading = { 0x7f04010d, 0x7f04010e, 0x7f04010f, 0x7f040168 };
         public static final int RotateLoading_loading_color = 0;
         public static final int RotateLoading_loading_speed = 1;
         public static final int RotateLoading_loading_width = 2;

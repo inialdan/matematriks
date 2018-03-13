@@ -8,29 +8,29 @@ package com.akexorcist.roundcornerprogressbar;
 
 public final class R {
     public static final class attr {
-        public static final int rcBackgroundColor = 0x7f040139;
-        public static final int rcBackgroundPadding = 0x7f04013a;
-        public static final int rcIconBackgroundColor = 0x7f04013b;
-        public static final int rcIconHeight = 0x7f04013c;
-        public static final int rcIconPadding = 0x7f04013d;
-        public static final int rcIconPaddingBottom = 0x7f04013e;
-        public static final int rcIconPaddingLeft = 0x7f04013f;
-        public static final int rcIconPaddingRight = 0x7f040140;
-        public static final int rcIconPaddingTop = 0x7f040141;
-        public static final int rcIconSize = 0x7f040142;
-        public static final int rcIconSrc = 0x7f040143;
-        public static final int rcIconWidth = 0x7f040144;
-        public static final int rcMax = 0x7f040145;
-        public static final int rcProgress = 0x7f040146;
-        public static final int rcProgressColor = 0x7f040147;
-        public static final int rcRadius = 0x7f040148;
-        public static final int rcReverse = 0x7f040149;
-        public static final int rcSecondaryProgress = 0x7f04014a;
-        public static final int rcSecondaryProgressColor = 0x7f04014b;
-        public static final int rcTextProgress = 0x7f04014c;
-        public static final int rcTextProgressColor = 0x7f04014d;
-        public static final int rcTextProgressMargin = 0x7f04014e;
-        public static final int rcTextProgressSize = 0x7f04014f;
+        public static final int rcBackgroundColor = 0x7f04013c;
+        public static final int rcBackgroundPadding = 0x7f04013d;
+        public static final int rcIconBackgroundColor = 0x7f04013e;
+        public static final int rcIconHeight = 0x7f04013f;
+        public static final int rcIconPadding = 0x7f040140;
+        public static final int rcIconPaddingBottom = 0x7f040141;
+        public static final int rcIconPaddingLeft = 0x7f040142;
+        public static final int rcIconPaddingRight = 0x7f040143;
+        public static final int rcIconPaddingTop = 0x7f040144;
+        public static final int rcIconSize = 0x7f040145;
+        public static final int rcIconSrc = 0x7f040146;
+        public static final int rcIconWidth = 0x7f040147;
+        public static final int rcMax = 0x7f040148;
+        public static final int rcProgress = 0x7f040149;
+        public static final int rcProgressColor = 0x7f04014a;
+        public static final int rcRadius = 0x7f04014b;
+        public static final int rcReverse = 0x7f04014c;
+        public static final int rcSecondaryProgress = 0x7f04014d;
+        public static final int rcSecondaryProgressColor = 0x7f04014e;
+        public static final int rcTextProgress = 0x7f04014f;
+        public static final int rcTextProgressColor = 0x7f040150;
+        public static final int rcTextProgressMargin = 0x7f040151;
+        public static final int rcTextProgressSize = 0x7f040152;
     }
     public static final class color {
         public static final int round_corner_progress_bar_background_default = 0x7f060153;
@@ -43,7 +43,7 @@ public final class R {
         public static final int layout_progress = 0x7f0900bb;
         public static final int layout_progress_holder = 0x7f0900bc;
         public static final int layout_secondary_progress = 0x7f0900bd;
-        public static final int tv_progress = 0x7f090184;
+        public static final int tv_progress = 0x7f090187;
     }
     public static final class layout {
         public static final int layout_icon_round_corner_progress_bar = 0x7f0b0037;
@@ -51,10 +51,10 @@ public final class R {
         public static final int layout_text_round_corner_progress_bar = 0x7f0b003b;
     }
     public static final class mipmap {
-        public static final int round_corner_progress_icon = 0x7f0d0003;
+        public static final int round_corner_progress_icon = 0x7f0d0002;
     }
     public static final class styleable {
-        public static final int[] IconRoundCornerProgress = { 0x7f04013b, 0x7f04013c, 0x7f04013d, 0x7f04013e, 0x7f04013f, 0x7f040140, 0x7f040141, 0x7f040142, 0x7f040143, 0x7f040144 };
+        public static final int[] IconRoundCornerProgress = { 0x7f04013e, 0x7f04013f, 0x7f040140, 0x7f040141, 0x7f040142, 0x7f040143, 0x7f040144, 0x7f040145, 0x7f040146, 0x7f040147 };
         public static final int IconRoundCornerProgress_rcIconBackgroundColor = 0;
         public static final int IconRoundCornerProgress_rcIconHeight = 1;
         public static final int IconRoundCornerProgress_rcIconPadding = 2;
@@ -65,7 +65,7 @@ public final class R {
         public static final int IconRoundCornerProgress_rcIconSize = 7;
         public static final int IconRoundCornerProgress_rcIconSrc = 8;
         public static final int IconRoundCornerProgress_rcIconWidth = 9;
-        public static final int[] RoundCornerProgress = { 0x7f040139, 0x7f04013a, 0x7f040145, 0x7f040146, 0x7f040147, 0x7f040148, 0x7f040149, 0x7f04014a, 0x7f04014b };
+        public static final int[] RoundCornerProgress = { 0x7f04013c, 0x7f04013d, 0x7f040148, 0x7f040149, 0x7f04014a, 0x7f04014b, 0x7f04014c, 0x7f04014d, 0x7f04014e };
         public static final int RoundCornerProgress_rcBackgroundColor = 0;
         public static final int RoundCornerProgress_rcBackgroundPadding = 1;
         public static final int RoundCornerProgress_rcMax = 2;
@@ -75,7 +75,7 @@ public final class R {
         public static final int RoundCornerProgress_rcReverse = 6;
         public static final int RoundCornerProgress_rcSecondaryProgress = 7;
         public static final int RoundCornerProgress_rcSecondaryProgressColor = 8;
-        public static final int[] TextRoundCornerProgress = { 0x7f04014c, 0x7f04014d, 0x7f04014e, 0x7f04014f };
+        public static final int[] TextRoundCornerProgress = { 0x7f04014f, 0x7f040150, 0x7f040151, 0x7f040152 };
         public static final int TextRoundCornerProgress_rcTextProgress = 0;
         public static final int TextRoundCornerProgress_rcTextProgressColor = 1;
         public static final int TextRoundCornerProgress_rcTextProgressMargin = 2;

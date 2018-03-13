@@ -116,8 +116,8 @@ public class Main extends AppCompatActivity {
 
         if (id == R.id.action_info) {
             new FancyGifDialog.Builder(this)
-                    .setTitle("Matematriks (c) Copyright 2017\nAl Reserved")
-                    .setMessage("Developer Aldan Rizki Santosa\n\nSource : wikipedia")
+                    .setTitle("Developer by\nAldan Rizki Santosa, MTA.")
+                    .setMessage("Content by\nIrma Rohima, S. Si\n\nCopyright (c) 2018\nGEN-13 RPL\nSMK Wikrama Bogor")
                     .setNegativeBtnText("Cancel")
                     .setPositiveBtnBackground("#FF4081")
                     .setPositiveBtnText("Ok")

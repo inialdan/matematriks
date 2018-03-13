@@ -39,6 +39,7 @@ public class PrefManager {
     public static final String SCORE_PERKALIAN_MATRIKS = "belajar_perkalian_matriks";
     public static final String SCORE_BELAJAR_DETERMINAN = "belajar_determinan_matriks";
     public static final String SCORE_BELAJAR_MINOR = "belajar_minor_matriks";
+    public static final String SCORE_BELAJAR_PENERAPAN_MATRIKS = "belajar_penerapan_matriks";
     public static final String SCORE_MULTIPLE_CHOISE = "multiple_choise";
     public static final String SCORE_LAST = "score_last";
     public static final String SCORE_ESSAY = "scoreessay";
@@ -107,6 +108,10 @@ public class PrefManager {
 
     public String getScoreBelajarMinor(){
         return pref.getString(SCORE_BELAJAR_MINOR, "");
+    }
+
+    public String getScoreBelajarPenerapanMatriks(){
+        return pref.getString(SCORE_BELAJAR_PENERAPAN_MATRIKS, "");
     }
 
     public String getScoreMultipleChoise(){

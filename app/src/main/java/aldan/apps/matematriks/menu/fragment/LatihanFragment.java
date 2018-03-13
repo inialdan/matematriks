@@ -37,7 +37,7 @@ public class LatihanFragment extends Fragment {
     private static final String TAG = LatihanFragment.class.getSimpleName();
     private static ImageView statusQuizMultipleChoise, statusQuizEssay;
     private PrefManager prefManager;
-    private TextView textLastScore;
+    private TextView textLastScore, textStatusScore;
     private ImageView imagePiala, imageStarleft, imageStarright;
     View RootView;
 
@@ -70,8 +70,10 @@ public class LatihanFragment extends Fragment {
         String lastScore = prefManager.getLastScore();
         String ScoreMultipleChoiseQuiz = prefManager.getScoreMultipleChoise();
         String ScoreEssayQuiz = prefManager.getScoreEssay();
+        textStatusScore.setVisibility(View.INVISIBLE);
 
         if (lastScore.equals("")){
+            textStatusScore.setVisibility(View.VISIBLE);
             lastScore = "0";
         }
 
@@ -90,7 +92,7 @@ public class LatihanFragment extends Fragment {
             textLastScore.setTextColor(getResources().getColor(R.color.red_primary));
         }
 
-        if (ScoreLast <= 0){
+        if (ScoreLast >= 0){
             textLastScore.setText("Skor Terakhir : " + ScoreLast);
         }
 
@@ -120,6 +122,7 @@ public class LatihanFragment extends Fragment {
         statusQuizMultipleChoise = RootView.findViewById(R.id.statusQuizMultipleChoise);
         statusQuizEssay = RootView.findViewById(R.id.statusQuizEssay);
         textLastScore = RootView.findViewById(R.id.textViewLastScore);
+        textStatusScore = RootView.findViewById(R.id.textViewStatusScore);
         imagePiala = RootView.findViewById(R.id.Piala);
         imageStarleft = RootView.findViewById(R.id.StarLeft);
         imageStarright = RootView.findViewById(R.id.StarRight);

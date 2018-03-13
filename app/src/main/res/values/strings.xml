@@ -23,6 +23,19 @@
     <string name="hi_developer">Hi Dan!</string>
     <string name="title_profile">Profile</string>
 
+    <string name="motivation_100">Tingkatkan terus Nilainya :)</string>
+    <string name="motivation_80">Kamu Sudah mencapai nilai minimal, Tingkatkan</string>
+    <string name="motivation_60">Kamu hampir mencapai nilai minimal, coba terus!</string>
+    <string name="motivation_0">Kamu kurang teliti, Tetap coba lagi jangan putus asa!</string>
+
+
+    <string name="version">Version</string>
+    <string name="intro_label">Introduction</string>
+    <string name="fork_on_github">Fork on GitHub</string>
+    <string name="licenses">Licenses</string>
+
+
+
     <string name="app_name_subtitle">Belajar jadi lebih mudah</string>
     <string name="next">Selanjutnya</string>
     <string name="skip">Lewati</string>
@@ -229,6 +242,33 @@
         m21 = 3 | m22 = 1
     </string>
 
+    <!-- TEXT BELAJAR MINOR -->
+    <string name="slide_belajar_penerapan_matriks_1_title">PENERAPAN MATRIKS</string>
+    <string name="slide_belajar_penerapan_matriks_1_desc">
+        Matriks banyak dimanfaatkan untuk menyelesaikan berbagai permasalahan matematika misalnya dalam menemukan solusi masalah persamaan linear, transformasi linear yakni bentuk umum dari fungsi linear contohnya rotasi dalam 3 dimensi.
+    </string>
+    <string name="slide_belajar_penerapan_matriks_2_title">Sebagai variabel biasa</string>
+    <string name="slide_belajar_penerapan_matriks_2_desc">
+        Matriks juga seperti variabel biasa, sehingga matrikspun dapat dimanipulasi misalnya dikalikan, dijumlah, dikurangkan, serta didekomposisikan. Menggunakan representasi matriks, perhitungan dapat dilakukan dengan lebih terstruktur
+    </string>
+    <string name="slide_belajar_penerapan_matriks_3_title">Sebagai analisis</string>
+    <string name="slide_belajar_penerapan_matriks_3_desc">
+        Memudahkan dalam membuat analisis mengenai suatu masalah ekonomi yang mengandung bermacam – macam variable.
+    </string>
+    <string name="slide_belajar_penerapan_matriks_4_title">Pemecah Masalah</string>
+    <string name="slide_belajar_penerapan_matriks_4_desc">
+        Digunakan dalam memecahkan masalah operasi penyelidikan , misalnya masalah operasi penyelidikan sumber – sumber minyak bumi dan sebagainya.
+    </string>
+
+    <string name="slide_belajar_penerapan_matriks_5_title">Teknologi</string>
+    <string name="slide_belajar_penerapan_matriks_5_desc">
+        Dikaitkan dengan penggunaan program linear, analisis input output baik dalam ekonomi, statistic, maupun dalam bidang pendidikan, manajemen, kimia, dan bidang – bidang teknologi yang lainnya.
+    </string>
+    <string name="slide_belajar_penerapan_matriks_6_title">Alat Bantu</string>
+    <string name="slide_belajar_penerapan_matriks_6_desc">
+        Dengan menggunaan Microsoft Office Excel sebagai media pembelajaran. Khususnya untuk menghitung berbagai operasi matriks ternyata cukup mudah untuk dilakukan oleh guru serta sangat efisien untuk waktu pengerjaan sebuah matriks, jika secara manual untuk menghitung sebuah matriks yang memiliki orde banyak diperlukan waktu yang sangat lama bahkan sampai berhari-hari.
+    </string>
+
     <string name="TandaMatriks">[   ]</string>
 
     <!-- TEXT MENU MODUL BELAJAR -->
@@ -285,6 +325,12 @@
     </string>
     <string name="belajar_minor_text_description">
         Mempelajari materi minor matriks untuk menentukan nilai dari baris dan kolom matriks
+    </string>
+    <string name="belajar_penerapan_matriks_text_menu">
+        Penerapan Matriks
+    </string>
+    <string name="belajar_penerapan_matriks_text_description">
+        Pada materi ini, kita akan mengetahui penerapan matriks pada kehidupan sehari - hari
     </string>
 
     <!-- TEXT ICON KETERANGAN BELAJAR -->

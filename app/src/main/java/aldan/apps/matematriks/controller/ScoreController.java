@@ -31,7 +31,7 @@ import aldan.apps.matematriks.helper.session.PrefManager;
 
 public class ScoreController extends AppCompatActivity {
 
-    private static TextView mtvHasilAkhir;
+    private static TextView mtvHasilAkhir, Motivation;
     private static ImageView Piala,StarLeft,StarRight;
     private PrefManager prefManager;
     Button mbtnMenu, mbtnRetry;
@@ -44,6 +44,7 @@ public class ScoreController extends AppCompatActivity {
         prefManager = new PrefManager(this);
 
         mtvHasilAkhir = findViewById(R.id.tvSkorAkhir);
+        Motivation = findViewById(R.id.tvMotivation);
         mbtnMenu = findViewById(R.id.btnMenu);
         mbtnRetry = findViewById(R.id.btnRetry);
         Piala = findViewById(R.id.Piala);
@@ -72,13 +73,19 @@ public class ScoreController extends AppCompatActivity {
                 Piala.setImageDrawable(getResources().getDrawable(R.drawable.icon_pialaon));
                 StarLeft.setImageDrawable(getResources().getDrawable(R.drawable.icon_leftstaron));
                 StarRight.setImageDrawable(getResources().getDrawable(R.drawable.icon_rightstaron));
+                Motivation.setText(getResources().getString(R.string.motivation_100));
+                Motivation.setTextColor(getResources().getColor(R.color.green));
             } else if (scoreMultipleChose >= 80) {
                 Piala.setImageDrawable(getResources().getDrawable(R.drawable.icon_pialaon));
                 StarLeft.setImageDrawable(getResources().getDrawable(R.drawable.icon_leftstaron));
+                Motivation.setText(getResources().getString(R.string.motivation_80));
+                Motivation.setTextColor(getResources().getColor(R.color.green));
             } else if (scoreMultipleChose >= 60) {
                 Piala.setImageDrawable(getResources().getDrawable(R.drawable.icon_pialaon));
+                Motivation.setText(getResources().getString(R.string.motivation_60));
             } else {
                 mtvHasilAkhir.setTextColor(getResources().getColor(R.color.red_primary));
+                Motivation.setText(getResources().getString(R.string.motivation_0));
             }
 
             mtvHasilAkhir.setText(skorPilGan);
@@ -105,13 +112,19 @@ public class ScoreController extends AppCompatActivity {
                 Piala.setImageDrawable(getResources().getDrawable(R.drawable.icon_pialaon));
                 StarLeft.setImageDrawable(getResources().getDrawable(R.drawable.icon_leftstaron));
                 StarRight.setImageDrawable(getResources().getDrawable(R.drawable.icon_rightstaron));
+                Motivation.setText(getResources().getString(R.string.motivation_100));
+                Motivation.setTextColor(getResources().getColor(R.color.green));
             } else if (scoreEssay >= 80) {
                 Piala.setImageDrawable(getResources().getDrawable(R.drawable.icon_pialaon));
                 StarLeft.setImageDrawable(getResources().getDrawable(R.drawable.icon_leftstaron));
+                Motivation.setText(getResources().getString(R.string.motivation_80));
+                Motivation.setTextColor(getResources().getColor(R.color.green));
             } else if (scoreEssay >= 60) {
                 Piala.setImageDrawable(getResources().getDrawable(R.drawable.icon_pialaon));
+                Motivation.setText(getResources().getString(R.string.motivation_60));
             } else {
                 mtvHasilAkhir.setTextColor(getResources().getColor(R.color.red_primary));
+                Motivation.setText(getResources().getString(R.string.motivation_0));
             }
 
             mtvHasilAkhir.setText(skorEssay);

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Feb 14 17:58:19 ICT 2018
+#Tue Mar 13 20:25:14 ICT 2018
 4.path=classes.dex
 8.set=DEX
 6.path=classes.dex
@@ -9,12 +9,12 @@
 1.base=D\:\\@Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
 8.path=classes.dex
 12.path=lib/mips64/libpl_droidsonroids_gif.so
-3.base=D\:\\@Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\34
+3.base=D\:\\@Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
 4.set=DEX
-5.base=D\:\\@Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\36
+5.base=D\:\\@Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
 7.base=D\:\\@Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
 11.base=D\:\\@Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
-9.base=D\:\\@Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+9.base=D\:\\@Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
 1.baseType=DIRECTORY
 11.set=NATIVE_RESOURCE
 0.set=NATIVE_RESOURCE
@@ -27,27 +27,27 @@
 7.baseType=DIRECTORY
 3.path=classes.dex
 10.set=DEX
-5.path=classes.dex
+5.path=lib/x86/libpl_droidsonroids_gif.so
 0.base=D\:\\@Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
-7.path=lib/x86/libpl_droidsonroids_gif.so
+7.path=lib/x86_64/libpl_droidsonroids_gif.so
 11.path=lib/armeabi-v7a/libpl_droidsonroids_gif.so
-9.path=lib/x86_64/libpl_droidsonroids_gif.so
+9.path=classes.dex
 6.set=DEX
 2.base=D\:\\@Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
 11.baseType=DIRECTORY
-4.base=D\:\\@Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\31
+4.base=D\:\\@Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
 3.baseType=DIRECTORY
-6.base=D\:\\@Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\33
-10.base=D\:\\@Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\35
-8.base=D\:\\@Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\32
+6.base=D\:\\@Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\17
+10.base=D\:\\@Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
+8.base=D\:\\@Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
 2.set=NATIVE_RESOURCE
 8.baseType=DIRECTORY
 12.base=D\:\\@Android Studio Projects\\Matematrik\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
-9.set=NATIVE_RESOURCE
+9.set=DEX
 count=13
 12.baseType=DIRECTORY
 4.baseType=DIRECTORY
-5.set=DEX
+5.set=NATIVE_RESOURCE
 9.baseType=DIRECTORY
 0.path=lib/mips/libpl_droidsonroids_gif.so
 12.set=NATIVE_RESOURCE

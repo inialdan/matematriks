@@ -12,7 +12,7 @@ public final class R {
     }
     public static final class attr {
         public static final int colors = 0x7f040068;
-        public static final int type = 0x7f0401ba;
+        public static final int type = 0x7f0401c1;
     }
     public static final class color {
         public static final int blue = 0x7f0600c1;
@@ -24,13 +24,13 @@ public final class R {
         public static final int chrome_floating_circles = 0x7f090069;
         public static final int folding_circles = 0x7f09009d;
         public static final int google_music_dices = 0x7f0900a3;
-        public static final int nexus_rotation_cross = 0x7f0900fc;
+        public static final int nexus_rotation_cross = 0x7f0900fd;
     }
     public static final class integer {
         public static final int default_type = 0x7f0a0006;
     }
     public static final class styleable {
-        public static final int[] GoogleProgressBar = { 0x7f040068, 0x7f0401ba };
+        public static final int[] GoogleProgressBar = { 0x7f040068, 0x7f0401c1 };
         public static final int GoogleProgressBar_colors = 0;
         public static final int GoogleProgressBar_type = 1;
     }

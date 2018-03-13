@@ -94,6 +94,12 @@
                 android:layout_height="match_parent" />
 
             <include
+                android:id="@+id/menu_belajar_penerapan_matriks"
+                layout="@layout/menu_belajar_penerapan_matriks"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <include
                 android:id="@+id/menu_belajar_footer"
                 layout="@layout/menu_belajar_footer"
                 android:layout_width="match_parent"

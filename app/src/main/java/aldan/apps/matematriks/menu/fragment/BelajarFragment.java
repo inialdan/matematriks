@@ -29,6 +29,7 @@ import aldan.apps.matematriks.menu.activity.menu.belajar.belajar_kesamaan_matrik
 import aldan.apps.matematriks.menu.activity.menu.belajar.belajar_matriks;
 import aldan.apps.matematriks.menu.activity.menu.belajar.belajar_minor_matriks;
 import aldan.apps.matematriks.menu.activity.menu.belajar.belajar_ordo_matriks;
+import aldan.apps.matematriks.menu.activity.menu.belajar.belajar_penerapan_matriks;
 import aldan.apps.matematriks.menu.activity.menu.belajar.belajar_perkalian_matriks;
 import aldan.apps.matematriks.menu.activity.menu.belajar.belajar_pertambahan_pengurangan_matriks;
 import aldan.apps.matematriks.menu.activity.menu.belajar.belajar_transpos_matriks;
@@ -62,6 +63,7 @@ public class BelajarFragment extends Fragment {
             statusBelajarTranspos,
             statusBelajarDeterminan,
             statusBelajarMinor,
+            statusBelajarPenerapanMatriks,
             statusBelajarKesamaanMatriks,
             statusBelajarPertambahanPengurangan,
             statusBelajarPerkalian;
@@ -115,6 +117,7 @@ public class BelajarFragment extends Fragment {
         String ScorePerkalian = prefManager.getScoreBelajarPerkalianMatriks();
         String ScoreDeterminan = prefManager.getScoreBelajarDeterminan();
         String ScoreMinor = prefManager.getScoreBelajarMinor();
+        String ScorePenerapanMatriks = prefManager.getScoreBelajarPenerapanMatriks();
 
         if (ScoreMatriks == "") ScoreMatriks = "0";
         else statusBelajarMatriks.setImageDrawable(getResources().getDrawable(R.drawable.icon_checked_finish));
@@ -143,6 +146,9 @@ public class BelajarFragment extends Fragment {
         if (ScoreMinor == "") ScoreMinor = "0";
         else statusBelajarMinor.setImageDrawable(getResources().getDrawable(R.drawable.icon_checked_finish));
 
+        if (ScorePenerapanMatriks == "") ScorePenerapanMatriks = "0";
+        else statusBelajarPenerapanMatriks.setImageDrawable(getResources().getDrawable(R.drawable.icon_checked_finish));
+
         final Integer Matriks = Integer.parseInt(ScoreMatriks);
         final Integer Ordo = Integer.parseInt(ScoreOrdo);
         final Integer JenisMatriks = Integer.parseInt(ScoreJenisMatriks);
@@ -152,7 +158,8 @@ public class BelajarFragment extends Fragment {
         final Integer Perkalian = Integer.parseInt(ScorePerkalian);
         final Integer Determinan = Integer.parseInt(ScoreDeterminan);
         final Integer Minor = Integer.parseInt(ScoreMinor);
-        Integer theScore = Matriks + Ordo + JenisMatriks + Transpose + KesamaanMatriks + PertambahanPengurangan + Perkalian + Determinan + Minor;
+        final Integer PenerapanMatriks = Integer.parseInt(ScorePenerapanMatriks);
+        Integer theScore = Matriks + Ordo + JenisMatriks + Transpose + KesamaanMatriks + PertambahanPengurangan + Perkalian + Determinan + Minor + PenerapanMatriks;
 
         float progress = progressBarScore.getProgress();
         if(progress <= 3) {
@@ -200,6 +207,7 @@ public class BelajarFragment extends Fragment {
         statusBelajarPerkalian = RootView.findViewById(R.id.statusBelajarPerkalianMatriks);
         statusBelajarDeterminan = RootView.findViewById(R.id.statusBelajarDeterminan);
         statusBelajarMinor = RootView.findViewById(R.id.statusBelajarMinor);
+        statusBelajarPenerapanMatriks = RootView.findViewById(R.id.statusBelajarPenerapanMatriks);
         statusBelajarKesamaanMatriks = RootView.findViewById(R.id.statusBelajarKesamaanMatriks);
 
         RootView.findViewById(R.id.menu_belajar_matriks).setOnClickListener(new View.OnClickListener() {
@@ -262,6 +270,13 @@ public class BelajarFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(getActivity(), belajar_minor_matriks.class));
+            }
+        });
+
+        RootView.findViewById(R.id.menu_belajar_penerapan_matriks).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getActivity(), belajar_penerapan_matriks.class));
             }
         });
 
