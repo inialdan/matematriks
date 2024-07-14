@@ -1,4 +1,4 @@
-package aldan.apps.matematriks.helper;
+package inialdan.apps.matematriks.helper;
 
 import android.content.Context;
 import android.support.design.widget.BottomNavigationView;

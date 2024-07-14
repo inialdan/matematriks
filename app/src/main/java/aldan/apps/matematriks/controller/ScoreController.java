@@ -1,4 +1,4 @@
-package aldan.apps.matematriks.controller;
+package inialdan.apps.matematriks.controller;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,9 +9,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import aldan.apps.matematriks.Main;
-import aldan.apps.matematriks.R;
-import aldan.apps.matematriks.helper.session.PrefManager;
+import inialdan.apps.matematriks.Main;
+import inialdan.com.matematriks.R;
+import inialdan.apps.matematriks.helper.session.PrefManager;
 
 /*
  * Copyright 2017.  Aldan Rizki Santosa
@@ -74,12 +74,12 @@ public class ScoreController extends AppCompatActivity {
                 StarLeft.setImageDrawable(getResources().getDrawable(R.drawable.icon_leftstaron));
                 StarRight.setImageDrawable(getResources().getDrawable(R.drawable.icon_rightstaron));
                 Motivation.setText(getResources().getString(R.string.motivation_100));
-                Motivation.setTextColor(getResources().getColor(R.color.green));
+                Motivation.setTextColor(getResources().getColor(R.color.google_green));
             } else if (scoreMultipleChose >= 80) {
                 Piala.setImageDrawable(getResources().getDrawable(R.drawable.icon_pialaon));
                 StarLeft.setImageDrawable(getResources().getDrawable(R.drawable.icon_leftstaron));
                 Motivation.setText(getResources().getString(R.string.motivation_80));
-                Motivation.setTextColor(getResources().getColor(R.color.green));
+                Motivation.setTextColor(getResources().getColor(R.color.google_green));
             } else if (scoreMultipleChose >= 60) {
                 Piala.setImageDrawable(getResources().getDrawable(R.drawable.icon_pialaon));
                 Motivation.setText(getResources().getString(R.string.motivation_60));
@@ -113,12 +113,12 @@ public class ScoreController extends AppCompatActivity {
                 StarLeft.setImageDrawable(getResources().getDrawable(R.drawable.icon_leftstaron));
                 StarRight.setImageDrawable(getResources().getDrawable(R.drawable.icon_rightstaron));
                 Motivation.setText(getResources().getString(R.string.motivation_100));
-                Motivation.setTextColor(getResources().getColor(R.color.green));
+                Motivation.setTextColor(getResources().getColor(R.color.google_green));
             } else if (scoreEssay >= 80) {
                 Piala.setImageDrawable(getResources().getDrawable(R.drawable.icon_pialaon));
                 StarLeft.setImageDrawable(getResources().getDrawable(R.drawable.icon_leftstaron));
                 Motivation.setText(getResources().getString(R.string.motivation_80));
-                Motivation.setTextColor(getResources().getColor(R.color.green));
+                Motivation.setTextColor(getResources().getColor(R.color.google_green));
             } else if (scoreEssay >= 60) {
                 Piala.setImageDrawable(getResources().getDrawable(R.drawable.icon_pialaon));
                 Motivation.setText(getResources().getString(R.string.motivation_60));

@@ -1,4 +1,4 @@
-package aldan.apps.matematriks.menu.fragment;
+package inialdan.apps.matematriks.menu.fragment;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
@@ -22,18 +22,18 @@ import com.daimajia.slider.library.SliderTypes.TextSliderView;
 
 import java.util.HashMap;
 
-import aldan.apps.matematriks.R;
-import aldan.apps.matematriks.menu.activity.menu.belajar.belajar_determinan_matriks;
-import aldan.apps.matematriks.menu.activity.menu.belajar.belajar_jenis_matriks;
-import aldan.apps.matematriks.menu.activity.menu.belajar.belajar_kesamaan_matriks;
-import aldan.apps.matematriks.menu.activity.menu.belajar.belajar_matriks;
-import aldan.apps.matematriks.menu.activity.menu.belajar.belajar_minor_matriks;
-import aldan.apps.matematriks.menu.activity.menu.belajar.belajar_ordo_matriks;
-import aldan.apps.matematriks.menu.activity.menu.belajar.belajar_penerapan_matriks;
-import aldan.apps.matematriks.menu.activity.menu.belajar.belajar_perkalian_matriks;
-import aldan.apps.matematriks.menu.activity.menu.belajar.belajar_pertambahan_pengurangan_matriks;
-import aldan.apps.matematriks.menu.activity.menu.belajar.belajar_transpos_matriks;
-import aldan.apps.matematriks.helper.session.PrefManager;
+import inialdan.com.matematriks.R;
+import inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_determinan_matriks;
+import inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_jenis_matriks;
+import inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_kesamaan_matriks;
+import inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_matriks;
+import inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_minor_matriks;
+import inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_ordo_matriks;
+import inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_penerapan_matriks;
+import inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_perkalian_matriks;
+import inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_pertambahan_pengurangan_matriks;
+import inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_transpos_matriks;
+import inialdan.apps.matematriks.helper.session.PrefManager;
 
 /*
  * Copyright 2017.  Aldan Rizki Santosa

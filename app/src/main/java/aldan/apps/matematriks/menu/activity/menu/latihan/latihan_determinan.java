@@ -1,4 +1,4 @@
-package aldan.apps.matematriks.menu.activity.menu.latihan;
+package inialdan.apps.matematriks.menu.activity.menu.latihan;
 
 import android.os.Build;
 import android.os.Bundle;
@@ -11,7 +11,7 @@ import android.widget.Toast;
 
 import java.util.Random;
 
-import aldan.apps.matematriks.R;
+import inialdan.com.matematriks.R;
 
 /*
  * Copyright 2017.  Aldan Rizki Santosa

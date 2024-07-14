@@ -1,401 +1,418 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-132:12
-INJECTED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-132:12
-INJECTED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-132:12
-INJECTED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-132:12
-MERGED from [com.android.support:design:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5f4d99558f2f16edbd17369b37be09fa\AndroidManifest.xml:17:1-31:12
-MERGED from [com.github.Shashank02051997:FancyGifDialog-Android:1.1] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\FancyGifDialog-Android-1.1.aar\6ef550a4acdc8f07d041d09282619014\AndroidManifest.xml:2:1-11:12
-MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\tastytoast-0.1.1.aar\5f9663a22b40494b213be7b15b61fa74\AndroidManifest.xml:2:1-14:12
-MERGED from [com.github.tibolte:elasticdownload:1.0.4] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\elasticdownload-1.0.4.aar\6e44e238cf42ad2dfc55236bca0da544\AndroidManifest.xml:2:1-11:12
-MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.1] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\catloadinglibrary-1.0.1.aar\14ece6499cd22287bcc6dc33d29b7c45\AndroidManifest.xml:2:1-17:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ca5db238f3385b23617758c8eec95bd0\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f26da691cf2e41398a4df3939c93b890\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\af15c677f393f43c159c99132ecc6c0b\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\0afca198bbf25e783ccb2015807892c8\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:transition:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\74a2d7379fc335c3e53fb58a144ee35d\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\98f402ff508af5508556e1ec7e91728f\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\a2d366182e69f16294ddd81855a2a619\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fedc13a5da30e711f7f37bac4a64e4d5\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.volley:volley:1.0.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\db64ac1246c243b33ec9a64de2ba44ff\AndroidManifest.xml:2:1-11:12
-MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\library-1.1.5.aar\7fa141433fca6a0a796c711096f36808\AndroidManifest.xml:2:1-14:12
-MERGED from [com.victor:lib:1.0.4] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\lib-1.0.4.aar\b9f1aee83be20aadbed1450f60541810\AndroidManifest.xml:2:1-16:12
-MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\library-1.2.0.aar\2843733f637ced768f7230144481ab19\AndroidManifest.xml:2:1-14:12
-MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\48fff5bb0860a72c2d68a1f1cde97b97\AndroidManifest.xml:2:1-7:12
-MERGED from [com.akexorcist:RoundCornerProgressBar:2.0.3] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\RoundCornerProgressBar-2.0.3.aar\9ce9762bf3b1d74c4a23d65c88460a6e\AndroidManifest.xml:2:1-12:12
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f295401244a05fae987d264e26f1a395\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\eef8e3ed739dc95d704f8167bab828e1\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d5087a05b74698b6d6a007eb2ae61d49\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\575cbfa58043e086e545645b5e9ec882\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\86d04b80abd53c580364a795b1cc6285\AndroidManifest.xml:17:1-31:12
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.10.aar\e7930847aacb4695d31161b2d6697d70\AndroidManifest.xml:2:1-11:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5ee4f2eea203256d0fdc6c6e24960186\AndroidManifest.xml:17:1-30:12
-INJECTED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-132:12
-INJECTED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-132:12
-INJECTED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-132:12
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:20:1-158:12
+INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:20:1-158:12
+INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:20:1-158:12
+INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:20:1-158:12
+MERGED from [com.android.support:design:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9626b49bd47f494a513b163182791600/transformed/design-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.Shashank02051997:FancyGifDialog-Android:1.1] /Users/inialdan/.gradle/caches/transforms-3/c1203b57de7079af810d34269627cf92/transformed/FancyGifDialog-Android-1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] /Users/inialdan/.gradle/caches/transforms-3/4ffeda7665268628ac988697b0b3648e/transformed/tastytoast-0.1.1/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.tibolte:elasticdownload:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/0176a73dc0b6b02830e62329f5bd4d8c/transformed/elasticdownload-1.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.1] /Users/inialdan/.gradle/caches/transforms-3/1dc125792edbe4ed5d73301cad6a0bd8/transformed/catloadinglibrary-1.0.1/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/ebd113492d6ddf5e664faeb64aa73459/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9e27bd06da2e44f3bf4fdc7f37ce4ff2/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/3010685c875fef647dd17b19edfece62/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/bf5122a43b2d350d9604590cb5932f43/transformed/cardview-v7-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/5430a969064011db70fdb9a4e1722fe7/transformed/transition-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/d22178664aaf30b70fd19681a7f7bbec/transformed/support-v4-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/b6b9b24be6de7d2ef3d500174ab56368/transformed/recyclerview-v7-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/inialdan/.gradle/caches/transforms-3/311ddca0bb6803d2754acf687bcbdcbe/transformed/constraint-layout-1.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/81800e03c3c4a3d484bde71d85b366a3/transformed/volley-1.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/inialdan/.gradle/caches/transforms-3/975c50433f25134731376ce9e7c703e0/transformed/library-1.1.5/AndroidManifest.xml:2:1-14:12
+MERGED from [com.victor:lib:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/e0bcf664b350735a78bf04db51ff6cae/transformed/lib-1.0.4/AndroidManifest.xml:2:1-16:12
+MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] /Users/inialdan/.gradle/caches/transforms-3/f3a700e2d07787ce3f105246edfda943/transformed/library-1.2.0/AndroidManifest.xml:2:1-14:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/inialdan/.gradle/caches/transforms-3/a2182b6267e1c976a7f87d9963e7d0b7/transformed/butterknife-8.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.akexorcist:RoundCornerProgressBar:2.0.3] /Users/inialdan/.gradle/caches/transforms-3/11b45c9fe7bd49441aa85c39b07fe8bf/transformed/RoundCornerProgressBar-2.0.3/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/915a8a99d5b74a06ff5ea58c18910179/transformed/support-media-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/1ee55d0be3f21af727af7e4092646091/transformed/support-fragment-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/31eb76323bbe2ca1d4052cf33bdf7cf0/transformed/support-core-utils-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/f825f43f1641db09baa995fb4e6a840c/transformed/support-core-ui-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/dfdea12cbb28d2e216445073c95e4f74/transformed/support-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] /Users/inialdan/.gradle/caches/transforms-3/3306e616fff8ae0f428ae0dfe27644fc/transformed/android-gif-drawable-1.2.10/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/2d14652397b451d5eef3855e9a27ad9d/transformed/runtime-1.0.0/AndroidManifest.xml:17:1-30:12
 	package
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:23:5-37
-		INJECTED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
-		INJECTED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:21:5-39
+		INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-132:12
-		INJECTED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-132:12
-		INJECTED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:22:5-63
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:20:11-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:25:5-66
-MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\library-1.1.5.aar\7fa141433fca6a0a796c711096f36808\AndroidManifest.xml:11:5-67
-MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\library-1.1.5.aar\7fa141433fca6a0a796c711096f36808\AndroidManifest.xml:11:5-67
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:23:5-67
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/inialdan/.gradle/caches/transforms-3/975c50433f25134731376ce9e7c703e0/transformed/library-1.1.5/AndroidManifest.xml:11:5-67
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/inialdan/.gradle/caches/transforms-3/975c50433f25134731376ce9e7c703e0/transformed/library-1.1.5/AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:25:22-64
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:23:22-64
 application
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:27:5-130:19
-MERGED from [com.android.support:design:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5f4d99558f2f16edbd17369b37be09fa\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:design:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5f4d99558f2f16edbd17369b37be09fa\AndroidManifest.xml:25:5-29:19
-MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\tastytoast-0.1.1.aar\5f9663a22b40494b213be7b15b61fa74\AndroidManifest.xml:11:5-12:19
-MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\tastytoast-0.1.1.aar\5f9663a22b40494b213be7b15b61fa74\AndroidManifest.xml:11:5-12:19
-MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.1] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\catloadinglibrary-1.0.1.aar\14ece6499cd22287bcc6dc33d29b7c45\AndroidManifest.xml:11:5-15:19
-MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.1] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\catloadinglibrary-1.0.1.aar\14ece6499cd22287bcc6dc33d29b7c45\AndroidManifest.xml:11:5-15:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ca5db238f3385b23617758c8eec95bd0\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ca5db238f3385b23617758c8eec95bd0\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f26da691cf2e41398a4df3939c93b890\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f26da691cf2e41398a4df3939c93b890\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\af15c677f393f43c159c99132ecc6c0b\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\af15c677f393f43c159c99132ecc6c0b\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\0afca198bbf25e783ccb2015807892c8\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\0afca198bbf25e783ccb2015807892c8\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\74a2d7379fc335c3e53fb58a144ee35d\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\74a2d7379fc335c3e53fb58a144ee35d\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\98f402ff508af5508556e1ec7e91728f\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\98f402ff508af5508556e1ec7e91728f\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\a2d366182e69f16294ddd81855a2a619\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\a2d366182e69f16294ddd81855a2a619\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fedc13a5da30e711f7f37bac4a64e4d5\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fedc13a5da30e711f7f37bac4a64e4d5\AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.0.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\db64ac1246c243b33ec9a64de2ba44ff\AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.0.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\db64ac1246c243b33ec9a64de2ba44ff\AndroidManifest.xml:9:5-20
-MERGED from [com.victor:lib:1.0.4] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\lib-1.0.4.aar\b9f1aee83be20aadbed1450f60541810\AndroidManifest.xml:11:5-14:19
-MERGED from [com.victor:lib:1.0.4] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\lib-1.0.4.aar\b9f1aee83be20aadbed1450f60541810\AndroidManifest.xml:11:5-14:19
-MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\library-1.2.0.aar\2843733f637ced768f7230144481ab19\AndroidManifest.xml:12:5-20
-MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\library-1.2.0.aar\2843733f637ced768f7230144481ab19\AndroidManifest.xml:12:5-20
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f295401244a05fae987d264e26f1a395\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f295401244a05fae987d264e26f1a395\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\eef8e3ed739dc95d704f8167bab828e1\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\eef8e3ed739dc95d704f8167bab828e1\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d5087a05b74698b6d6a007eb2ae61d49\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d5087a05b74698b6d6a007eb2ae61d49\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\575cbfa58043e086e545645b5e9ec882\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\575cbfa58043e086e545645b5e9ec882\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\86d04b80abd53c580364a795b1cc6285\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\86d04b80abd53c580364a795b1cc6285\AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5ee4f2eea203256d0fdc6c6e24960186\AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5ee4f2eea203256d0fdc6c6e24960186\AndroidManifest.xml:24:5-28:19
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:25:5-156:19
+INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:25:5-156:19
+MERGED from [com.android.support:design:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9626b49bd47f494a513b163182791600/transformed/design-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9626b49bd47f494a513b163182791600/transformed/design-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] /Users/inialdan/.gradle/caches/transforms-3/4ffeda7665268628ac988697b0b3648e/transformed/tastytoast-0.1.1/AndroidManifest.xml:11:5-12:19
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] /Users/inialdan/.gradle/caches/transforms-3/4ffeda7665268628ac988697b0b3648e/transformed/tastytoast-0.1.1/AndroidManifest.xml:11:5-12:19
+MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.1] /Users/inialdan/.gradle/caches/transforms-3/1dc125792edbe4ed5d73301cad6a0bd8/transformed/catloadinglibrary-1.0.1/AndroidManifest.xml:11:5-15:19
+MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.1] /Users/inialdan/.gradle/caches/transforms-3/1dc125792edbe4ed5d73301cad6a0bd8/transformed/catloadinglibrary-1.0.1/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/ebd113492d6ddf5e664faeb64aa73459/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/ebd113492d6ddf5e664faeb64aa73459/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9e27bd06da2e44f3bf4fdc7f37ce4ff2/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9e27bd06da2e44f3bf4fdc7f37ce4ff2/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/3010685c875fef647dd17b19edfece62/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/3010685c875fef647dd17b19edfece62/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/bf5122a43b2d350d9604590cb5932f43/transformed/cardview-v7-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/bf5122a43b2d350d9604590cb5932f43/transformed/cardview-v7-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/5430a969064011db70fdb9a4e1722fe7/transformed/transition-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/5430a969064011db70fdb9a4e1722fe7/transformed/transition-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/d22178664aaf30b70fd19681a7f7bbec/transformed/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/d22178664aaf30b70fd19681a7f7bbec/transformed/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/b6b9b24be6de7d2ef3d500174ab56368/transformed/recyclerview-v7-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/b6b9b24be6de7d2ef3d500174ab56368/transformed/recyclerview-v7-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/inialdan/.gradle/caches/transforms-3/311ddca0bb6803d2754acf687bcbdcbe/transformed/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/inialdan/.gradle/caches/transforms-3/311ddca0bb6803d2754acf687bcbdcbe/transformed/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/81800e03c3c4a3d484bde71d85b366a3/transformed/volley-1.0.0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/81800e03c3c4a3d484bde71d85b366a3/transformed/volley-1.0.0/AndroidManifest.xml:9:5-20
+MERGED from [com.victor:lib:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/e0bcf664b350735a78bf04db51ff6cae/transformed/lib-1.0.4/AndroidManifest.xml:11:5-14:19
+MERGED from [com.victor:lib:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/e0bcf664b350735a78bf04db51ff6cae/transformed/lib-1.0.4/AndroidManifest.xml:11:5-14:19
+MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] /Users/inialdan/.gradle/caches/transforms-3/f3a700e2d07787ce3f105246edfda943/transformed/library-1.2.0/AndroidManifest.xml:12:5-20
+MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] /Users/inialdan/.gradle/caches/transforms-3/f3a700e2d07787ce3f105246edfda943/transformed/library-1.2.0/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/915a8a99d5b74a06ff5ea58c18910179/transformed/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/915a8a99d5b74a06ff5ea58c18910179/transformed/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/1ee55d0be3f21af727af7e4092646091/transformed/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/1ee55d0be3f21af727af7e4092646091/transformed/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/31eb76323bbe2ca1d4052cf33bdf7cf0/transformed/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/31eb76323bbe2ca1d4052cf33bdf7cf0/transformed/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/f825f43f1641db09baa995fb4e6a840c/transformed/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/f825f43f1641db09baa995fb4e6a840c/transformed/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/dfdea12cbb28d2e216445073c95e4f74/transformed/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/dfdea12cbb28d2e216445073c95e4f74/transformed/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/2d14652397b451d5eef3855e9a27ad9d/transformed/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/2d14652397b451d5eef3855e9a27ad9d/transformed/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+	android:extractNativeLibs
+		INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml
 	android:supportsRtl
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:32:9-35
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:30:9-35
 	android:label
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:30:9-41
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:28:9-41
 	android:roundIcon
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:31:9-54
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:29:9-54
 	android:icon
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:29:9-49
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:27:9-49
 	android:allowBackup
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:28:9-35
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:26:9-35
 	android:theme
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:33:9-40
-activity#aldan.apps.matematriks.helper.pub.Splashscreen
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:34:9-44:20
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:31:9-40
+activity#inialdan.apps.matematriks.helper.pub.Splashscreen
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:33:9-44:20
 	android:screenOrientation
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:37:13-49
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:37:13-49
 	android:noHistory
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:36:13-37
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:36:13-37
+	android:exported
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:35:13-36
 	android:theme
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:38:13-57
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:38:13-57
 	android:name
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:35:13-52
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:39:13-43:29
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:34:13-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:39:13-43:29
 action#android.intent.action.MAIN
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:40:17-69
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:40:17-69
 	android:name
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:40:25-66
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:40:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:42:17-77
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:42:17-77
 	android:name
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:42:27-74
-activity#aldan.apps.matematriks.helper.pub.Introduce
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:45:9-49:59
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:42:27-74
+activity#inialdan.apps.matematriks.helper.pub.Introduce
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:46:9-51:59
 	android:screenOrientation
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:48:13-49
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:50:13-49
 	android:noHistory
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:47:13-37
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:49:13-37
+	android:exported
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:48:13-37
 	android:theme
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:49:13-56
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:51:13-56
 	android:name
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:46:13-49
-activity#aldan.apps.matematriks.Main
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:50:9-54:52
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:47:13-74
+activity#inialdan.apps.matematriks.Main
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:53:9-58:59
 	android:screenOrientation
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:54:13-49
-	android:label
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:52:13-45
-	android:theme
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:53:13-56
-	android:name
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:51:13-33
-activity#aldan.apps.matematriks.menu.activity.menu.belajar.belajar_matriks
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:55:9-59:59
-	android:screenOrientation
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:58:13-49
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:57:13-49
 	android:noHistory
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:57:13-37
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:56:13-37
+	android:exported
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:55:13-37
 	android:theme
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:59:13-56
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:58:13-56
 	android:name
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:56:13-71
-activity#aldan.apps.matematriks.menu.activity.menu.belajar.belajar_ordo_matriks
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:60:9-64:59
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:54:13-58
+activity#inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_matriks
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:60:9-65:59
 	android:screenOrientation
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:63:13-49
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:64:13-49
 	android:noHistory
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:62:13-37
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:63:13-37
+	android:exported
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:62:13-36
 	android:theme
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:64:13-56
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:65:13-56
 	android:name
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:61:13-76
-activity#aldan.apps.matematriks.menu.activity.menu.belajar.belajar_jenis_matriks
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:65:9-69:59
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:61:13-96
+activity#inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_ordo_matriks
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:67:9-72:59
 	android:screenOrientation
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:68:13-49
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:71:13-49
 	android:noHistory
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:67:13-37
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:70:13-37
+	android:exported
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:69:13-36
 	android:theme
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:69:13-56
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:72:13-56
 	android:name
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:66:13-77
-activity#aldan.apps.matematriks.menu.activity.menu.belajar.belajar_transpos_matriks
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:70:9-74:59
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:68:13-101
+activity#inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_jenis_matriks
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:74:9-79:59
 	android:screenOrientation
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:73:13-49
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:78:13-49
 	android:noHistory
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:72:13-37
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:77:13-37
+	android:exported
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:76:13-36
 	android:theme
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:74:13-56
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:79:13-56
 	android:name
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:71:13-80
-activity#aldan.apps.matematriks.menu.activity.menu.belajar.belajar_kesamaan_matriks
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:75:9-79:59
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:75:13-102
+activity#inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_transpos_matriks
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:81:9-86:59
 	android:screenOrientation
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:78:13-49
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:85:13-49
 	android:noHistory
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:77:13-37
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:84:13-37
+	android:exported
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:83:13-36
 	android:theme
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:79:13-56
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:86:13-56
 	android:name
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:76:13-80
-activity#aldan.apps.matematriks.menu.activity.menu.belajar.belajar_pertambahan_pengurangan_matriks
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:80:9-84:59
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:82:13-105
+activity#inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_kesamaan_matriks
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:88:9-93:59
 	android:screenOrientation
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:83:13-49
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:92:13-49
 	android:noHistory
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:82:13-37
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:91:13-37
+	android:exported
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:90:13-36
 	android:theme
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:84:13-56
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:93:13-56
 	android:name
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:81:13-95
-activity#aldan.apps.matematriks.menu.activity.menu.belajar.belajar_perkalian_matriks
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:85:9-89:59
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:89:13-105
+activity#inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_pertambahan_pengurangan_matriks
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:95:9-100:59
 	android:screenOrientation
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:88:13-49
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:99:13-49
 	android:noHistory
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:87:13-37
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:98:13-37
+	android:exported
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:97:13-36
 	android:theme
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:89:13-56
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:100:13-56
 	android:name
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:86:13-81
-activity#aldan.apps.matematriks.menu.activity.menu.belajar.belajar_determinan_matriks
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:90:9-94:59
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:96:13-120
+activity#inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_perkalian_matriks
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:102:9-107:59
 	android:screenOrientation
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:93:13-49
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:106:13-49
 	android:noHistory
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:92:13-37
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:105:13-37
+	android:exported
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:104:13-36
 	android:theme
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:94:13-56
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:107:13-56
 	android:name
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:91:13-82
-activity#aldan.apps.matematriks.menu.activity.menu.belajar.belajar_minor_matriks
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:95:9-99:59
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:103:13-106
+activity#inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_determinan_matriks
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:109:9-114:59
 	android:screenOrientation
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:98:13-49
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:113:13-49
 	android:noHistory
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:97:13-37
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:112:13-37
+	android:exported
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:111:13-36
 	android:theme
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:99:13-56
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:114:13-56
 	android:name
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:96:13-77
-activity#aldan.apps.matematriks.menu.activity.menu.belajar.belajar_penerapan_matriks
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:100:9-104:59
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:110:13-107
+activity#inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_minor_matriks
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:116:9-121:59
 	android:screenOrientation
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:103:13-49
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:120:13-49
 	android:noHistory
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:102:13-37
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:119:13-37
+	android:exported
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:118:13-36
 	android:theme
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:104:13-56
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:121:13-56
 	android:name
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:101:13-81
-activity#aldan.apps.matematriks.menu.activity.menu.latihan.latihan_determinan
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:105:9-109:59
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:117:13-102
+activity#inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_penerapan_matriks
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:123:9-128:59
 	android:screenOrientation
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:108:13-49
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:127:13-49
 	android:noHistory
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:107:13-37
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:126:13-37
+	android:exported
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:125:13-36
 	android:theme
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:109:13-56
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:128:13-56
 	android:name
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:106:13-74
-activity#aldan.apps.matematriks.controller.MultipleChoiseMatriks
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:111:9-115:59
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:124:13-106
+activity#inialdan.apps.matematriks.menu.activity.menu.latihan.latihan_determinan
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:130:9-134:59
 	android:screenOrientation
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:114:13-49
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:133:13-49
 	android:noHistory
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:113:13-37
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:132:13-37
 	android:theme
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:115:13-56
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:134:13-56
 	android:name
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:112:13-61
-activity#aldan.apps.matematriks.controller.EssayMatriks
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:117:9-122:59
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:131:13-99
+activity#inialdan.apps.matematriks.controller.MultipleChoiseMatriks
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:136:9-140:59
 	android:screenOrientation
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:120:13-49
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:139:13-49
+	android:noHistory
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:138:13-37
+	android:theme
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:140:13-56
+	android:name
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:137:13-86
+activity#inialdan.apps.matematriks.controller.EssayMatriks
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:142:9-147:57
+	android:screenOrientation
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:145:13-49
 	android:windowSoftInputMode
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:121:13-54
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:147:13-54
 	android:noHistory
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:119:13-37
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:144:13-37
 	android:theme
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:122:13-56
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:146:13-56
 	android:name
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:118:13-52
-activity#aldan.apps.matematriks.controller.ScoreController
-ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:124:9-128:59
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:143:13-77
+activity#inialdan.apps.matematriks.controller.ScoreController
+ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:149:9-154:59
 	android:screenOrientation
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:127:13-49
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:153:13-49
 	android:noHistory
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:126:13-37
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:152:13-37
+	android:exported
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:151:13-37
 	android:theme
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:128:13-56
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:154:13-56
 	android:name
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:125:13-55
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:150:13-80
 uses-sdk
-INJECTED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
-INJECTED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5f4d99558f2f16edbd17369b37be09fa\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5f4d99558f2f16edbd17369b37be09fa\AndroidManifest.xml:21:5-23:62
-MERGED from [com.github.Shashank02051997:FancyGifDialog-Android:1.1] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\FancyGifDialog-Android-1.1.aar\6ef550a4acdc8f07d041d09282619014\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.Shashank02051997:FancyGifDialog-Android:1.1] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\FancyGifDialog-Android-1.1.aar\6ef550a4acdc8f07d041d09282619014\AndroidManifest.xml:7:5-9:41
-MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\tastytoast-0.1.1.aar\5f9663a22b40494b213be7b15b61fa74\AndroidManifest.xml:7:5-9:41
-MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\tastytoast-0.1.1.aar\5f9663a22b40494b213be7b15b61fa74\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.tibolte:elasticdownload:1.0.4] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\elasticdownload-1.0.4.aar\6e44e238cf42ad2dfc55236bca0da544\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.tibolte:elasticdownload:1.0.4] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\elasticdownload-1.0.4.aar\6e44e238cf42ad2dfc55236bca0da544\AndroidManifest.xml:7:5-9:41
-MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.1] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\catloadinglibrary-1.0.1.aar\14ece6499cd22287bcc6dc33d29b7c45\AndroidManifest.xml:7:5-9:41
-MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.1] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\catloadinglibrary-1.0.1.aar\14ece6499cd22287bcc6dc33d29b7c45\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ca5db238f3385b23617758c8eec95bd0\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ca5db238f3385b23617758c8eec95bd0\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f26da691cf2e41398a4df3939c93b890\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f26da691cf2e41398a4df3939c93b890\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\af15c677f393f43c159c99132ecc6c0b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\af15c677f393f43c159c99132ecc6c0b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\0afca198bbf25e783ccb2015807892c8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\0afca198bbf25e783ccb2015807892c8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\74a2d7379fc335c3e53fb58a144ee35d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\74a2d7379fc335c3e53fb58a144ee35d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\98f402ff508af5508556e1ec7e91728f\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\98f402ff508af5508556e1ec7e91728f\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\a2d366182e69f16294ddd81855a2a619\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\a2d366182e69f16294ddd81855a2a619\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fedc13a5da30e711f7f37bac4a64e4d5\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fedc13a5da30e711f7f37bac4a64e4d5\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.volley:volley:1.0.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\db64ac1246c243b33ec9a64de2ba44ff\AndroidManifest.xml:7:5-43
-MERGED from [com.android.volley:volley:1.0.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\db64ac1246c243b33ec9a64de2ba44ff\AndroidManifest.xml:7:5-43
-MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\library-1.1.5.aar\7fa141433fca6a0a796c711096f36808\AndroidManifest.xml:7:5-9:41
-MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\library-1.1.5.aar\7fa141433fca6a0a796c711096f36808\AndroidManifest.xml:7:5-9:41
-MERGED from [com.victor:lib:1.0.4] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\lib-1.0.4.aar\b9f1aee83be20aadbed1450f60541810\AndroidManifest.xml:7:5-9:41
-MERGED from [com.victor:lib:1.0.4] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\lib-1.0.4.aar\b9f1aee83be20aadbed1450f60541810\AndroidManifest.xml:7:5-9:41
-MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\library-1.2.0.aar\2843733f637ced768f7230144481ab19\AndroidManifest.xml:8:5-10:41
-MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\library-1.2.0.aar\2843733f637ced768f7230144481ab19\AndroidManifest.xml:8:5-10:41
-MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\48fff5bb0860a72c2d68a1f1cde97b97\AndroidManifest.xml:5:5-43
-MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\48fff5bb0860a72c2d68a1f1cde97b97\AndroidManifest.xml:5:5-43
-MERGED from [com.akexorcist:RoundCornerProgressBar:2.0.3] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\RoundCornerProgressBar-2.0.3.aar\9ce9762bf3b1d74c4a23d65c88460a6e\AndroidManifest.xml:8:5-10:41
-MERGED from [com.akexorcist:RoundCornerProgressBar:2.0.3] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\RoundCornerProgressBar-2.0.3.aar\9ce9762bf3b1d74c4a23d65c88460a6e\AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f295401244a05fae987d264e26f1a395\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f295401244a05fae987d264e26f1a395\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\eef8e3ed739dc95d704f8167bab828e1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\eef8e3ed739dc95d704f8167bab828e1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d5087a05b74698b6d6a007eb2ae61d49\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d5087a05b74698b6d6a007eb2ae61d49\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\575cbfa58043e086e545645b5e9ec882\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\575cbfa58043e086e545645b5e9ec882\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\86d04b80abd53c580364a795b1cc6285\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\86d04b80abd53c580364a795b1cc6285\AndroidManifest.xml:21:5-23:58
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.10.aar\e7930847aacb4695d31161b2d6697d70\AndroidManifest.xml:7:5-9:41
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.10.aar\e7930847aacb4695d31161b2d6697d70\AndroidManifest.xml:7:5-9:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5ee4f2eea203256d0fdc6c6e24960186\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5ee4f2eea203256d0fdc6c6e24960186\AndroidManifest.xml:20:5-22:41
-INJECTED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
-INJECTED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
+INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml
+INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9626b49bd47f494a513b163182791600/transformed/design-26.1.0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9626b49bd47f494a513b163182791600/transformed/design-26.1.0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.github.Shashank02051997:FancyGifDialog-Android:1.1] /Users/inialdan/.gradle/caches/transforms-3/c1203b57de7079af810d34269627cf92/transformed/FancyGifDialog-Android-1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Shashank02051997:FancyGifDialog-Android:1.1] /Users/inialdan/.gradle/caches/transforms-3/c1203b57de7079af810d34269627cf92/transformed/FancyGifDialog-Android-1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] /Users/inialdan/.gradle/caches/transforms-3/4ffeda7665268628ac988697b0b3648e/transformed/tastytoast-0.1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] /Users/inialdan/.gradle/caches/transforms-3/4ffeda7665268628ac988697b0b3648e/transformed/tastytoast-0.1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tibolte:elasticdownload:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/0176a73dc0b6b02830e62329f5bd4d8c/transformed/elasticdownload-1.0.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tibolte:elasticdownload:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/0176a73dc0b6b02830e62329f5bd4d8c/transformed/elasticdownload-1.0.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.1] /Users/inialdan/.gradle/caches/transforms-3/1dc125792edbe4ed5d73301cad6a0bd8/transformed/catloadinglibrary-1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.1] /Users/inialdan/.gradle/caches/transforms-3/1dc125792edbe4ed5d73301cad6a0bd8/transformed/catloadinglibrary-1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/ebd113492d6ddf5e664faeb64aa73459/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/ebd113492d6ddf5e664faeb64aa73459/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9e27bd06da2e44f3bf4fdc7f37ce4ff2/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9e27bd06da2e44f3bf4fdc7f37ce4ff2/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/3010685c875fef647dd17b19edfece62/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/3010685c875fef647dd17b19edfece62/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/bf5122a43b2d350d9604590cb5932f43/transformed/cardview-v7-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/bf5122a43b2d350d9604590cb5932f43/transformed/cardview-v7-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/5430a969064011db70fdb9a4e1722fe7/transformed/transition-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/5430a969064011db70fdb9a4e1722fe7/transformed/transition-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/d22178664aaf30b70fd19681a7f7bbec/transformed/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/d22178664aaf30b70fd19681a7f7bbec/transformed/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/b6b9b24be6de7d2ef3d500174ab56368/transformed/recyclerview-v7-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/b6b9b24be6de7d2ef3d500174ab56368/transformed/recyclerview-v7-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/inialdan/.gradle/caches/transforms-3/311ddca0bb6803d2754acf687bcbdcbe/transformed/constraint-layout-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/inialdan/.gradle/caches/transforms-3/311ddca0bb6803d2754acf687bcbdcbe/transformed/constraint-layout-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/81800e03c3c4a3d484bde71d85b366a3/transformed/volley-1.0.0/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/81800e03c3c4a3d484bde71d85b366a3/transformed/volley-1.0.0/AndroidManifest.xml:7:5-43
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/inialdan/.gradle/caches/transforms-3/975c50433f25134731376ce9e7c703e0/transformed/library-1.1.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/inialdan/.gradle/caches/transforms-3/975c50433f25134731376ce9e7c703e0/transformed/library-1.1.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.victor:lib:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/e0bcf664b350735a78bf04db51ff6cae/transformed/lib-1.0.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.victor:lib:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/e0bcf664b350735a78bf04db51ff6cae/transformed/lib-1.0.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] /Users/inialdan/.gradle/caches/transforms-3/f3a700e2d07787ce3f105246edfda943/transformed/library-1.2.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] /Users/inialdan/.gradle/caches/transforms-3/f3a700e2d07787ce3f105246edfda943/transformed/library-1.2.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/inialdan/.gradle/caches/transforms-3/a2182b6267e1c976a7f87d9963e7d0b7/transformed/butterknife-8.8.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/inialdan/.gradle/caches/transforms-3/a2182b6267e1c976a7f87d9963e7d0b7/transformed/butterknife-8.8.1/AndroidManifest.xml:5:5-43
+MERGED from [com.akexorcist:RoundCornerProgressBar:2.0.3] /Users/inialdan/.gradle/caches/transforms-3/11b45c9fe7bd49441aa85c39b07fe8bf/transformed/RoundCornerProgressBar-2.0.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.akexorcist:RoundCornerProgressBar:2.0.3] /Users/inialdan/.gradle/caches/transforms-3/11b45c9fe7bd49441aa85c39b07fe8bf/transformed/RoundCornerProgressBar-2.0.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/915a8a99d5b74a06ff5ea58c18910179/transformed/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/915a8a99d5b74a06ff5ea58c18910179/transformed/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/1ee55d0be3f21af727af7e4092646091/transformed/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/1ee55d0be3f21af727af7e4092646091/transformed/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/31eb76323bbe2ca1d4052cf33bdf7cf0/transformed/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/31eb76323bbe2ca1d4052cf33bdf7cf0/transformed/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/f825f43f1641db09baa995fb4e6a840c/transformed/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/f825f43f1641db09baa995fb4e6a840c/transformed/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/dfdea12cbb28d2e216445073c95e4f74/transformed/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/dfdea12cbb28d2e216445073c95e4f74/transformed/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] /Users/inialdan/.gradle/caches/transforms-3/3306e616fff8ae0f428ae0dfe27644fc/transformed/android-gif-drawable-1.2.10/AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] /Users/inialdan/.gradle/caches/transforms-3/3306e616fff8ae0f428ae0dfe27644fc/transformed/android-gif-drawable-1.2.10/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/2d14652397b451d5eef3855e9a27ad9d/transformed/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/2d14652397b451d5eef3855e9a27ad9d/transformed/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5f4d99558f2f16edbd17369b37be09fa\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9626b49bd47f494a513b163182791600/transformed/design-26.1.0/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
-		INJECTED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
-		ADDED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
-		INJECTED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5f4d99558f2f16edbd17369b37be09fa\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ca5db238f3385b23617758c8eec95bd0\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ca5db238f3385b23617758c8eec95bd0\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f26da691cf2e41398a4df3939c93b890\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f26da691cf2e41398a4df3939c93b890\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\af15c677f393f43c159c99132ecc6c0b\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\af15c677f393f43c159c99132ecc6c0b\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\0afca198bbf25e783ccb2015807892c8\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\0afca198bbf25e783ccb2015807892c8\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\74a2d7379fc335c3e53fb58a144ee35d\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\74a2d7379fc335c3e53fb58a144ee35d\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\98f402ff508af5508556e1ec7e91728f\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\98f402ff508af5508556e1ec7e91728f\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\a2d366182e69f16294ddd81855a2a619\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\a2d366182e69f16294ddd81855a2a619\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f295401244a05fae987d264e26f1a395\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f295401244a05fae987d264e26f1a395\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\eef8e3ed739dc95d704f8167bab828e1\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\eef8e3ed739dc95d704f8167bab828e1\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d5087a05b74698b6d6a007eb2ae61d49\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d5087a05b74698b6d6a007eb2ae61d49\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\575cbfa58043e086e545645b5e9ec882\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\575cbfa58043e086e545645b5e9ec882\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\86d04b80abd53c580364a795b1cc6285\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\86d04b80abd53c580364a795b1cc6285\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:design:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9626b49bd47f494a513b163182791600/transformed/design-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/ebd113492d6ddf5e664faeb64aa73459/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/ebd113492d6ddf5e664faeb64aa73459/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9e27bd06da2e44f3bf4fdc7f37ce4ff2/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9e27bd06da2e44f3bf4fdc7f37ce4ff2/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/3010685c875fef647dd17b19edfece62/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/3010685c875fef647dd17b19edfece62/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/bf5122a43b2d350d9604590cb5932f43/transformed/cardview-v7-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/bf5122a43b2d350d9604590cb5932f43/transformed/cardview-v7-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/5430a969064011db70fdb9a4e1722fe7/transformed/transition-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/5430a969064011db70fdb9a4e1722fe7/transformed/transition-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/d22178664aaf30b70fd19681a7f7bbec/transformed/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/d22178664aaf30b70fd19681a7f7bbec/transformed/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/b6b9b24be6de7d2ef3d500174ab56368/transformed/recyclerview-v7-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/b6b9b24be6de7d2ef3d500174ab56368/transformed/recyclerview-v7-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/915a8a99d5b74a06ff5ea58c18910179/transformed/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/915a8a99d5b74a06ff5ea58c18910179/transformed/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/1ee55d0be3f21af727af7e4092646091/transformed/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/1ee55d0be3f21af727af7e4092646091/transformed/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/31eb76323bbe2ca1d4052cf33bdf7cf0/transformed/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/31eb76323bbe2ca1d4052cf33bdf7cf0/transformed/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/f825f43f1641db09baa995fb4e6a840c/transformed/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/f825f43f1641db09baa995fb4e6a840c/transformed/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/dfdea12cbb28d2e216445073c95e4f74/transformed/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/dfdea12cbb28d2e216445073c95e4f74/transformed/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:design:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5f4d99558f2f16edbd17369b37be09fa\AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:design:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9626b49bd47f494a513b163182791600/transformed/design-26.1.0/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:design:26.1.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\5f4d99558f2f16edbd17369b37be09fa\AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:design:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9626b49bd47f494a513b163182791600/transformed/design-26.1.0/AndroidManifest.xml:27:13-51
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [com.daimajia.slider:library:1.1.5] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\library-1.1.5.aar\7fa141433fca6a0a796c711096f36808\AndroidManifest.xml:12:5-81
+ADDED from [com.daimajia.slider:library:1.1.5] /Users/inialdan/.gradle/caches/transforms-3/975c50433f25134731376ce9e7c703e0/transformed/library-1.1.5/AndroidManifest.xml:12:5-81
 	android:name
-		ADDED from [com.daimajia.slider:library:1.1.5] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\library-1.1.5.aar\7fa141433fca6a0a796c711096f36808\AndroidManifest.xml:12:22-78
+		ADDED from [com.daimajia.slider:library:1.1.5] /Users/inialdan/.gradle/caches/transforms-3/975c50433f25134731376ce9e7c703e0/transformed/library-1.1.5/AndroidManifest.xml:12:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from D:\@Android Studio Projects\Matematrik\app\src\main\AndroidManifest.xml:21:1-132:12 reason: com.daimajia.slider.library requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:20:1-158:12 reason: com.daimajia.slider.library requested WRITE_EXTERNAL_STORAGE
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5ee4f2eea203256d0fdc6c6e24960186\AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/2d14652397b451d5eef3855e9a27ad9d/transformed/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5ee4f2eea203256d0fdc6c6e24960186\AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/2d14652397b451d5eef3855e9a27ad9d/transformed/runtime-1.0.0/AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\inialdan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5ee4f2eea203256d0fdc6c6e24960186\AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/2d14652397b451d5eef3855e9a27ad9d/transformed/runtime-1.0.0/AndroidManifest.xml:26:13-58

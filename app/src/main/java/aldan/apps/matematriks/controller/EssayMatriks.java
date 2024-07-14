@@ -1,4 +1,4 @@
-package aldan.apps.matematriks.controller;
+package inialdan.apps.matematriks.controller;
 
 import android.content.Intent;
 import android.content.res.Resources;
@@ -19,7 +19,7 @@ import com.sdsmdg.tastytoast.TastyToast;
 import java.util.ArrayList;
 import java.util.List;
 
-import aldan.apps.matematriks.R;
+import inialdan.com.matematriks.R;
 
 /*
  * Copyright 2017.  Aldan Rizki Santosa

@@ -1,4 +1,4 @@
-package aldan.apps.matematriks;
+package inialdan.apps.matematriks;
 
 import android.content.DialogInterface;
 import android.os.Bundle;
@@ -18,11 +18,12 @@ import android.widget.Toast;
 import com.shashank.sony.fancygifdialoglib.FancyGifDialog;
 import com.shashank.sony.fancygifdialoglib.FancyGifDialogListener;
 
-import aldan.apps.matematriks.menu.fragment.ProfileFragment;
-import aldan.apps.matematriks.menu.fragment.BelajarFragment;
-import aldan.apps.matematriks.menu.fragment.KalkulatorFragment;
-import aldan.apps.matematriks.menu.fragment.LatihanFragment;
-import aldan.apps.matematriks.helper.BottomNavigationBehavior;
+import inialdan.apps.matematriks.menu.fragment.ProfileFragment;
+import inialdan.apps.matematriks.menu.fragment.BelajarFragment;
+import inialdan.apps.matematriks.menu.fragment.KalkulatorFragment;
+import inialdan.apps.matematriks.menu.fragment.LatihanFragment;
+import inialdan.apps.matematriks.helper.BottomNavigationBehavior;
+import inialdan.com.matematriks.R;
 
 /*
  * Copyright 2017.  Aldan Rizki Santosa

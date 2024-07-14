@@ -1,4 +1,4 @@
-package aldan.apps.matematriks.menu.fragment;
+package inialdan.apps.matematriks.menu.fragment;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -11,7 +11,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import aldan.apps.matematriks.R;
+import inialdan.com.matematriks.R;
 
 /*
  * Copyright 2017.  Aldan Rizki Santosa

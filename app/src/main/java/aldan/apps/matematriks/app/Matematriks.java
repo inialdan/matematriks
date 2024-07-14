@@ -1,4 +1,4 @@
-package aldan.apps.matematriks.app;
+package inialdan.apps.matematriks.app;
 
 /*
  * Copyright 2017.  Aldan Rizki Santosa

@@ -1,4 +1,4 @@
-package aldan.apps.matematriks.menu.activity.menu.belajar;
+package inialdan.apps.matematriks.menu.activity.menu.belajar;
 
 import android.content.Context;
 import android.content.Intent;
@@ -18,9 +18,9 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import aldan.apps.matematriks.Main;
-import aldan.apps.matematriks.R;
-import aldan.apps.matematriks.helper.session.PrefManager;
+import inialdan.apps.matematriks.Main;
+import inialdan.com.matematriks.R;
+import inialdan.apps.matematriks.helper.session.PrefManager;
 
 /*
  * Copyright 2017.  Aldan Rizki Santosa

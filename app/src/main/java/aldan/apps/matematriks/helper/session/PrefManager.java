@@ -1,4 +1,4 @@
-package aldan.apps.matematriks.helper.session;
+package inialdan.apps.matematriks.helper.session;
 
 import android.content.Context;
 import android.content.SharedPreferences;

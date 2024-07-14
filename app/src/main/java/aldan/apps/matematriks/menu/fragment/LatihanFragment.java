@@ -1,4 +1,4 @@
-package aldan.apps.matematriks.menu.fragment;
+package inialdan.apps.matematriks.menu.fragment;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,11 +9,11 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import aldan.apps.matematriks.controller.EssayMatriks;
-import aldan.apps.matematriks.controller.MultipleChoiseMatriks;
-import aldan.apps.matematriks.R;
-import aldan.apps.matematriks.menu.activity.menu.latihan.latihan_determinan;
-import aldan.apps.matematriks.helper.session.PrefManager;
+import inialdan.apps.matematriks.controller.EssayMatriks;
+import inialdan.apps.matematriks.controller.MultipleChoiseMatriks;
+import inialdan.com.matematriks.R;
+import inialdan.apps.matematriks.menu.activity.menu.latihan.latihan_determinan;
+import inialdan.apps.matematriks.helper.session.PrefManager;
 
 /*
  * Copyright 2017.  Aldan Rizki Santosa

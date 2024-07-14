@@ -1,4 +1,4 @@
-package aldan.apps.matematriks.helper.pub;
+package inialdan.apps.matematriks.helper.pub;
 
 import android.content.Intent;
 import android.os.Build;
@@ -10,7 +10,7 @@ import android.view.Window;
 import com.victor.loading.rotate.RotateLoading;
 
 
-import aldan.apps.matematriks.R;
+import inialdan.com.matematriks.R;
 
 /*
  * Copyright 2017.  Aldan Rizki Santosa
