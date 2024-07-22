@@ -22,10 +22,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="inialdan.com.matematriks" />
+                  <option name="mobileSdkAppId" value="1:868443517078:android:bea8bce157f296fb3512b7" />
+                  <option name="projectId" value="play-store-aldan" />
+                  <option name="projectNumber" value="868443517078" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
