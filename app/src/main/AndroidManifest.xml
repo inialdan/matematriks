@@ -31,7 +31,7 @@
         android:theme="@style/AppTheme">
 
         <activity
-            android:name="inialdan.apps.matematriks.helper.pub.Splashscreen"
+            android:name="inialdan.com.matematriks.helper.pub.Splashscreen"
             android:exported="true"
             android:noHistory="true"
             android:screenOrientation="portrait"
@@ -44,110 +44,110 @@
         </activity>
 
         <activity
-            android:name="inialdan.apps.matematriks.helper.pub.Introduce"
+            android:name="inialdan.com.matematriks.helper.pub.Introduce"
             android:exported="false"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <activity
-            android:name="inialdan.apps.matematriks.Main"
+            android:name="inialdan.com.matematriks.Main"
             android:exported="false"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <activity
-            android:name="inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_matriks"
+            android:name="inialdan.com.matematriks.menu.activity.menu.belajar.belajar_matriks"
             android:exported="true"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <activity
-            android:name="inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_ordo_matriks"
+            android:name="inialdan.com.matematriks.menu.activity.menu.belajar.belajar_ordo_matriks"
             android:exported="true"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <activity
-            android:name="inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_jenis_matriks"
+            android:name="inialdan.com.matematriks.menu.activity.menu.belajar.belajar_jenis_matriks"
             android:exported="true"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <activity
-            android:name="inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_transpos_matriks"
+            android:name="inialdan.com.matematriks.menu.activity.menu.belajar.belajar_transpos_matriks"
             android:exported="true"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <activity
-            android:name="inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_kesamaan_matriks"
+            android:name="inialdan.com.matematriks.menu.activity.menu.belajar.belajar_kesamaan_matriks"
             android:exported="true"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <activity
-            android:name="inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_pertambahan_pengurangan_matriks"
+            android:name="inialdan.com.matematriks.menu.activity.menu.belajar.belajar_pertambahan_pengurangan_matriks"
             android:exported="true"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <activity
-            android:name="inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_perkalian_matriks"
+            android:name="inialdan.com.matematriks.menu.activity.menu.belajar.belajar_perkalian_matriks"
             android:exported="true"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <activity
-            android:name="inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_determinan_matriks"
+            android:name="inialdan.com.matematriks.menu.activity.menu.belajar.belajar_determinan_matriks"
             android:exported="true"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <activity
-            android:name="inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_minor_matriks"
+            android:name="inialdan.com.matematriks.menu.activity.menu.belajar.belajar_minor_matriks"
             android:exported="true"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <activity
-            android:name="inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_penerapan_matriks"
+            android:name="inialdan.com.matematriks.menu.activity.menu.belajar.belajar_penerapan_matriks"
             android:exported="true"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <activity
-            android:name="inialdan.apps.matematriks.menu.activity.menu.latihan.latihan_determinan"
+            android:name="inialdan.com.matematriks.menu.activity.menu.latihan.latihan_determinan"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <activity
-            android:name="inialdan.apps.matematriks.controller.MultipleChoiseMatriks"
+            android:name="inialdan.com.matematriks.controller.MultipleChoiseMatriks"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <activity
-            android:name="inialdan.apps.matematriks.controller.EssayMatriks"
+            android:name="inialdan.com.matematriks.controller.EssayMatriks"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="stateHidden" />
 
         <activity
-            android:name="inialdan.apps.matematriks.controller.ScoreController"
+            android:name="inialdan.com.matematriks.controller.ScoreController"
             android:exported="false"
             android:noHistory="true"
             android:screenOrientation="portrait"

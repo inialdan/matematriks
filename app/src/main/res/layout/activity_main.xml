@@ -5,7 +5,7 @@
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="inialdan.apps.matematriks.Main">
+    tools:context="inialdan.com.matematriks.Main">
 
     <android.support.design.widget.AppBarLayout
         android:id="@+id/appBar"
