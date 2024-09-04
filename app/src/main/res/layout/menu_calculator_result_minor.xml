@@ -1,45 +1,48 @@
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical"
     android:visibility="visible">
-    <android.support.v7.widget.CardView
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+
+    <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         card_view:cardElevation="2dp"
         card_view:cardUseCompatPadding="true">
+
         <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackground"
             android:orientation="horizontal"
-            android:padding="10sp"
-            android:background="?android:attr/selectableItemBackground">
+            android:padding="10sp">
+
             <LinearLayout
                 android:id="@+id/thumbnail"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignParentStart="true"
                 android:layout_marginEnd="15dp">
+
                 <TextView
                     android:id="@+id/pict_poster"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:text="[  ]"
-                    android:textSize="70sp"/>
+                    android:textSize="70sp" />
             </LinearLayout>
+
             <TextView
                 android:id="@+id/lblMinorMatriks"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignTop="@+id/thumbnail"
+                android:layout_marginTop="5dp"
                 android:layout_toRightOf="@+id/thumbnail"
                 android:text="Minor"
                 android:textColor="#040404"
                 android:textSize="21sp"
-                android:layout_marginTop="5dp"
                 android:textStyle="bold"
                 android:typeface="sans" />
 
@@ -52,7 +55,7 @@
                 android:layout_toRightOf="@+id/thumbnail"
                 android:text="M11"
                 android:textColor="#343434"
-                android:textSize="15sp"/>
+                android:textSize="15sp" />
 
             <TextView
                 android:id="@+id/tM12"
@@ -60,8 +63,8 @@
                 android:layout_height="25dp"
                 android:layout_alignBaseline="@+id/tM11"
                 android:layout_alignBottom="@+id/tM11"
-                android:layout_toEndOf="@+id/tM11"
                 android:layout_marginLeft="10dp"
+                android:layout_toEndOf="@+id/tM11"
                 android:text="M12"
                 android:textColor="#343434"
                 android:textSize="15sp" />
@@ -75,7 +78,7 @@
                 android:layout_toRightOf="@+id/thumbnail"
                 android:text="M21"
                 android:textColor="#343434"
-                android:textSize="15sp"/>
+                android:textSize="15sp" />
 
             <TextView
                 android:id="@+id/tM22"
@@ -83,8 +86,8 @@
                 android:layout_height="25dp"
                 android:layout_alignBaseline="@+id/tM21"
                 android:layout_alignBottom="@+id/tM21"
-                android:layout_toEndOf="@+id/tM21"
                 android:layout_marginLeft="10dp"
+                android:layout_toEndOf="@+id/tM21"
                 android:text="M22"
                 android:textColor="#343434"
                 android:textSize="15sp" />
@@ -93,8 +96,8 @@
                 android:id="@+id/Description"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:layout_alignEnd="@+id/Baskom"
                 android:layout_below="@+id/thumbnail"
+                android:layout_alignEnd="@+id/Baskom"
                 android:layout_marginTop="20dp"
                 android:text="@string/description_minor_1"
                 android:textColor="#343434"
@@ -104,8 +107,8 @@
                 android:id="@+id/Result_Matriks"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentRight="true"
                 android:layout_alignTop="@id/lblMinorMatriks"
+                android:layout_alignParentRight="true"
                 android:gravity="right"
                 android:text="Hasil Matriksnya"
                 android:textSize="10sp"
@@ -116,15 +119,15 @@
                 android:id="@+id/Baskom"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentEnd="true"
                 android:layout_alignTop="@id/tM22"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="-5dp"
                 android:gravity="right"
                 android:text="Baris Kolom"
                 android:textColor="@color/color_grey"
                 android:textSize="12sp"
-                android:visibility="invisible"
-                android:layout_marginTop="-5dp"/>
+                android:visibility="invisible" />
 
         </RelativeLayout>
-    </android.support.v7.widget.CardView>
+    </androidx.cardview.widget.CardView>
 </FrameLayout>

@@ -4,32 +4,74 @@ ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/Andr
 INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:20:1-158:12
 INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:20:1-158:12
 INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:20:1-158:12
-MERGED from [com.android.support:design:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9626b49bd47f494a513b163182791600/transformed/design-26.1.0/AndroidManifest.xml:17:1-31:12
-MERGED from [com.github.Shashank02051997:FancyGifDialog-Android:1.1] /Users/inialdan/.gradle/caches/transforms-3/c1203b57de7079af810d34269627cf92/transformed/FancyGifDialog-Android-1.1/AndroidManifest.xml:2:1-11:12
-MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] /Users/inialdan/.gradle/caches/transforms-3/4ffeda7665268628ac988697b0b3648e/transformed/tastytoast-0.1.1/AndroidManifest.xml:2:1-14:12
-MERGED from [com.github.tibolte:elasticdownload:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/0176a73dc0b6b02830e62329f5bd4d8c/transformed/elasticdownload-1.0.4/AndroidManifest.xml:2:1-11:12
-MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.1] /Users/inialdan/.gradle/caches/transforms-3/1dc125792edbe4ed5d73301cad6a0bd8/transformed/catloadinglibrary-1.0.1/AndroidManifest.xml:2:1-17:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/ebd113492d6ddf5e664faeb64aa73459/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9e27bd06da2e44f3bf4fdc7f37ce4ff2/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/3010685c875fef647dd17b19edfece62/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:cardview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/bf5122a43b2d350d9604590cb5932f43/transformed/cardview-v7-26.1.0/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:transition:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/5430a969064011db70fdb9a4e1722fe7/transformed/transition-26.1.0/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/d22178664aaf30b70fd19681a7f7bbec/transformed/support-v4-26.1.0/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/b6b9b24be6de7d2ef3d500174ab56368/transformed/recyclerview-v7-26.1.0/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/inialdan/.gradle/caches/transforms-3/311ddca0bb6803d2754acf687bcbdcbe/transformed/constraint-layout-1.0.2/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.volley:volley:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/81800e03c3c4a3d484bde71d85b366a3/transformed/volley-1.0.0/AndroidManifest.xml:2:1-11:12
-MERGED from [com.daimajia.slider:library:1.1.5] /Users/inialdan/.gradle/caches/transforms-3/975c50433f25134731376ce9e7c703e0/transformed/library-1.1.5/AndroidManifest.xml:2:1-14:12
-MERGED from [com.victor:lib:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/e0bcf664b350735a78bf04db51ff6cae/transformed/lib-1.0.4/AndroidManifest.xml:2:1-16:12
-MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] /Users/inialdan/.gradle/caches/transforms-3/f3a700e2d07787ce3f105246edfda943/transformed/library-1.2.0/AndroidManifest.xml:2:1-14:12
-MERGED from [com.jakewharton:butterknife:8.8.1] /Users/inialdan/.gradle/caches/transforms-3/a2182b6267e1c976a7f87d9963e7d0b7/transformed/butterknife-8.8.1/AndroidManifest.xml:2:1-7:12
-MERGED from [com.akexorcist:RoundCornerProgressBar:2.0.3] /Users/inialdan/.gradle/caches/transforms-3/11b45c9fe7bd49441aa85c39b07fe8bf/transformed/RoundCornerProgressBar-2.0.3/AndroidManifest.xml:2:1-12:12
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/915a8a99d5b74a06ff5ea58c18910179/transformed/support-media-compat-26.1.0/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/1ee55d0be3f21af727af7e4092646091/transformed/support-fragment-26.1.0/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/31eb76323bbe2ca1d4052cf33bdf7cf0/transformed/support-core-utils-26.1.0/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/f825f43f1641db09baa995fb4e6a840c/transformed/support-core-ui-26.1.0/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/dfdea12cbb28d2e216445073c95e4f74/transformed/support-compat-26.1.0/AndroidManifest.xml:17:1-31:12
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] /Users/inialdan/.gradle/caches/transforms-3/3306e616fff8ae0f428ae0dfe27644fc/transformed/android-gif-drawable-1.2.10/AndroidManifest.xml:2:1-11:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/2d14652397b451d5eef3855e9a27ad9d/transformed/runtime-1.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/ed543d8bf415278dc69c61ae57f79a30/transformed/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.Shashank02051997:FancyGifDialog-Android:1.1] /Users/inialdan/.gradle/caches/transforms-3/424ae00d0bc3c47281d48932a550d1d1/transformed/jetified-FancyGifDialog-Android-1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] /Users/inialdan/.gradle/caches/transforms-3/cea985bbe6fe6bef4f80eb99edcc21ac/transformed/jetified-tastytoast-0.1.1/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.tibolte:elasticdownload:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/69e8c93cb58e76a952a06640b3b56738/transformed/jetified-elasticdownload-1.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.1] /Users/inialdan/.gradle/caches/transforms-3/249a3cfd95ac3753f70f38ac16719793/transformed/jetified-catloadinglibrary-1.0.1/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/0e62507556a61f38ee60afbae41d3862/transformed/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/cee08bae23b6af1966cd102f48988c42/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/a8b4f68e09026f50601f9cc1c5ac531e/transformed/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/8daa0b6f7f666785078d81da8757b5d7/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/bde1d66362afc74b0adee196a8afc2d0/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/dc9065a7d87c919bbf461d1e44009e15/transformed/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/inialdan/.gradle/caches/transforms-3/1ab71e4d5df3ade3272896a7e2ca9104/transformed/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-analytics:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/9c87260f06ebf89cac5ebe497ce7b36c/transformed/jetified-firebase-analytics-22.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.volley:volley:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/772e476edcc86904f0eb9d0424d9636a/transformed/jetified-volley-1.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/inialdan/.gradle/caches/transforms-3/74d64f8ca2068ccf728458cde41d6ead/transformed/jetified-library-1.1.5/AndroidManifest.xml:2:1-14:12
+MERGED from [com.victor:lib:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/a1eef702915c58b8bcdd950a5ceeb34f/transformed/jetified-lib-1.0.4/AndroidManifest.xml:2:1-16:12
+MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] /Users/inialdan/.gradle/caches/transforms-3/d2fb339f34605414465819d6b0b05347/transformed/jetified-library-1.2.0/AndroidManifest.xml:2:1-14:12
+MERGED from [com.jakewharton:butterknife:10.1.0] /Users/inialdan/.gradle/caches/transforms-3/e5f9a9e9201e2c81404f9512be2ab0da/transformed/jetified-butterknife-10.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/c7fc43d9980cd2336f0837e8ae6656bc/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/inialdan/.gradle/caches/transforms-3/bc810f9407af949147d747a9d33e0cde/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.akexorcist:RoundCornerProgressBar:2.0.3] /Users/inialdan/.gradle/caches/transforms-3/9f14db7bb46caa259522e772570670fe/transformed/jetified-RoundCornerProgressBar-2.0.3/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:17:1-43:12
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/09fc9e2d3b989bd925cdd5806a8558d4/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/fc09ccee4cffe93f81c73537862b0432/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/719be01c81c645e0610855b6a541fec0/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/a4ff31aed37cab116965b5b5b82a935e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/25d2c40c504e0b2be6dbdebb37eaa5d8/transformed/jetified-play-services-measurement-sdk-22.0.2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/276e99057b059fb67079ad1184d1b831/transformed/jetified-play-services-measurement-impl-22.0.2/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/inialdan/.gradle/caches/transforms-3/77bc3f1a4fab14272c0060dd99c617e7/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/1804a15cff1c25b6b67e6ba66a3dbe3c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/40511437ca6a301f96a75ecf0186ef83/transformed/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/f561fc4196f3a6ebc896a257034627a7/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/70bb205b8b45b649ce4b21ea7b25234b/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/445041fcc9a2c8dff7f76d7aee83d64e/transformed/jetified-play-services-measurement-sdk-api-22.0.2/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/438199e3fb9cdf2a64a570cccd8510f3/transformed/jetified-play-services-measurement-base-22.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/inialdan/.gradle/caches/transforms-3/d9b595321004835f6e306ce65186a712/transformed/jetified-firebase-installations-interop-17.1.1/AndroidManifest.xml:15:1-19:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/inialdan/.gradle/caches/transforms-3/0c6441b670e2b5e8f0169e0ef80f7c0b/transformed/jetified-ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/inialdan/.gradle/caches/transforms-3/d5e12cc323330a2d22fa25af6ba729b6/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/inialdan/.gradle/caches/transforms-3/e6dc185329a16e44c8ab5ef2457a82cd/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/inialdan/.gradle/caches/transforms-3/e8b07162346e8ddcfe81c11cc324f86b/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/inialdan/.gradle/caches/transforms-3/bd6083813fb3e2ee3b8320f83044afff/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/inialdan/.gradle/caches/transforms-3/ee49e1a4f422c1cbd801f826c38e95a5/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/ccd1083db8197d6f8ece4fc44f56b511/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/449540dff873a253e31bcec8cca0fc31/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/9dfad17dd0e554791893bd3677154ce9/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/270fcf69c3e215301a3a5a01819cf668/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/951b8f7796a7974a7a7c80466c05a1cb/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/d5e4b663a4d252cbb80a04b9885958c7/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/fd22c885f3fa82a0e79b298c21dab07e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/901c2ddf06465381bde2cd51625c954e/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/6f114d13244ba164471934003f535a1e/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/feb071e5fef1773426430e7d3f8d1c1a/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/36e4926b7d36675fb71585f931da194d/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife-runtime:10.1.0] /Users/inialdan/.gradle/caches/transforms-3/29927596afcc0e9d312e9697bf8e98d6/transformed/jetified-butterknife-runtime-10.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/5e6cbdb187aea3834195ce84d52c543f/transformed/jetified-firebase-components-18.0.0/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/1454d5be31c8061e461be51e8f419c0b/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/inialdan/.gradle/caches/transforms-3/142966a1285dc23b27edf56f69eb1e60/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.9.0] /Users/inialdan/.gradle/caches/transforms-3/c92dfd0eb03c4f9828c6919cb026cb38/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/inialdan/.gradle/caches/transforms-3/8570f29ed538da665950818142e194f8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/inialdan/.gradle/caches/transforms-3/ae74a1da37ac476db84895266f83853e/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/inialdan/.gradle/caches/transforms-3/575f7838e8cd037820ceedd8e7cf4a14/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/2661205c926fd3fffbc6c150cc48e177/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/inialdan/.gradle/caches/transforms-3/7e05a39fae3c59f38f70b7a0b854b5b7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/inialdan/.gradle/caches/transforms-3/41f6052a15496c35f2599871ff1b0475/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/inialdan/.gradle/caches/transforms-3/7922ee01da11ab3294d6d65bd1a361e9/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] /Users/inialdan/.gradle/caches/transforms-3/9a9cf37182fc635c8f3ae7dab3494e52/transformed/jetified-android-gif-drawable-1.2.10/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/inialdan/.gradle/caches/transforms-3/5e1cd13c3841c6350f51329c2be2681e/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
 	package
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:21:5-39
 		INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml
@@ -41,55 +83,75 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/inialdan/.gradle/cache
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:20:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:23:5-67
-MERGED from [com.daimajia.slider:library:1.1.5] /Users/inialdan/.gradle/caches/transforms-3/975c50433f25134731376ce9e7c703e0/transformed/library-1.1.5/AndroidManifest.xml:11:5-67
-MERGED from [com.daimajia.slider:library:1.1.5] /Users/inialdan/.gradle/caches/transforms-3/975c50433f25134731376ce9e7c703e0/transformed/library-1.1.5/AndroidManifest.xml:11:5-67
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/inialdan/.gradle/caches/transforms-3/74d64f8ca2068ccf728458cde41d6ead/transformed/jetified-library-1.1.5/AndroidManifest.xml:11:5-67
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/inialdan/.gradle/caches/transforms-3/74d64f8ca2068ccf728458cde41d6ead/transformed/jetified-library-1.1.5/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/09fc9e2d3b989bd925cdd5806a8558d4/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/09fc9e2d3b989bd925cdd5806a8558d4/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/276e99057b059fb67079ad1184d1b831/transformed/jetified-play-services-measurement-impl-22.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/276e99057b059fb67079ad1184d1b831/transformed/jetified-play-services-measurement-impl-22.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/445041fcc9a2c8dff7f76d7aee83d64e/transformed/jetified-play-services-measurement-sdk-api-22.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/445041fcc9a2c8dff7f76d7aee83d64e/transformed/jetified-play-services-measurement-sdk-api-22.0.2/AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:23:22-64
 application
 ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:25:5-156:19
 INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:25:5-156:19
-MERGED from [com.android.support:design:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9626b49bd47f494a513b163182791600/transformed/design-26.1.0/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:design:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9626b49bd47f494a513b163182791600/transformed/design-26.1.0/AndroidManifest.xml:25:5-29:19
-MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] /Users/inialdan/.gradle/caches/transforms-3/4ffeda7665268628ac988697b0b3648e/transformed/tastytoast-0.1.1/AndroidManifest.xml:11:5-12:19
-MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] /Users/inialdan/.gradle/caches/transforms-3/4ffeda7665268628ac988697b0b3648e/transformed/tastytoast-0.1.1/AndroidManifest.xml:11:5-12:19
-MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.1] /Users/inialdan/.gradle/caches/transforms-3/1dc125792edbe4ed5d73301cad6a0bd8/transformed/catloadinglibrary-1.0.1/AndroidManifest.xml:11:5-15:19
-MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.1] /Users/inialdan/.gradle/caches/transforms-3/1dc125792edbe4ed5d73301cad6a0bd8/transformed/catloadinglibrary-1.0.1/AndroidManifest.xml:11:5-15:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/ebd113492d6ddf5e664faeb64aa73459/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/ebd113492d6ddf5e664faeb64aa73459/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9e27bd06da2e44f3bf4fdc7f37ce4ff2/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9e27bd06da2e44f3bf4fdc7f37ce4ff2/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/3010685c875fef647dd17b19edfece62/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/3010685c875fef647dd17b19edfece62/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:cardview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/bf5122a43b2d350d9604590cb5932f43/transformed/cardview-v7-26.1.0/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:cardview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/bf5122a43b2d350d9604590cb5932f43/transformed/cardview-v7-26.1.0/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/5430a969064011db70fdb9a4e1722fe7/transformed/transition-26.1.0/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/5430a969064011db70fdb9a4e1722fe7/transformed/transition-26.1.0/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/d22178664aaf30b70fd19681a7f7bbec/transformed/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/d22178664aaf30b70fd19681a7f7bbec/transformed/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/b6b9b24be6de7d2ef3d500174ab56368/transformed/recyclerview-v7-26.1.0/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/b6b9b24be6de7d2ef3d500174ab56368/transformed/recyclerview-v7-26.1.0/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/inialdan/.gradle/caches/transforms-3/311ddca0bb6803d2754acf687bcbdcbe/transformed/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/inialdan/.gradle/caches/transforms-3/311ddca0bb6803d2754acf687bcbdcbe/transformed/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/81800e03c3c4a3d484bde71d85b366a3/transformed/volley-1.0.0/AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/81800e03c3c4a3d484bde71d85b366a3/transformed/volley-1.0.0/AndroidManifest.xml:9:5-20
-MERGED from [com.victor:lib:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/e0bcf664b350735a78bf04db51ff6cae/transformed/lib-1.0.4/AndroidManifest.xml:11:5-14:19
-MERGED from [com.victor:lib:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/e0bcf664b350735a78bf04db51ff6cae/transformed/lib-1.0.4/AndroidManifest.xml:11:5-14:19
-MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] /Users/inialdan/.gradle/caches/transforms-3/f3a700e2d07787ce3f105246edfda943/transformed/library-1.2.0/AndroidManifest.xml:12:5-20
-MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] /Users/inialdan/.gradle/caches/transforms-3/f3a700e2d07787ce3f105246edfda943/transformed/library-1.2.0/AndroidManifest.xml:12:5-20
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/915a8a99d5b74a06ff5ea58c18910179/transformed/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/915a8a99d5b74a06ff5ea58c18910179/transformed/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/1ee55d0be3f21af727af7e4092646091/transformed/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/1ee55d0be3f21af727af7e4092646091/transformed/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/31eb76323bbe2ca1d4052cf33bdf7cf0/transformed/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/31eb76323bbe2ca1d4052cf33bdf7cf0/transformed/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/f825f43f1641db09baa995fb4e6a840c/transformed/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/f825f43f1641db09baa995fb4e6a840c/transformed/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/dfdea12cbb28d2e216445073c95e4f74/transformed/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/dfdea12cbb28d2e216445073c95e4f74/transformed/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/2d14652397b451d5eef3855e9a27ad9d/transformed/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/2d14652397b451d5eef3855e9a27ad9d/transformed/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/ed543d8bf415278dc69c61ae57f79a30/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/ed543d8bf415278dc69c61ae57f79a30/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] /Users/inialdan/.gradle/caches/transforms-3/cea985bbe6fe6bef4f80eb99edcc21ac/transformed/jetified-tastytoast-0.1.1/AndroidManifest.xml:11:5-12:19
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] /Users/inialdan/.gradle/caches/transforms-3/cea985bbe6fe6bef4f80eb99edcc21ac/transformed/jetified-tastytoast-0.1.1/AndroidManifest.xml:11:5-12:19
+MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.1] /Users/inialdan/.gradle/caches/transforms-3/249a3cfd95ac3753f70f38ac16719793/transformed/jetified-catloadinglibrary-1.0.1/AndroidManifest.xml:11:5-15:19
+MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.1] /Users/inialdan/.gradle/caches/transforms-3/249a3cfd95ac3753f70f38ac16719793/transformed/jetified-catloadinglibrary-1.0.1/AndroidManifest.xml:11:5-15:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/inialdan/.gradle/caches/transforms-3/1ab71e4d5df3ade3272896a7e2ca9104/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/inialdan/.gradle/caches/transforms-3/1ab71e4d5df3ade3272896a7e2ca9104/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/9c87260f06ebf89cac5ebe497ce7b36c/transformed/jetified-firebase-analytics-22.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/9c87260f06ebf89cac5ebe497ce7b36c/transformed/jetified-firebase-analytics-22.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/772e476edcc86904f0eb9d0424d9636a/transformed/jetified-volley-1.0.0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/772e476edcc86904f0eb9d0424d9636a/transformed/jetified-volley-1.0.0/AndroidManifest.xml:9:5-20
+MERGED from [com.victor:lib:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/a1eef702915c58b8bcdd950a5ceeb34f/transformed/jetified-lib-1.0.4/AndroidManifest.xml:11:5-14:19
+MERGED from [com.victor:lib:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/a1eef702915c58b8bcdd950a5ceeb34f/transformed/jetified-lib-1.0.4/AndroidManifest.xml:11:5-14:19
+MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] /Users/inialdan/.gradle/caches/transforms-3/d2fb339f34605414465819d6b0b05347/transformed/jetified-library-1.2.0/AndroidManifest.xml:12:5-20
+MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] /Users/inialdan/.gradle/caches/transforms-3/d2fb339f34605414465819d6b0b05347/transformed/jetified-library-1.2.0/AndroidManifest.xml:12:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/09fc9e2d3b989bd925cdd5806a8558d4/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/09fc9e2d3b989bd925cdd5806a8558d4/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/fc09ccee4cffe93f81c73537862b0432/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/fc09ccee4cffe93f81c73537862b0432/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/719be01c81c645e0610855b6a541fec0/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/719be01c81c645e0610855b6a541fec0/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/25d2c40c504e0b2be6dbdebb37eaa5d8/transformed/jetified-play-services-measurement-sdk-22.0.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/25d2c40c504e0b2be6dbdebb37eaa5d8/transformed/jetified-play-services-measurement-sdk-22.0.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/276e99057b059fb67079ad1184d1b831/transformed/jetified-play-services-measurement-impl-22.0.2/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/276e99057b059fb67079ad1184d1b831/transformed/jetified-play-services-measurement-impl-22.0.2/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/inialdan/.gradle/caches/transforms-3/77bc3f1a4fab14272c0060dd99c617e7/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/inialdan/.gradle/caches/transforms-3/77bc3f1a4fab14272c0060dd99c617e7/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/70bb205b8b45b649ce4b21ea7b25234b/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/70bb205b8b45b649ce4b21ea7b25234b/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/438199e3fb9cdf2a64a570cccd8510f3/transformed/jetified-play-services-measurement-base-22.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/438199e3fb9cdf2a64a570cccd8510f3/transformed/jetified-play-services-measurement-base-22.0.2/AndroidManifest.xml:7:5-20
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/inialdan/.gradle/caches/transforms-3/d5e12cc323330a2d22fa25af6ba729b6/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/inialdan/.gradle/caches/transforms-3/d5e12cc323330a2d22fa25af6ba729b6/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/inialdan/.gradle/caches/transforms-3/e6dc185329a16e44c8ab5ef2457a82cd/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/inialdan/.gradle/caches/transforms-3/e6dc185329a16e44c8ab5ef2457a82cd/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/inialdan/.gradle/caches/transforms-3/e8b07162346e8ddcfe81c11cc324f86b/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/inialdan/.gradle/caches/transforms-3/e8b07162346e8ddcfe81c11cc324f86b/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/inialdan/.gradle/caches/transforms-3/bd6083813fb3e2ee3b8320f83044afff/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/inialdan/.gradle/caches/transforms-3/bd6083813fb3e2ee3b8320f83044afff/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.core:core:1.9.0] /Users/inialdan/.gradle/caches/transforms-3/c92dfd0eb03c4f9828c6919cb026cb38/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/inialdan/.gradle/caches/transforms-3/c92dfd0eb03c4f9828c6919cb026cb38/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/inialdan/.gradle/caches/transforms-3/8570f29ed538da665950818142e194f8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/inialdan/.gradle/caches/transforms-3/8570f29ed538da665950818142e194f8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
 		INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/inialdan/.gradle/caches/transforms-3/c92dfd0eb03c4f9828c6919cb026cb38/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:30:9-35
 	android:label
@@ -102,7 +164,7 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/inialdan/.gradle/cache
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:26:9-35
 	android:theme
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:31:9-40
-activity#inialdan.apps.matematriks.helper.pub.Splashscreen
+activity#inialdan.com.matematriks.helper.pub.Splashscreen
 ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:33:9-44:20
 	android:screenOrientation
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:37:13-49
@@ -113,7 +175,7 @@ ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/Andr
 	android:theme
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:38:13-57
 	android:name
-		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:34:13-77
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:34:13-76
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:39:13-43:29
 action#android.intent.action.MAIN
@@ -124,7 +186,7 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:42:17-77
 	android:name
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:42:27-74
-activity#inialdan.apps.matematriks.helper.pub.Introduce
+activity#inialdan.com.matematriks.helper.pub.Introduce
 ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:46:9-51:59
 	android:screenOrientation
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:50:13-49
@@ -135,8 +197,8 @@ ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/Andr
 	android:theme
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:51:13-56
 	android:name
-		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:47:13-74
-activity#inialdan.apps.matematriks.Main
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:47:13-73
+activity#inialdan.com.matematriks.Main
 ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:53:9-58:59
 	android:screenOrientation
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:57:13-49
@@ -147,8 +209,8 @@ ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/Andr
 	android:theme
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:58:13-56
 	android:name
-		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:54:13-58
-activity#inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_matriks
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:54:13-57
+activity#inialdan.com.matematriks.menu.activity.menu.belajar.belajar_matriks
 ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:60:9-65:59
 	android:screenOrientation
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:64:13-49
@@ -159,8 +221,8 @@ ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/Andr
 	android:theme
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:65:13-56
 	android:name
-		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:61:13-96
-activity#inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_ordo_matriks
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:61:13-95
+activity#inialdan.com.matematriks.menu.activity.menu.belajar.belajar_ordo_matriks
 ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:67:9-72:59
 	android:screenOrientation
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:71:13-49
@@ -171,8 +233,8 @@ ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/Andr
 	android:theme
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:72:13-56
 	android:name
-		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:68:13-101
-activity#inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_jenis_matriks
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:68:13-100
+activity#inialdan.com.matematriks.menu.activity.menu.belajar.belajar_jenis_matriks
 ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:74:9-79:59
 	android:screenOrientation
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:78:13-49
@@ -183,8 +245,8 @@ ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/Andr
 	android:theme
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:79:13-56
 	android:name
-		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:75:13-102
-activity#inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_transpos_matriks
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:75:13-101
+activity#inialdan.com.matematriks.menu.activity.menu.belajar.belajar_transpos_matriks
 ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:81:9-86:59
 	android:screenOrientation
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:85:13-49
@@ -195,8 +257,8 @@ ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/Andr
 	android:theme
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:86:13-56
 	android:name
-		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:82:13-105
-activity#inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_kesamaan_matriks
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:82:13-104
+activity#inialdan.com.matematriks.menu.activity.menu.belajar.belajar_kesamaan_matriks
 ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:88:9-93:59
 	android:screenOrientation
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:92:13-49
@@ -207,8 +269,8 @@ ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/Andr
 	android:theme
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:93:13-56
 	android:name
-		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:89:13-105
-activity#inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_pertambahan_pengurangan_matriks
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:89:13-104
+activity#inialdan.com.matematriks.menu.activity.menu.belajar.belajar_pertambahan_pengurangan_matriks
 ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:95:9-100:59
 	android:screenOrientation
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:99:13-49
@@ -219,8 +281,8 @@ ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/Andr
 	android:theme
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:100:13-56
 	android:name
-		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:96:13-120
-activity#inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_perkalian_matriks
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:96:13-119
+activity#inialdan.com.matematriks.menu.activity.menu.belajar.belajar_perkalian_matriks
 ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:102:9-107:59
 	android:screenOrientation
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:106:13-49
@@ -231,8 +293,8 @@ ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/Andr
 	android:theme
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:107:13-56
 	android:name
-		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:103:13-106
-activity#inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_determinan_matriks
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:103:13-105
+activity#inialdan.com.matematriks.menu.activity.menu.belajar.belajar_determinan_matriks
 ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:109:9-114:59
 	android:screenOrientation
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:113:13-49
@@ -243,8 +305,8 @@ ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/Andr
 	android:theme
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:114:13-56
 	android:name
-		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:110:13-107
-activity#inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_minor_matriks
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:110:13-106
+activity#inialdan.com.matematriks.menu.activity.menu.belajar.belajar_minor_matriks
 ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:116:9-121:59
 	android:screenOrientation
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:120:13-49
@@ -255,8 +317,8 @@ ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/Andr
 	android:theme
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:121:13-56
 	android:name
-		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:117:13-102
-activity#inialdan.apps.matematriks.menu.activity.menu.belajar.belajar_penerapan_matriks
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:117:13-101
+activity#inialdan.com.matematriks.menu.activity.menu.belajar.belajar_penerapan_matriks
 ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:123:9-128:59
 	android:screenOrientation
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:127:13-49
@@ -267,8 +329,8 @@ ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/Andr
 	android:theme
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:128:13-56
 	android:name
-		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:124:13-106
-activity#inialdan.apps.matematriks.menu.activity.menu.latihan.latihan_determinan
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:124:13-105
+activity#inialdan.com.matematriks.menu.activity.menu.latihan.latihan_determinan
 ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:130:9-134:59
 	android:screenOrientation
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:133:13-49
@@ -277,8 +339,8 @@ ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/Andr
 	android:theme
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:134:13-56
 	android:name
-		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:131:13-99
-activity#inialdan.apps.matematriks.controller.MultipleChoiseMatriks
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:131:13-98
+activity#inialdan.com.matematriks.controller.MultipleChoiseMatriks
 ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:136:9-140:59
 	android:screenOrientation
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:139:13-49
@@ -287,8 +349,8 @@ ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/Andr
 	android:theme
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:140:13-56
 	android:name
-		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:137:13-86
-activity#inialdan.apps.matematriks.controller.EssayMatriks
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:137:13-85
+activity#inialdan.com.matematriks.controller.EssayMatriks
 ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:142:9-147:57
 	android:screenOrientation
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:145:13-49
@@ -299,8 +361,8 @@ ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/Andr
 	android:theme
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:146:13-56
 	android:name
-		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:143:13-77
-activity#inialdan.apps.matematriks.controller.ScoreController
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:143:13-76
+activity#inialdan.com.matematriks.controller.ScoreController
 ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:149:9-154:59
 	android:screenOrientation
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:153:13-49
@@ -311,108 +373,326 @@ ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/Andr
 	android:theme
 		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:154:13-56
 	android:name
-		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:150:13-80
+		ADDED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:150:13-79
 uses-sdk
 INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml
 INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:design:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9626b49bd47f494a513b163182791600/transformed/design-26.1.0/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9626b49bd47f494a513b163182791600/transformed/design-26.1.0/AndroidManifest.xml:21:5-23:62
-MERGED from [com.github.Shashank02051997:FancyGifDialog-Android:1.1] /Users/inialdan/.gradle/caches/transforms-3/c1203b57de7079af810d34269627cf92/transformed/FancyGifDialog-Android-1.1/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.Shashank02051997:FancyGifDialog-Android:1.1] /Users/inialdan/.gradle/caches/transforms-3/c1203b57de7079af810d34269627cf92/transformed/FancyGifDialog-Android-1.1/AndroidManifest.xml:7:5-9:41
-MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] /Users/inialdan/.gradle/caches/transforms-3/4ffeda7665268628ac988697b0b3648e/transformed/tastytoast-0.1.1/AndroidManifest.xml:7:5-9:41
-MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] /Users/inialdan/.gradle/caches/transforms-3/4ffeda7665268628ac988697b0b3648e/transformed/tastytoast-0.1.1/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.tibolte:elasticdownload:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/0176a73dc0b6b02830e62329f5bd4d8c/transformed/elasticdownload-1.0.4/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.tibolte:elasticdownload:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/0176a73dc0b6b02830e62329f5bd4d8c/transformed/elasticdownload-1.0.4/AndroidManifest.xml:7:5-9:41
-MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.1] /Users/inialdan/.gradle/caches/transforms-3/1dc125792edbe4ed5d73301cad6a0bd8/transformed/catloadinglibrary-1.0.1/AndroidManifest.xml:7:5-9:41
-MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.1] /Users/inialdan/.gradle/caches/transforms-3/1dc125792edbe4ed5d73301cad6a0bd8/transformed/catloadinglibrary-1.0.1/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/ebd113492d6ddf5e664faeb64aa73459/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/ebd113492d6ddf5e664faeb64aa73459/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9e27bd06da2e44f3bf4fdc7f37ce4ff2/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9e27bd06da2e44f3bf4fdc7f37ce4ff2/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/3010685c875fef647dd17b19edfece62/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/3010685c875fef647dd17b19edfece62/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/bf5122a43b2d350d9604590cb5932f43/transformed/cardview-v7-26.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/bf5122a43b2d350d9604590cb5932f43/transformed/cardview-v7-26.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/5430a969064011db70fdb9a4e1722fe7/transformed/transition-26.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/5430a969064011db70fdb9a4e1722fe7/transformed/transition-26.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/d22178664aaf30b70fd19681a7f7bbec/transformed/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/d22178664aaf30b70fd19681a7f7bbec/transformed/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/b6b9b24be6de7d2ef3d500174ab56368/transformed/recyclerview-v7-26.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/b6b9b24be6de7d2ef3d500174ab56368/transformed/recyclerview-v7-26.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/inialdan/.gradle/caches/transforms-3/311ddca0bb6803d2754acf687bcbdcbe/transformed/constraint-layout-1.0.2/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/inialdan/.gradle/caches/transforms-3/311ddca0bb6803d2754acf687bcbdcbe/transformed/constraint-layout-1.0.2/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.volley:volley:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/81800e03c3c4a3d484bde71d85b366a3/transformed/volley-1.0.0/AndroidManifest.xml:7:5-43
-MERGED from [com.android.volley:volley:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/81800e03c3c4a3d484bde71d85b366a3/transformed/volley-1.0.0/AndroidManifest.xml:7:5-43
-MERGED from [com.daimajia.slider:library:1.1.5] /Users/inialdan/.gradle/caches/transforms-3/975c50433f25134731376ce9e7c703e0/transformed/library-1.1.5/AndroidManifest.xml:7:5-9:41
-MERGED from [com.daimajia.slider:library:1.1.5] /Users/inialdan/.gradle/caches/transforms-3/975c50433f25134731376ce9e7c703e0/transformed/library-1.1.5/AndroidManifest.xml:7:5-9:41
-MERGED from [com.victor:lib:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/e0bcf664b350735a78bf04db51ff6cae/transformed/lib-1.0.4/AndroidManifest.xml:7:5-9:41
-MERGED from [com.victor:lib:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/e0bcf664b350735a78bf04db51ff6cae/transformed/lib-1.0.4/AndroidManifest.xml:7:5-9:41
-MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] /Users/inialdan/.gradle/caches/transforms-3/f3a700e2d07787ce3f105246edfda943/transformed/library-1.2.0/AndroidManifest.xml:8:5-10:41
-MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] /Users/inialdan/.gradle/caches/transforms-3/f3a700e2d07787ce3f105246edfda943/transformed/library-1.2.0/AndroidManifest.xml:8:5-10:41
-MERGED from [com.jakewharton:butterknife:8.8.1] /Users/inialdan/.gradle/caches/transforms-3/a2182b6267e1c976a7f87d9963e7d0b7/transformed/butterknife-8.8.1/AndroidManifest.xml:5:5-43
-MERGED from [com.jakewharton:butterknife:8.8.1] /Users/inialdan/.gradle/caches/transforms-3/a2182b6267e1c976a7f87d9963e7d0b7/transformed/butterknife-8.8.1/AndroidManifest.xml:5:5-43
-MERGED from [com.akexorcist:RoundCornerProgressBar:2.0.3] /Users/inialdan/.gradle/caches/transforms-3/11b45c9fe7bd49441aa85c39b07fe8bf/transformed/RoundCornerProgressBar-2.0.3/AndroidManifest.xml:8:5-10:41
-MERGED from [com.akexorcist:RoundCornerProgressBar:2.0.3] /Users/inialdan/.gradle/caches/transforms-3/11b45c9fe7bd49441aa85c39b07fe8bf/transformed/RoundCornerProgressBar-2.0.3/AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/915a8a99d5b74a06ff5ea58c18910179/transformed/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/915a8a99d5b74a06ff5ea58c18910179/transformed/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/1ee55d0be3f21af727af7e4092646091/transformed/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/1ee55d0be3f21af727af7e4092646091/transformed/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/31eb76323bbe2ca1d4052cf33bdf7cf0/transformed/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/31eb76323bbe2ca1d4052cf33bdf7cf0/transformed/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/f825f43f1641db09baa995fb4e6a840c/transformed/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/f825f43f1641db09baa995fb4e6a840c/transformed/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/dfdea12cbb28d2e216445073c95e4f74/transformed/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/dfdea12cbb28d2e216445073c95e4f74/transformed/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] /Users/inialdan/.gradle/caches/transforms-3/3306e616fff8ae0f428ae0dfe27644fc/transformed/android-gif-drawable-1.2.10/AndroidManifest.xml:7:5-9:41
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] /Users/inialdan/.gradle/caches/transforms-3/3306e616fff8ae0f428ae0dfe27644fc/transformed/android-gif-drawable-1.2.10/AndroidManifest.xml:7:5-9:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/2d14652397b451d5eef3855e9a27ad9d/transformed/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/2d14652397b451d5eef3855e9a27ad9d/transformed/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
-	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9626b49bd47f494a513b163182791600/transformed/design-26.1.0/AndroidManifest.xml:23:9-59
+MERGED from [com.google.android.material:material:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/ed543d8bf415278dc69c61ae57f79a30/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/ed543d8bf415278dc69c61ae57f79a30/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.Shashank02051997:FancyGifDialog-Android:1.1] /Users/inialdan/.gradle/caches/transforms-3/424ae00d0bc3c47281d48932a550d1d1/transformed/jetified-FancyGifDialog-Android-1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Shashank02051997:FancyGifDialog-Android:1.1] /Users/inialdan/.gradle/caches/transforms-3/424ae00d0bc3c47281d48932a550d1d1/transformed/jetified-FancyGifDialog-Android-1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] /Users/inialdan/.gradle/caches/transforms-3/cea985bbe6fe6bef4f80eb99edcc21ac/transformed/jetified-tastytoast-0.1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] /Users/inialdan/.gradle/caches/transforms-3/cea985bbe6fe6bef4f80eb99edcc21ac/transformed/jetified-tastytoast-0.1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tibolte:elasticdownload:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/69e8c93cb58e76a952a06640b3b56738/transformed/jetified-elasticdownload-1.0.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tibolte:elasticdownload:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/69e8c93cb58e76a952a06640b3b56738/transformed/jetified-elasticdownload-1.0.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.1] /Users/inialdan/.gradle/caches/transforms-3/249a3cfd95ac3753f70f38ac16719793/transformed/jetified-catloadinglibrary-1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.roger.catloadinglibrary:catloadinglibrary:1.0.1] /Users/inialdan/.gradle/caches/transforms-3/249a3cfd95ac3753f70f38ac16719793/transformed/jetified-catloadinglibrary-1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/0e62507556a61f38ee60afbae41d3862/transformed/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/0e62507556a61f38ee60afbae41d3862/transformed/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/cee08bae23b6af1966cd102f48988c42/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/cee08bae23b6af1966cd102f48988c42/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/a8b4f68e09026f50601f9cc1c5ac531e/transformed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/a8b4f68e09026f50601f9cc1c5ac531e/transformed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/8daa0b6f7f666785078d81da8757b5d7/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/8daa0b6f7f666785078d81da8757b5d7/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/bde1d66362afc74b0adee196a8afc2d0/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/bde1d66362afc74b0adee196a8afc2d0/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/dc9065a7d87c919bbf461d1e44009e15/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/dc9065a7d87c919bbf461d1e44009e15/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/inialdan/.gradle/caches/transforms-3/1ab71e4d5df3ade3272896a7e2ca9104/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/inialdan/.gradle/caches/transforms-3/1ab71e4d5df3ade3272896a7e2ca9104/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-analytics:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/9c87260f06ebf89cac5ebe497ce7b36c/transformed/jetified-firebase-analytics-22.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/9c87260f06ebf89cac5ebe497ce7b36c/transformed/jetified-firebase-analytics-22.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.android.volley:volley:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/772e476edcc86904f0eb9d0424d9636a/transformed/jetified-volley-1.0.0/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/772e476edcc86904f0eb9d0424d9636a/transformed/jetified-volley-1.0.0/AndroidManifest.xml:7:5-43
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/inialdan/.gradle/caches/transforms-3/74d64f8ca2068ccf728458cde41d6ead/transformed/jetified-library-1.1.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/inialdan/.gradle/caches/transforms-3/74d64f8ca2068ccf728458cde41d6ead/transformed/jetified-library-1.1.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.victor:lib:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/a1eef702915c58b8bcdd950a5ceeb34f/transformed/jetified-lib-1.0.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.victor:lib:1.0.4] /Users/inialdan/.gradle/caches/transforms-3/a1eef702915c58b8bcdd950a5ceeb34f/transformed/jetified-lib-1.0.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] /Users/inialdan/.gradle/caches/transforms-3/d2fb339f34605414465819d6b0b05347/transformed/jetified-library-1.2.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] /Users/inialdan/.gradle/caches/transforms-3/d2fb339f34605414465819d6b0b05347/transformed/jetified-library-1.2.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.jakewharton:butterknife:10.1.0] /Users/inialdan/.gradle/caches/transforms-3/e5f9a9e9201e2c81404f9512be2ab0da/transformed/jetified-butterknife-10.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.1.0] /Users/inialdan/.gradle/caches/transforms-3/e5f9a9e9201e2c81404f9512be2ab0da/transformed/jetified-butterknife-10.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/c7fc43d9980cd2336f0837e8ae6656bc/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/c7fc43d9980cd2336f0837e8ae6656bc/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/inialdan/.gradle/caches/transforms-3/bc810f9407af949147d747a9d33e0cde/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/inialdan/.gradle/caches/transforms-3/bc810f9407af949147d747a9d33e0cde/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.akexorcist:RoundCornerProgressBar:2.0.3] /Users/inialdan/.gradle/caches/transforms-3/9f14db7bb46caa259522e772570670fe/transformed/jetified-RoundCornerProgressBar-2.0.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.akexorcist:RoundCornerProgressBar:2.0.3] /Users/inialdan/.gradle/caches/transforms-3/9f14db7bb46caa259522e772570670fe/transformed/jetified-RoundCornerProgressBar-2.0.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/09fc9e2d3b989bd925cdd5806a8558d4/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/09fc9e2d3b989bd925cdd5806a8558d4/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/fc09ccee4cffe93f81c73537862b0432/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/fc09ccee4cffe93f81c73537862b0432/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/719be01c81c645e0610855b6a541fec0/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/719be01c81c645e0610855b6a541fec0/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/a4ff31aed37cab116965b5b5b82a935e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/a4ff31aed37cab116965b5b5b82a935e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/25d2c40c504e0b2be6dbdebb37eaa5d8/transformed/jetified-play-services-measurement-sdk-22.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/25d2c40c504e0b2be6dbdebb37eaa5d8/transformed/jetified-play-services-measurement-sdk-22.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/276e99057b059fb67079ad1184d1b831/transformed/jetified-play-services-measurement-impl-22.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/276e99057b059fb67079ad1184d1b831/transformed/jetified-play-services-measurement-impl-22.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/inialdan/.gradle/caches/transforms-3/77bc3f1a4fab14272c0060dd99c617e7/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/inialdan/.gradle/caches/transforms-3/77bc3f1a4fab14272c0060dd99c617e7/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/1804a15cff1c25b6b67e6ba66a3dbe3c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/1804a15cff1c25b6b67e6ba66a3dbe3c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/40511437ca6a301f96a75ecf0186ef83/transformed/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/40511437ca6a301f96a75ecf0186ef83/transformed/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/f561fc4196f3a6ebc896a257034627a7/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/f561fc4196f3a6ebc896a257034627a7/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/70bb205b8b45b649ce4b21ea7b25234b/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/70bb205b8b45b649ce4b21ea7b25234b/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/445041fcc9a2c8dff7f76d7aee83d64e/transformed/jetified-play-services-measurement-sdk-api-22.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/445041fcc9a2c8dff7f76d7aee83d64e/transformed/jetified-play-services-measurement-sdk-api-22.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/438199e3fb9cdf2a64a570cccd8510f3/transformed/jetified-play-services-measurement-base-22.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/438199e3fb9cdf2a64a570cccd8510f3/transformed/jetified-play-services-measurement-base-22.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/inialdan/.gradle/caches/transforms-3/d9b595321004835f6e306ce65186a712/transformed/jetified-firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/inialdan/.gradle/caches/transforms-3/d9b595321004835f6e306ce65186a712/transformed/jetified-firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/inialdan/.gradle/caches/transforms-3/0c6441b670e2b5e8f0169e0ef80f7c0b/transformed/jetified-ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/inialdan/.gradle/caches/transforms-3/0c6441b670e2b5e8f0169e0ef80f7c0b/transformed/jetified-ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/inialdan/.gradle/caches/transforms-3/d5e12cc323330a2d22fa25af6ba729b6/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/inialdan/.gradle/caches/transforms-3/d5e12cc323330a2d22fa25af6ba729b6/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/inialdan/.gradle/caches/transforms-3/e6dc185329a16e44c8ab5ef2457a82cd/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/inialdan/.gradle/caches/transforms-3/e6dc185329a16e44c8ab5ef2457a82cd/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/inialdan/.gradle/caches/transforms-3/e8b07162346e8ddcfe81c11cc324f86b/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/inialdan/.gradle/caches/transforms-3/e8b07162346e8ddcfe81c11cc324f86b/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/inialdan/.gradle/caches/transforms-3/bd6083813fb3e2ee3b8320f83044afff/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/inialdan/.gradle/caches/transforms-3/bd6083813fb3e2ee3b8320f83044afff/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/inialdan/.gradle/caches/transforms-3/ee49e1a4f422c1cbd801f826c38e95a5/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/inialdan/.gradle/caches/transforms-3/ee49e1a4f422c1cbd801f826c38e95a5/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/ccd1083db8197d6f8ece4fc44f56b511/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/ccd1083db8197d6f8ece4fc44f56b511/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/449540dff873a253e31bcec8cca0fc31/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/449540dff873a253e31bcec8cca0fc31/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/9dfad17dd0e554791893bd3677154ce9/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/9dfad17dd0e554791893bd3677154ce9/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/270fcf69c3e215301a3a5a01819cf668/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/270fcf69c3e215301a3a5a01819cf668/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/951b8f7796a7974a7a7c80466c05a1cb/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/951b8f7796a7974a7a7c80466c05a1cb/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/d5e4b663a4d252cbb80a04b9885958c7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/d5e4b663a4d252cbb80a04b9885958c7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/fd22c885f3fa82a0e79b298c21dab07e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/fd22c885f3fa82a0e79b298c21dab07e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/901c2ddf06465381bde2cd51625c954e/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/901c2ddf06465381bde2cd51625c954e/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/6f114d13244ba164471934003f535a1e/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/6f114d13244ba164471934003f535a1e/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/feb071e5fef1773426430e7d3f8d1c1a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/feb071e5fef1773426430e7d3f8d1c1a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/36e4926b7d36675fb71585f931da194d/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/36e4926b7d36675fb71585f931da194d/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.1.0] /Users/inialdan/.gradle/caches/transforms-3/29927596afcc0e9d312e9697bf8e98d6/transformed/jetified-butterknife-runtime-10.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.1.0] /Users/inialdan/.gradle/caches/transforms-3/29927596afcc0e9d312e9697bf8e98d6/transformed/jetified-butterknife-runtime-10.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/5e6cbdb187aea3834195ce84d52c543f/transformed/jetified-firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/5e6cbdb187aea3834195ce84d52c543f/transformed/jetified-firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/1454d5be31c8061e461be51e8f419c0b/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/1454d5be31c8061e461be51e8f419c0b/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/inialdan/.gradle/caches/transforms-3/142966a1285dc23b27edf56f69eb1e60/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/inialdan/.gradle/caches/transforms-3/142966a1285dc23b27edf56f69eb1e60/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/inialdan/.gradle/caches/transforms-3/c92dfd0eb03c4f9828c6919cb026cb38/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/inialdan/.gradle/caches/transforms-3/c92dfd0eb03c4f9828c6919cb026cb38/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/inialdan/.gradle/caches/transforms-3/8570f29ed538da665950818142e194f8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/inialdan/.gradle/caches/transforms-3/8570f29ed538da665950818142e194f8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/inialdan/.gradle/caches/transforms-3/ae74a1da37ac476db84895266f83853e/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/inialdan/.gradle/caches/transforms-3/ae74a1da37ac476db84895266f83853e/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/inialdan/.gradle/caches/transforms-3/575f7838e8cd037820ceedd8e7cf4a14/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/inialdan/.gradle/caches/transforms-3/575f7838e8cd037820ceedd8e7cf4a14/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/2661205c926fd3fffbc6c150cc48e177/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/2661205c926fd3fffbc6c150cc48e177/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/inialdan/.gradle/caches/transforms-3/7e05a39fae3c59f38f70b7a0b854b5b7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/inialdan/.gradle/caches/transforms-3/7e05a39fae3c59f38f70b7a0b854b5b7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/inialdan/.gradle/caches/transforms-3/41f6052a15496c35f2599871ff1b0475/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/inialdan/.gradle/caches/transforms-3/41f6052a15496c35f2599871ff1b0475/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/inialdan/.gradle/caches/transforms-3/7922ee01da11ab3294d6d65bd1a361e9/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/inialdan/.gradle/caches/transforms-3/7922ee01da11ab3294d6d65bd1a361e9/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] /Users/inialdan/.gradle/caches/transforms-3/9a9cf37182fc635c8f3ae7dab3494e52/transformed/jetified-android-gif-drawable-1.2.10/AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] /Users/inialdan/.gradle/caches/transforms-3/9a9cf37182fc635c8f3ae7dab3494e52/transformed/jetified-android-gif-drawable-1.2.10/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/inialdan/.gradle/caches/transforms-3/5e1cd13c3841c6350f51329c2be2681e/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/inialdan/.gradle/caches/transforms-3/5e1cd13c3841c6350f51329c2be2681e/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
 		INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9626b49bd47f494a513b163182791600/transformed/design-26.1.0/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/ebd113492d6ddf5e664faeb64aa73459/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/ebd113492d6ddf5e664faeb64aa73459/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9e27bd06da2e44f3bf4fdc7f37ce4ff2/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9e27bd06da2e44f3bf4fdc7f37ce4ff2/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/3010685c875fef647dd17b19edfece62/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/3010685c875fef647dd17b19edfece62/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:cardview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/bf5122a43b2d350d9604590cb5932f43/transformed/cardview-v7-26.1.0/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:cardview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/bf5122a43b2d350d9604590cb5932f43/transformed/cardview-v7-26.1.0/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/5430a969064011db70fdb9a4e1722fe7/transformed/transition-26.1.0/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/5430a969064011db70fdb9a4e1722fe7/transformed/transition-26.1.0/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/d22178664aaf30b70fd19681a7f7bbec/transformed/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/d22178664aaf30b70fd19681a7f7bbec/transformed/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/b6b9b24be6de7d2ef3d500174ab56368/transformed/recyclerview-v7-26.1.0/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/b6b9b24be6de7d2ef3d500174ab56368/transformed/recyclerview-v7-26.1.0/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/915a8a99d5b74a06ff5ea58c18910179/transformed/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/915a8a99d5b74a06ff5ea58c18910179/transformed/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/1ee55d0be3f21af727af7e4092646091/transformed/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/1ee55d0be3f21af727af7e4092646091/transformed/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/31eb76323bbe2ca1d4052cf33bdf7cf0/transformed/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/31eb76323bbe2ca1d4052cf33bdf7cf0/transformed/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/f825f43f1641db09baa995fb4e6a840c/transformed/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/f825f43f1641db09baa995fb4e6a840c/transformed/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/dfdea12cbb28d2e216445073c95e4f74/transformed/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/dfdea12cbb28d2e216445073c95e4f74/transformed/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
-	android:value
-		ADDED from [com.android.support:design:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9626b49bd47f494a513b163182791600/transformed/design-26.1.0/AndroidManifest.xml:28:13-35
-	android:name
-		ADDED from [com.android.support:design:26.1.0] /Users/inialdan/.gradle/caches/transforms-3/9626b49bd47f494a513b163182791600/transformed/design-26.1.0/AndroidManifest.xml:27:13-51
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [com.daimajia.slider:library:1.1.5] /Users/inialdan/.gradle/caches/transforms-3/975c50433f25134731376ce9e7c703e0/transformed/library-1.1.5/AndroidManifest.xml:12:5-81
+ADDED from [com.daimajia.slider:library:1.1.5] /Users/inialdan/.gradle/caches/transforms-3/74d64f8ca2068ccf728458cde41d6ead/transformed/jetified-library-1.1.5/AndroidManifest.xml:12:5-81
 	android:name
-		ADDED from [com.daimajia.slider:library:1.1.5] /Users/inialdan/.gradle/caches/transforms-3/975c50433f25134731376ce9e7c703e0/transformed/library-1.1.5/AndroidManifest.xml:12:22-78
+		ADDED from [com.daimajia.slider:library:1.1.5] /Users/inialdan/.gradle/caches/transforms-3/74d64f8ca2068ccf728458cde41d6ead/transformed/jetified-library-1.1.5/AndroidManifest.xml:12:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 IMPLIED from /Users/inialdan/Documents/AndroidStudio/matematriks/app/src/main/AndroidManifest.xml:20:1-158:12 reason: com.daimajia.slider.library requested WRITE_EXTERNAL_STORAGE
-meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/2d14652397b451d5eef3855e9a27ad9d/transformed/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
-	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/2d14652397b451d5eef3855e9a27ad9d/transformed/runtime-1.0.0/AndroidManifest.xml:27:13-44
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/09fc9e2d3b989bd925cdd5806a8558d4/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/09fc9e2d3b989bd925cdd5806a8558d4/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/276e99057b059fb67079ad1184d1b831/transformed/jetified-play-services-measurement-impl-22.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/276e99057b059fb67079ad1184d1b831/transformed/jetified-play-services-measurement-impl-22.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/445041fcc9a2c8dff7f76d7aee83d64e/transformed/jetified-play-services-measurement-sdk-api-22.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/445041fcc9a2c8dff7f76d7aee83d64e/transformed/jetified-play-services-measurement-sdk-api-22.0.2/AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/inialdan/.gradle/caches/transforms-3/2d14652397b451d5eef3855e9a27ad9d/transformed/runtime-1.0.0/AndroidManifest.xml:26:13-58
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/276e99057b059fb67079ad1184d1b831/transformed/jetified-play-services-measurement-impl-22.0.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/276e99057b059fb67079ad1184d1b831/transformed/jetified-play-services-measurement-impl-22.0.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/445041fcc9a2c8dff7f76d7aee83d64e/transformed/jetified-play-services-measurement-sdk-api-22.0.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/445041fcc9a2c8dff7f76d7aee83d64e/transformed/jetified-play-services-measurement-sdk-api-22.0.2/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/276e99057b059fb67079ad1184d1b831/transformed/jetified-play-services-measurement-impl-22.0.2/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/276e99057b059fb67079ad1184d1b831/transformed/jetified-play-services-measurement-impl-22.0.2/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/70bb205b8b45b649ce4b21ea7b25234b/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/70bb205b8b45b649ce4b21ea7b25234b/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/445041fcc9a2c8dff7f76d7aee83d64e/transformed/jetified-play-services-measurement-sdk-api-22.0.2/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/445041fcc9a2c8dff7f76d7aee83d64e/transformed/jetified-play-services-measurement-sdk-api-22.0.2/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/445041fcc9a2c8dff7f76d7aee83d64e/transformed/jetified-play-services-measurement-sdk-api-22.0.2/AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/445041fcc9a2c8dff7f76d7aee83d64e/transformed/jetified-play-services-measurement-sdk-api-22.0.2/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/445041fcc9a2c8dff7f76d7aee83d64e/transformed/jetified-play-services-measurement-sdk-api-22.0.2/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/445041fcc9a2c8dff7f76d7aee83d64e/transformed/jetified-play-services-measurement-sdk-api-22.0.2/AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:27:22-79
+property
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:30:9-32:61
+	android:resource
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:31:13-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/09fc9e2d3b989bd925cdd5806a8558d4/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/09fc9e2d3b989bd925cdd5806a8558d4/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/fc09ccee4cffe93f81c73537862b0432/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/fc09ccee4cffe93f81c73537862b0432/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/719be01c81c645e0610855b6a541fec0/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/719be01c81c645e0610855b6a541fec0/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:36:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/719be01c81c645e0610855b6a541fec0/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/719be01c81c645e0610855b6a541fec0/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:35:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:37:13-39:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:39:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/c241ebe34fed9f8a3d5c0639de7a521a/transformed/jetified-play-services-measurement-api-22.0.2/AndroidManifest.xml:38:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/09fc9e2d3b989bd925cdd5806a8558d4/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/09fc9e2d3b989bd925cdd5806a8558d4/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/09fc9e2d3b989bd925cdd5806a8558d4/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/09fc9e2d3b989bd925cdd5806a8558d4/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/09fc9e2d3b989bd925cdd5806a8558d4/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/inialdan/.gradle/caches/transforms-3/09fc9e2d3b989bd925cdd5806a8558d4/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/fc09ccee4cffe93f81c73537862b0432/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/fc09ccee4cffe93f81c73537862b0432/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/fc09ccee4cffe93f81c73537862b0432/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/719be01c81c645e0610855b6a541fec0/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/719be01c81c645e0610855b6a541fec0/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/719be01c81c645e0610855b6a541fec0/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/719be01c81c645e0610855b6a541fec0/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/719be01c81c645e0610855b6a541fec0/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/719be01c81c645e0610855b6a541fec0/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/719be01c81c645e0610855b6a541fec0/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/719be01c81c645e0610855b6a541fec0/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/inialdan/.gradle/caches/transforms-3/719be01c81c645e0610855b6a541fec0/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:36:17-109
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/276e99057b059fb67079ad1184d1b831/transformed/jetified-play-services-measurement-impl-22.0.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/276e99057b059fb67079ad1184d1b831/transformed/jetified-play-services-measurement-impl-22.0.2/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.2] /Users/inialdan/.gradle/caches/transforms-3/f5e00e585b40287c0637f57f1e0e5392/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:40:13-87
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/inialdan/.gradle/caches/transforms-3/d5e12cc323330a2d22fa25af6ba729b6/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/inialdan/.gradle/caches/transforms-3/d5e12cc323330a2d22fa25af6ba729b6/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/inialdan/.gradle/caches/transforms-3/d5e12cc323330a2d22fa25af6ba729b6/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/inialdan/.gradle/caches/transforms-3/bd6083813fb3e2ee3b8320f83044afff/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/inialdan/.gradle/caches/transforms-3/bd6083813fb3e2ee3b8320f83044afff/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/inialdan/.gradle/caches/transforms-3/bd6083813fb3e2ee3b8320f83044afff/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:6:20-65
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/inialdan/.gradle/caches/transforms-3/c92dfd0eb03c4f9828c6919cb026cb38/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/inialdan/.gradle/caches/transforms-3/c92dfd0eb03c4f9828c6919cb026cb38/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/inialdan/.gradle/caches/transforms-3/c92dfd0eb03c4f9828c6919cb026cb38/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#inialdan.com.matematriks.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/inialdan/.gradle/caches/transforms-3/c92dfd0eb03c4f9828c6919cb026cb38/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/inialdan/.gradle/caches/transforms-3/c92dfd0eb03c4f9828c6919cb026cb38/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/inialdan/.gradle/caches/transforms-3/c92dfd0eb03c4f9828c6919cb026cb38/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/inialdan/.gradle/caches/transforms-3/c92dfd0eb03c4f9828c6919cb026cb38/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/inialdan/.gradle/caches/transforms-3/c92dfd0eb03c4f9828c6919cb026cb38/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#inialdan.com.matematriks.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/inialdan/.gradle/caches/transforms-3/c92dfd0eb03c4f9828c6919cb026cb38/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/inialdan/.gradle/caches/transforms-3/c92dfd0eb03c4f9828c6919cb026cb38/transformed/core-1.9.0/AndroidManifest.xml:26:22-94

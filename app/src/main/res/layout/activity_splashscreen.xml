@@ -17,6 +17,7 @@
         app:srcCompat="@drawable/ic_matrix_scene"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
+        android:tint="@color/white"
         android:layout_marginTop="100dp"
         android:contentDescription="TODO" />
 

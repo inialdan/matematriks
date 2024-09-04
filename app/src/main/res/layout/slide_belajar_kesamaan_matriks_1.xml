@@ -16,7 +16,7 @@
             android:layout_height="wrap_content"
             android:text="@string/TandaMatriks"
             android:textAlignment="center"
-            android:textSize="90dp"/>
+            android:textSize="90dp" />
 
         <TextView
             android:layout_width="wrap_content"

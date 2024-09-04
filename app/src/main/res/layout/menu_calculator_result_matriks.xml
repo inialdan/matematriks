@@ -1,13 +1,11 @@
-<FrameLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical"
     android:visibility="visible">
 
-    <android.support.v7.widget.CardView
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         card_view:cardElevation="2dp"
@@ -37,25 +35,25 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignStart="@+id/OpenKurungT"
+                android:layout_alignLeft="@+id/OpenKurungT"
                 android:layout_alignTop="@+id/Result_Matriks"
-                android:text="Transpose"
                 android:layout_marginLeft="5dp"
+                android:text="Transpose"
                 android:textColor="#040404"
                 android:textSize="21sp"
                 android:textStyle="bold"
-                android:typeface="sans"
-                android:layout_alignLeft="@+id/OpenKurungT" />
+                android:typeface="sans" />
 
             <TextView
                 android:id="@+id/OpenKurung"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentStart="true"
                 android:layout_below="@+id/lblMatriks"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
                 android:text="["
                 android:textColor="#343434"
-                android:textSize="75sp"
-                android:layout_alignParentLeft="true" />
+                android:textSize="75sp" />
 
             <TextView
                 android:id="@+id/CloseKurung"
@@ -64,22 +62,22 @@
                 android:layout_below="@+id/lblMatriks"
                 android:layout_marginLeft="10dp"
                 android:layout_toEndOf="@+id/tRealM12"
+                android:layout_toRightOf="@+id/tRealM12"
                 android:text="]"
                 android:textColor="#343434"
-                android:textSize="75sp"
-                android:layout_toRightOf="@+id/tRealM12" />
+                android:textSize="75sp" />
 
             <TextView
                 android:id="@+id/tRealM11"
                 android:layout_width="wrap_content"
                 android:layout_height="25dp"
                 android:layout_alignStart="@+id/tRealM21"
+                android:layout_alignLeft="@+id/tRealM21"
                 android:layout_alignTop="@+id/OpenKurung"
                 android:layout_marginTop="33dp"
                 android:text="M11"
                 android:textColor="#343434"
-                android:textSize="15sp"
-                android:layout_alignLeft="@+id/tRealM21" />
+                android:textSize="15sp" />
 
             <TextView
                 android:id="@+id/tRealM12"
@@ -89,10 +87,10 @@
                 android:layout_alignBottom="@+id/tRealM11"
                 android:layout_marginLeft="20dp"
                 android:layout_toEndOf="@+id/tRealM11"
+                android:layout_toRightOf="@+id/tRealM11"
                 android:text="M12"
                 android:textColor="#343434"
-                android:textSize="15sp"
-                android:layout_toRightOf="@+id/tRealM11" />
+                android:textSize="15sp" />
 
             <TextView
                 android:id="@+id/tRealM21"
@@ -101,21 +99,21 @@
                 android:layout_below="@+id/tRealM11"
                 android:layout_marginLeft="10dp"
                 android:layout_toEndOf="@+id/OpenKurung"
+                android:layout_toRightOf="@+id/OpenKurung"
                 android:text="M21"
                 android:textColor="#343434"
-                android:textSize="15sp"
-                android:layout_toRightOf="@+id/OpenKurung" />
+                android:textSize="15sp" />
 
             <TextView
                 android:id="@+id/tRealM22"
                 android:layout_width="wrap_content"
                 android:layout_height="25dp"
-                android:layout_alignStart="@+id/tRealM12"
                 android:layout_below="@+id/tRealM12"
+                android:layout_alignStart="@+id/tRealM12"
+                android:layout_alignLeft="@+id/tRealM12"
                 android:text="M22"
                 android:textColor="#343434"
-                android:textSize="15sp"
-                android:layout_alignLeft="@+id/tRealM12" />
+                android:textSize="15sp" />
 
             <TextView
                 android:id="@+id/OpenKurungT"
@@ -135,22 +133,22 @@
                 android:layout_below="@+id/lblMatriks"
                 android:layout_marginLeft="10dp"
                 android:layout_toEndOf="@+id/tRealM12T"
+                android:layout_toRightOf="@+id/tRealM12T"
                 android:text="]"
                 android:textColor="#343434"
-                android:textSize="75sp"
-                android:layout_toRightOf="@+id/tRealM12T" />
+                android:textSize="75sp" />
 
             <TextView
                 android:id="@+id/tRealM11T"
                 android:layout_width="wrap_content"
                 android:layout_height="25dp"
                 android:layout_alignStart="@+id/tRealM21T"
+                android:layout_alignLeft="@+id/tRealM21T"
                 android:layout_alignTop="@+id/OpenKurungT"
                 android:layout_marginTop="33dp"
                 android:text="M11"
                 android:textColor="#343434"
-                android:textSize="15sp"
-                android:layout_alignLeft="@+id/tRealM21T" />
+                android:textSize="15sp" />
 
             <TextView
                 android:id="@+id/tRealM12T"
@@ -160,10 +158,10 @@
                 android:layout_alignBottom="@+id/tRealM11T"
                 android:layout_marginLeft="20dp"
                 android:layout_toEndOf="@+id/tRealM11T"
+                android:layout_toRightOf="@+id/tRealM11T"
                 android:text="M12"
                 android:textColor="#343434"
-                android:textSize="15sp"
-                android:layout_toRightOf="@+id/tRealM11T" />
+                android:textSize="15sp" />
 
             <TextView
                 android:id="@+id/tRealM21T"
@@ -172,40 +170,40 @@
                 android:layout_below="@+id/tRealM11T"
                 android:layout_marginLeft="10dp"
                 android:layout_toEndOf="@+id/OpenKurungT"
+                android:layout_toRightOf="@+id/OpenKurungT"
                 android:text="M21"
                 android:textColor="#343434"
-                android:textSize="15sp"
-                android:layout_toRightOf="@+id/OpenKurungT" />
+                android:textSize="15sp" />
 
             <TextView
                 android:id="@+id/tRealM22T"
                 android:layout_width="wrap_content"
                 android:layout_height="25dp"
-                android:layout_alignStart="@+id/tRealM12T"
                 android:layout_below="@+id/tRealM12T"
+                android:layout_alignStart="@+id/tRealM12T"
+                android:layout_alignLeft="@+id/tRealM12T"
                 android:text="M22"
                 android:textColor="#343434"
-                android:textSize="15sp"
-                android:layout_alignLeft="@+id/tRealM12T" />
+                android:textSize="15sp" />
 
             <TextView
                 android:id="@+id/Description"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:layout_alignParentStart="true"
                 android:layout_below="@+id/OpenKurung"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
                 android:layout_marginTop="20dp"
                 android:text="@string/description_matriks_1"
                 android:textColor="#343434"
-                android:textSize="12sp"
-                android:layout_alignParentLeft="true" />
+                android:textSize="12sp" />
 
             <TextView
                 android:id="@+id/Result_Matriks"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentRight="true"
                 android:layout_alignTop="@id/lblMatriks"
+                android:layout_alignParentRight="true"
                 android:gravity="right"
                 android:text="Hasil Matriksnya"
                 android:textSize="10sp"
@@ -216,8 +214,8 @@
                 android:id="@+id/Baskom"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentRight="true"
                 android:layout_alignTop="@id/tRealM22"
+                android:layout_alignParentRight="true"
                 android:layout_marginTop="-5dp"
                 android:gravity="right"
                 android:text="Baris Kolom"
@@ -227,5 +225,5 @@
 
 
         </RelativeLayout>
-    </android.support.v7.widget.CardView>
+    </androidx.cardview.widget.CardView>
 </FrameLayout>

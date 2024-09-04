@@ -20,13 +20,13 @@ apply plugin: 'com.google.gms.google-services'
 // Version Information
 def versionMajor = 1
 def versionMinor = 0
-def versionPatch = 1
+def versionPatch = 3
 
 android {
     namespace = "inialdan.com.matematriks"
 
     compileSdkVersion 34
-    buildToolsVersion "27.0.0"
+    buildToolsVersion "33.0.1"
     defaultConfig {
         applicationId "inialdan.com.matematriks"
         minSdkVersion 21
@@ -97,6 +97,8 @@ dependencies {
     implementation "com.jpardogo.googleprogressbar:library:1.2.0"
 
     implementation 'com.jakewharton:butterknife:10.1.0'
+    implementation 'androidx.coordinatorlayout:coordinatorlayout:1.2.0'
+    implementation 'androidx.cardview:cardview:1.0.0'
     annotationProcessor 'com.jakewharton:butterknife-compiler:10.1.0'
 
     implementation 'com.github.tibolte:elasticdownload:1.0.+'
